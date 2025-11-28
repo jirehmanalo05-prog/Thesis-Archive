@@ -64,6 +64,24 @@ export function SiteHeader() {
           >
            HUMSS Theses
           </Link>
+          <Link
+            className="transition hover:text-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
+            href="/eim"
+          >
+           EIM Theses
+          </Link>
+          <Link
+            className="transition hover:text-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
+            href="/he"
+          >
+           HE Theses
+          </Link>
+          <Link
+            className="transition hover:text-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
+            href="/smaw"
+          >
+           SMAW Theses
+          </Link>
         </nav>
 
         <div className="flex items-center gap-3">
