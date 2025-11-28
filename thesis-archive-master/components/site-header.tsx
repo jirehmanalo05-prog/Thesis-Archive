@@ -42,6 +42,18 @@ export function SiteHeader() {
           </Link>
           <Link
             className="transition hover:text-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
+            href="/stem"
+          >
+            STEM Theses
+          </Link>
+          <Link
+            className="transition hover:text-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
+            href="/abm"
+          >
+            ABM Theses
+          </Link>
+          <Link
+            className="transition hover:text-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
             href="/pbm"
           >
             PBM Theses
@@ -51,12 +63,6 @@ export function SiteHeader() {
             href="/humss"
           >
            HUMSS Theses
-          </Link>
-          <Link
-            className="transition hover:text-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
-            href="/abm"
-          >
-            ABM Theses
           </Link>
         </nav>
 
