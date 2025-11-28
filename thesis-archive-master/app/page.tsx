@@ -33,6 +33,22 @@ const strandInsights = [
       "Humanities and Social Sciences theses explore culture, communication, pedagogy, and social research that deepen our understanding of people and society.",
     icon: UsersIcon,
   },
+  {
+    title: "What is EIM?",
+    description:
+      "Humanities and Social Sciences theses explore culture, communication, pedagogy, and social research that deepen our understanding of people and society.",
+    icon: UsersIcon,
+  },{
+    title: "What is HE?",
+    description:
+      "Humanities and Social Sciences theses explore culture, communication, pedagogy, and social research that deepen our understanding of people and society.",
+    icon: UsersIcon,
+  },{
+    title: "What is SMAW?",
+    description:
+      "Humanities and Social Sciences theses explore culture, communication, pedagogy, and social research that deepen our understanding of people and society.",
+    icon: UsersIcon,
+  },
 ];
 
 export default function Home() {
