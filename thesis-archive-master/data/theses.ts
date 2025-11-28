@@ -136,7 +136,7 @@ export const theses: Thesis[] = [
     title: "Community-Based Tourism Revenue Manager",
     authors: ["Sam Yao", "Celine Ancheta"],
     year: 2021,
-    strand: "HUMSS",
+    strand: "ABM",
     abstract:
       "Targeting emerging eco-tourism towns, this project creates a lightweight revenue management framework that guides community councils in pricing tour bundles. Leveraging historical visitor counts, weather data, and transport availability, the model forecasts weekly demand and recommends dynamic price adjustments while preserving equitable earnings among partner households. Field tests in two coastal barangays increased average household tourism income by 18% without reducing visitor satisfaction. The thesis details governance agreements, training modules for local guides, and the ethical guardrails that prevent price gouging. Future work suggests integrating conservation impact metrics and cooperative-owned booking platforms.",
     thumbnail:
