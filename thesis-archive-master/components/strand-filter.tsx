@@ -51,6 +51,20 @@ const strands: Array<{
     Icon: BuildingOffice2Icon,
     href: "/eim",
   },
+   {
+    key: "HE",
+    label: "EIM Theses",
+    description: "Business strategy, finance, and community ventures.",
+    Icon: BuildingOffice2Icon,
+    href: "/he",
+  },
+   {
+    key: "SMAW",
+    label: "SMAW Theses",
+    description: "Business strategy, finance, and community ventures.",
+    Icon: BuildingOffice2Icon,
+    href: "/smaw",
+  },
 ];
 
 type StrandFilterProps = {
