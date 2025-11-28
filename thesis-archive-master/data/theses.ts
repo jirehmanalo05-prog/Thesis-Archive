@@ -1,4 +1,4 @@
-export type Strand = "ICT" | "STEM" | "ABM" | "PBM" | "HUMSS";
+export type Strand = "ICT" | "STEM" | "ABM" | "PBM" | "HUMSS" | "EIM" | "HE" | "SMAW";
 
 export interface Thesis {
   id: string;
