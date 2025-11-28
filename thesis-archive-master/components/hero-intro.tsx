@@ -55,6 +55,24 @@ export function HeroIntro() {
             >
               Explore HUMSS Theses
             </Link>
+             <Link
+              href="/eim"
+              className="inline-flex items-center justify-center rounded-full border border-border px-6 py-3 text-base font-semibold text-foreground transition hover:-translate-y-0.5 hover:border-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
+            >
+              Explore EIM Theses
+            </Link>
+            <Link
+              href="/he"
+              className="inline-flex items-center justify-center rounded-full border border-border px-6 py-3 text-base font-semibold text-foreground transition hover:-translate-y-0.5 hover:border-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
+            >
+              Explore HE Theses
+            </Link>
+            <Link
+              href="/smaw"
+              className="inline-flex items-center justify-center rounded-full border border-border px-6 py-3 text-base font-semibold text-foreground transition hover:-translate-y-0.5 hover:border-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
+            >
+              Explore SMAW Theses
+            </Link>
           </div>
           <dl className="flex flex-wrap gap-6 text-center sm:text-left">
             {stats.map((stat) => (
