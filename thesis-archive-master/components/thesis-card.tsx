@@ -9,6 +9,7 @@ type ThesisCardProps = {
 const strandColors: Record<Thesis["strand"], string> = {
   ICT: "bg-emerald-100 text-emerald-800 dark:bg-emerald-400/20 dark:text-emerald-200",
   PBM: "bg-amber-100 text-amber-800 dark:bg-amber-400/20 dark:text-amber-200",
+  HUMSS: "bg-sky-100 text-sky-800 dark:bg-sky-400/20 dark:text-sky-200",
 };
 
 export function ThesisCard({ thesis, onViewAbstract }: ThesisCardProps) {
