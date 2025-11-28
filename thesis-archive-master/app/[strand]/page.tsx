@@ -17,7 +17,7 @@ const strandConfig: Record<
   },
   stem: {
     key: "STEM",
-    title: "Information and Communications Technology",
+    title: "Science Technology Engineering Mathematics",
     excerpt:
       "Explore theses focused on software development, AI-driven solutions, networks, and human-computer interaction.",
     highlight: "Prototypes, immersive learning, and digital infrastructure.",
