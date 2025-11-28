@@ -30,6 +30,13 @@ const strands: Array<{
     Icon: BuildingOffice2Icon,
     href: "/humss",
   },
+  {
+    key: "ABM",
+    label: "ABM Theses",
+    description: "Business strategy, finance, and community ventures.",
+    Icon: BuildingOffice2Icon,
+    href: "/abm",
+  },
 ];
 
 type StrandFilterProps = {
