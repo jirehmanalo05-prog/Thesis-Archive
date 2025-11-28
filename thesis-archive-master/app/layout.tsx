@@ -18,12 +18,12 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Thesis Archive",
   description:
-    "Browse curated ICT and PBM theses, read abstracts, and download PDFs.",
+    "Browse curated theses, read abstracts, and download PDFs.",
   metadataBase: new URL("https://thesis-archive.local"),
   openGraph: {
     title: "Thesis Archive",
     description:
-      "Discover ICT and PBM theses with abstracts, strands, and downloadable PDFs.",
+      "Discover theses with abstracts, strands, and downloadable PDFs.",
   },
 };
 
