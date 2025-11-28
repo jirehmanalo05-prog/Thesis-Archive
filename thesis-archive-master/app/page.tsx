@@ -10,6 +10,12 @@ const strandInsights = [
     icon: AcademicCapIcon,
   },
   {
+    title: "What is STEM?",
+    description:
+      "Information and Communications Technology theses tackle software engineering, intelligent systems, infrastructure, and immersive experiences that move our digital campus forward.",
+    icon: AcademicCapIcon,
+  },
+  {
     title: "What is ABM?",
     description:
       "Humanities and Social Sciences theses explore culture, communication, pedagogy, and social research that deepen our understanding of people and society.",
