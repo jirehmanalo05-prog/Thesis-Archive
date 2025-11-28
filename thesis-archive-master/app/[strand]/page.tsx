@@ -29,6 +29,13 @@ const strandConfig: Record<
       "Dive into business research covering finance, entrepreneurship, community ventures, and sustainable growth.",
     highlight: "Strategy blueprints, data-driven policies, and social impact.",
   },
+   abm: {
+    key: "ABM",
+    title: "Accountancy Business Management",
+    excerpt:
+      "Dive into business research covering finance, entrepreneurship, community ventures, and sustainable growth.",
+    highlight: "Strategy blueprints, data-driven policies, and social impact.",
+  },
 };
 
 type StrandPageProps = {
