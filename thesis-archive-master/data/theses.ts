@@ -1,4 +1,4 @@
-export type Strand = "ICT" | "PBM" | "HUMSS";
+export type Strand = "ICT" | "PBM" | "HUMSS" | "ABM";
 
 export interface Thesis {
   id: string;
@@ -121,6 +121,18 @@ export const theses: Thesis[] = [
   },
    {
     id: "humms-01",
+    title: "Community-Based Tourism Revenue Manager",
+    authors: ["Sam Yao", "Celine Ancheta"],
+    year: 2021,
+    strand: "HUMSS",
+    abstract:
+      "Targeting emerging eco-tourism towns, this project creates a lightweight revenue management framework that guides community councils in pricing tour bundles. Leveraging historical visitor counts, weather data, and transport availability, the model forecasts weekly demand and recommends dynamic price adjustments while preserving equitable earnings among partner households. Field tests in two coastal barangays increased average household tourism income by 18% without reducing visitor satisfaction. The thesis details governance agreements, training modules for local guides, and the ethical guardrails that prevent price gouging. Future work suggests integrating conservation impact metrics and cooperative-owned booking platforms.",
+    thumbnail:
+      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
+    pdfUrl: "/pdfs/thesis-08.pdf",
+  },
+  {
+    id: "abm-01",
     title: "Community-Based Tourism Revenue Manager",
     authors: ["Sam Yao", "Celine Ancheta"],
     year: 2021,
