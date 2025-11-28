@@ -10,6 +10,12 @@ const strandInsights = [
     icon: AcademicCapIcon,
   },
   {
+    title: "What is ABM?",
+    description:
+      "Humanities and Social Sciences theses explore culture, communication, pedagogy, and social research that deepen our understanding of people and society.",
+    icon: UsersIcon,
+  },
+  {
     title: "What is PBM?",
     description:
       "Principles of Business Management theses examine entrepreneurship, finance, sustainability, and organizational design to strengthen local industries and communities.",
@@ -17,12 +23,6 @@ const strandInsights = [
   },
   {
     title: "What is HUMSS?",
-    description:
-      "Humanities and Social Sciences theses explore culture, communication, pedagogy, and social research that deepen our understanding of people and society.",
-    icon: UsersIcon,
-  },
-  {
-    title: "What is ABM?",
     description:
       "Humanities and Social Sciences theses explore culture, communication, pedagogy, and social research that deepen our understanding of people and society.",
     icon: UsersIcon,
