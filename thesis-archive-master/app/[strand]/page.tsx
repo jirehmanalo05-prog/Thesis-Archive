@@ -15,6 +15,20 @@ const strandConfig: Record<
       "Explore theses focused on software development, AI-driven solutions, networks, and human-computer interaction.",
     highlight: "Prototypes, immersive learning, and digital infrastructure.",
   },
+  stem: {
+    key: "STEM",
+    title: "Information and Communications Technology",
+    excerpt:
+      "Explore theses focused on software development, AI-driven solutions, networks, and human-computer interaction.",
+    highlight: "Prototypes, immersive learning, and digital infrastructure.",
+  },
+  abm: {
+    key: "ABM",
+    title: "Accountancy Business Management",
+    excerpt:
+      "Dive into business research covering finance, entrepreneurship, community ventures, and sustainable growth.",
+    highlight: "Strategy blueprints, data-driven policies, and social impact.",
+  },
   pbm: {
     key: "PBM",
     title: "Pre-Baccalaureate Maritime",
@@ -25,13 +39,6 @@ const strandConfig: Record<
   humss: {
     key: "HUMSS",
     title: "Humanities and Social Sciences",
-    excerpt:
-      "Dive into business research covering finance, entrepreneurship, community ventures, and sustainable growth.",
-    highlight: "Strategy blueprints, data-driven policies, and social impact.",
-  },
-   abm: {
-    key: "ABM",
-    title: "Accountancy Business Management",
     excerpt:
       "Dive into business research covering finance, entrepreneurship, community ventures, and sustainable growth.",
     highlight: "Strategy blueprints, data-driven policies, and social impact.",
