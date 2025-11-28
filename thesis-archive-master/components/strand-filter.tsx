@@ -17,6 +17,20 @@ const strands: Array<{
     href: "/ict",
   },
   {
+    key: "STEM",
+    label: "STEM Theses",
+    description: "Business strategy, finance, and community ventures.",
+    Icon: BuildingOffice2Icon,
+    href: "/stem",
+  },
+  {
+    key: "ABM",
+    label: "ABM Theses",
+    description: "Business strategy, finance, and community ventures.",
+    Icon: BuildingOffice2Icon,
+    href: "/abm",
+  },
+  {
     key: "PBM",
     label: "PBM Theses",
     description: "Business strategy, finance, and community ventures.",
@@ -29,13 +43,6 @@ const strands: Array<{
     description: "Business strategy, finance, and community ventures.",
     Icon: BuildingOffice2Icon,
     href: "/humss",
-  },
-  {
-    key: "ABM",
-    label: "ABM Theses",
-    description: "Business strategy, finance, and community ventures.",
-    Icon: BuildingOffice2Icon,
-    href: "/abm",
   },
 ];
 
