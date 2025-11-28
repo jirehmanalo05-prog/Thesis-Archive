@@ -43,6 +43,27 @@ const strandConfig: Record<
       "Dive into business research covering finance, entrepreneurship, community ventures, and sustainable growth.",
     highlight: "Strategy blueprints, data-driven policies, and social impact.",
   },
+  eim: {
+    key: "EIM",
+    title: "Electrical Installation and Maintenance",
+    excerpt:
+      "Dive into business research covering finance, entrepreneurship, community ventures, and sustainable growth.",
+    highlight: "Strategy blueprints, data-driven policies, and social impact.",
+  },
+   he: {
+    key: "HE",
+    title: "Home Economics",
+    excerpt:
+      "Dive into business research covering finance, entrepreneurship, community ventures, and sustainable growth.",
+    highlight: "Strategy blueprints, data-driven policies, and social impact.",
+  },
+   smaw: {
+    key: "SMAW",
+    title: "Shielded Metal Arc Welding",
+    excerpt:
+      "Dive into business research covering finance, entrepreneurship, community ventures, and sustainable growth.",
+    highlight: "Strategy blueprints, data-driven policies, and social impact.",
+  },
 };
 
 type StrandPageProps = {
