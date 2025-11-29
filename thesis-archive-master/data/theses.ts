@@ -4,7 +4,7 @@ export interface Thesis {
   id: string;
   title: string;
   authors: string[];
-  year: number;
+  year: number | string;
   strand: Strand;
   abstract: string;
   thumbnail: string;
