@@ -7,7 +7,7 @@ export function SiteFooter() {
             Curated by Our Institution
           </p>
           <p className="text-sm text-muted-foreground">
-            A collaborative effort between the ICT and PBM departments to
+            A collaborative effort between strand departments to
             preserve scholarly work and spark new research partnerships.
           </p>
         </div>
