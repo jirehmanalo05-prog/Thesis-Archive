@@ -12,43 +12,43 @@ const strandInsights = [
   {
     title: "What is STEM?",
     description:
-      "STEM (Science, Technology, Engineering, Mathematics) – The strand for curious innovators ready to explore, experiment, and engineer the future.",
+      "(Science, Technology, Engineering, Mathematics) – The strand for curious innovators ready to explore, experiment, and engineer the future.",
     icon: AcademicCapIcon,
   },
   {
     title: "What is ABM?",
     description:
-      "ABM (Accountancy, Business, and Management) – Home of future entrepreneurs and leaders who turn ideas into success stories.",
+      "(Accountancy, Business, and Management) – Home of future entrepreneurs and leaders who turn ideas into success stories.",
     icon: UsersIcon,
   },
   {
     title: "What is PBM?",
     description:
-      "PBM (Pre-Baccalaureate Maritime) – Where future seafarers begin their voyage, mastering discipline, navigation, and the call of the open sea.",
+      "(Pre - Baccalaureate Maritime) – Where future seafarers begin their voyage, mastering discipline, navigation, and the call of the open sea.",
     icon: BriefcaseIcon,
   },
   {
     title: "What is HUMSS?",
     description:
-      "HUMSS (Humanities and Social Sciences) – The path for storytellers, thinkers, and advocates who want to shape society with words and wisdom.",
+      "(Humanities and Social Sciences) – The path for storytellers, thinkers, and advocates who want to shape society with words and wisdom.",
     icon: UsersIcon,
   },
   {
     title: "What is EIM?",
     description:
-      "EIM (Electrical Installation and Maintenance) – For hands that bring power to life—future electricians who keep systems running and lights shining.",
+      "(Electrical Installation and Maintenance) – For hands that bring power to life—future electricians who keep systems running and lights shining.",
     icon: UsersIcon,
   },
   {
     title: "What is HE?",
     description:
-      "HE (Home Economics) – Where future culinary creatives are born—crafting flavors, mastering kitchen skills, and turning passion for cooking into a profession.",
+      "(Home Economics) – Where future culinary creatives are born—crafting flavors, mastering kitchen skills, and turning passion for cooking into a profession.",
     icon: UsersIcon,
   },
   {
     title: "What is SMAW?",
     description:
-      "SMAW (Shielded Metal Arc Welding) – Where sparks fly and skills are forged, creating builders ready to weld the world into shape.",
+      "(Shielded Metal Arc Welding) – Where sparks fly and skills are forged, creating builders ready to weld the world into shape.",
     icon: UsersIcon,
   },
 ];
