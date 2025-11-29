@@ -19,7 +19,7 @@ export function HeroIntro() {
             Discover groundbreaking research from our academic community
           </h1>
           <p className="max-w-2xl text-lg text-muted-foreground">
-            This archive hosts theses from ICT and PBM strands, enabling quick
+            This archive hosts theses from academic strands, enabling quick
             browsing, abstract previews, and PDF downloads. Whether you are a
             student, mentor, or industry partner, use this library to stay
             inspired and bring new ideas into your next project.
