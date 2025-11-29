@@ -22,9 +22,6 @@ export function SiteHeader() {
           >
             Thesis Archive
           </Link>
-          <span className="hidden text-xs font-medium uppercase tracking-widest text-muted-foreground sm:inline">
-            ICT & PBM
-          </span>
         </div>
 
         <nav className="hidden items-center gap-6 text-sm font-medium text-muted-foreground sm:flex">
