@@ -12,56 +12,56 @@ const strandConfig: Record<
     key: "ICT",
     title: "Information and Communications Technology",
     excerpt:
-      "Explore theses focused on software development, AI-driven solutions, networks, and human-computer interaction.",
+      " Equips learners with essential digital skills, technical knowledge, and problem-solving abilities for modern technology-driven fields.",
     highlight: "Prototypes, immersive learning, and digital infrastructure.",
   },
   stem: {
     key: "STEM",
     title: "Science Technology Engineering Mathematics",
     excerpt:
-      "Explore theses focused on software development, AI-driven solutions, networks, and human-computer interaction.",
+      " Develops scientific reasoning and analytical thinking through the study of science, technology, engineering, and mathematics.",
     highlight: "Prototypes, immersive learning, and digital infrastructure.",
   },
   abm: {
     key: "ABM",
     title: "Accountancy Business Management",
     excerpt:
-      "Dive into business research covering finance, entrepreneurship, community ventures, and sustainable growth.",
+      "Trains students in financial literacy, entrepreneurship, and business management for future corporate or business careers.",
     highlight: "Strategy blueprints, data-driven policies, and social impact.",
   },
   pbm: {
     key: "PBM",
     title: "Pre-Baccalaureate Maritime",
     excerpt:
-      "Dive into business research covering finance, entrepreneurship, community ventures, and sustainable growth.",
+      " Prepares students for maritime education by building discipline, navigational awareness, and foundational seafaring knowledge.",
     highlight: "Strategy blueprints, data-driven policies, and social impact.",
   },
   humss: {
     key: "HUMSS",
     title: "Humanities and Social Sciences",
     excerpt:
-      "Dive into business research covering finance, entrepreneurship, community ventures, and sustainable growth.",
+      "Strengthens communication, critical thinking, and social understanding for fields involving human behavior and society.",
     highlight: "Strategy blueprints, data-driven policies, and social impact.",
   },
   eim: {
     key: "EIM",
     title: "Electrical Installation and Maintenance",
     excerpt:
-      "Dive into business research covering finance, entrepreneurship, community ventures, and sustainable growth.",
+      " Focuses on electrical installation, mechanical skills, and troubleshooting essential for technical and maintenance professions.",
     highlight: "Strategy blueprints, data-driven policies, and social impact.",
   },
    he: {
     key: "HE",
     title: "Home Economics",
     excerpt:
-      "Dive into business research covering finance, entrepreneurship, community ventures, and sustainable growth.",
+      " Teaches practical life skills in hospitality, culinary arts, and home management to prepare students for service-oriented careers.",
     highlight: "Strategy blueprints, data-driven policies, and social impact.",
   },
    smaw: {
     key: "SMAW",
     title: "Shielded Metal Arc Welding",
     excerpt:
-      "Dive into business research covering finance, entrepreneurship, community ventures, and sustainable growth.",
+      "Provides hands-on training in welding techniques, metal fabrication, and safety practices for industrial work.",
     highlight: "Strategy blueprints, data-driven policies, and social impact.",
   },
 };
