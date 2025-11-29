@@ -53,7 +53,7 @@ const strands: Array<{
   },
    {
     key: "HE",
-    label: "EIM Theses",
+    label: "HE Theses",
     description: "Practical, service-oriented, and creative.",
     Icon: BuildingOffice2Icon,
     href: "/he",
