@@ -91,7 +91,7 @@ export function HeroIntro() {
         <div className="relative">
           <div className="pointer-events-none absolute inset-4 rounded-3xl border border-white/30 opacity-40 blur-2xl" />
           <Image
-            src="https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?auto=format&fit=crop&w=900&q=80"
+            src="MainImage.jpg"
             alt="Students collaborating on research"
             width={900}
             height={700}
