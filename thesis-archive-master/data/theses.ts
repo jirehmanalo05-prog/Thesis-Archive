@@ -97,12 +97,12 @@ export const theses: Thesis[] = [
   },
   {
     id: "pbm-01",
-    title: "Digital Microfinance Readiness Index",
-    authors: ["Ivy Domingo", "Carlos Llamas"],
-    year: 2024,
+    title: "TRANSFORMING SALINE WATER INTO A SUSTAINABLE FRESHWATER RESOURCE: A PROCESS BENEFICIAL TO MARINERS ONBOARD",
+    authors: ["Casa, Krystel Marie C. Castillo", "Zedrick O. Datinguinoo", "Julie M. De Villa", "Giovanni M. Escalona", "Drew Zyvann A. "],
+    year: "March 2025" ,
     strand: "PBM",
     abstract:
-      "The thesis proposes a readiness index that helps rural cooperatives evaluate whether to adopt mobile microfinance services. Using a mixed-methods approach, the authors identify twenty capability indicators spanning regulatory compliance, borrower literacy, and liquidity resilience. Each indicator is weighted through analytic hierarchy processing with inputs from cooperative managers and fintech mentors. Pilots across five provinces reveal that data governance and agent training are the most common blockers to digital rollout. The study concludes with a toolkit that prioritizes interventions based on cost and projected membership impact, giving community lenders a pragmatic blueprint for staged adoption.",
+      "This study evaluates the effectiveness of "Oceanus Evo," a desalination system prototype, designed for maritime applications. The research assesses the prototype's performance in producing potable water, focusing on key metrics such as salinity removal and water production rate. The study employs a quantitative experimental design, utilizing laboratory testing and field simulations to gather data. The effectiveness of " Oceanus Evo" is analyzed through measurements volume of salt water, amount of salt produced, and volume of fresh water produced. The findings demonstrate Oceanus Evo's capability to effectively desalinate seawater, providing valuable data on its potential for practical implementation within the maritime industry. This research contributes to the development of sustainable water solutions for maritime environments, highlighting the potential of "Oceanus Evo" to address freshwater scarcity challenges.",
     thumbnail:
       "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=600&q=80",
     pdfUrl: "/pdfs/thesis-05.pdf",
