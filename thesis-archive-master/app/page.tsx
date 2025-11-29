@@ -6,49 +6,49 @@ const strandInsights = [
   {
     title: "What is ICT?",
     description:
-      "Information and Communications Technology theses tackle software engineering, intelligent systems, infrastructure, and immersive experiences that move our digital campus forward.",
+      "(Information and Communications Technology) - Tackle software engineering, intelligent systems, infrastructure, and immersive experiences that move our digital campus forward.",
     icon: AcademicCapIcon,
   },
   {
     title: "What is STEM?",
     description:
-      "Information and Communications Technology theses tackle software engineering, intelligent systems, infrastructure, and immersive experiences that move our digital campus forward.",
+      "STEM (Science, Technology, Engineering, Mathematics) – The strand for curious innovators ready to explore, experiment, and engineer the future.",
     icon: AcademicCapIcon,
   },
   {
     title: "What is ABM?",
     description:
-      "Humanities and Social Sciences theses explore culture, communication, pedagogy, and social research that deepen our understanding of people and society.",
+      "ABM (Accountancy, Business, and Management) – Home of future entrepreneurs and leaders who turn ideas into success stories.",
     icon: UsersIcon,
   },
   {
     title: "What is PBM?",
     description:
-      "Principles of Business Management theses examine entrepreneurship, finance, sustainability, and organizational design to strengthen local industries and communities.",
+      "PBM (Pre-Baccalaureate Maritime) – Where future seafarers begin their voyage, mastering discipline, navigation, and the call of the open sea.",
     icon: BriefcaseIcon,
   },
   {
     title: "What is HUMSS?",
     description:
-      "Humanities and Social Sciences theses explore culture, communication, pedagogy, and social research that deepen our understanding of people and society.",
+      "HUMSS (Humanities and Social Sciences) – The path for storytellers, thinkers, and advocates who want to shape society with words and wisdom.",
     icon: UsersIcon,
   },
   {
     title: "What is EIM?",
     description:
-      "Humanities and Social Sciences theses explore culture, communication, pedagogy, and social research that deepen our understanding of people and society.",
+      "EIM (Electrical Installation and Maintenance) – For hands that bring power to life—future electricians who keep systems running and lights shining.",
     icon: UsersIcon,
   },
   {
     title: "What is HE?",
     description:
-      "Humanities and Social Sciences theses explore culture, communication, pedagogy, and social research that deepen our understanding of people and society.",
+      "HE (Home Economics) – Where future culinary creatives are born—crafting flavors, mastering kitchen skills, and turning passion for cooking into a profession.",
     icon: UsersIcon,
   },
   {
     title: "What is SMAW?",
     description:
-      "Humanities and Social Sciences theses explore culture, communication, pedagogy, and social research that deepen our understanding of people and society.",
+      "SMAW (Shielded Metal Arc Welding) – Where sparks fly and skills are forged, creating builders ready to weld the world into shape.",
     icon: UsersIcon,
   },
 ];
