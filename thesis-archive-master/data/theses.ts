@@ -776,7 +776,7 @@ After throughout analysis interpretation of the data gathered, the following fin
       "‎Castillo,Mark Lorenz A.",
       "‎Panopio,Daryl H.",
       "‎Beloso,Marienel B.",
-      "‎Cabanes,Teajan E.',
+      "‎Cabanes,Teajan E.",
       "‎Corona,Kaye Erica M.",
       "‎Dalawampu,jane H.",
       "‎Dauba,windelyn P.",
