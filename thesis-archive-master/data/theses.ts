@@ -504,7 +504,7 @@ Device
       "Fadriquilan, Mark Joseph",
       "Gomez, Prince Cedrick",
       "Herrera, John Robin",
-      "Ilagan, "Jhon Howard",
+      "Ilagan, Jhon Howard",
      ],
     year: "March 2025",
     strand: "PBM",
