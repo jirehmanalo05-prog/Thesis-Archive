@@ -820,7 +820,7 @@ After throughout analysis interpretation of the data gathered, the following fin
   {
     id: "humss-12",
     title: "EFFECTS OF COMMUNITY EVENTS TO LOCAL ENGAGEMENT AND SOCIAL TIES AMONG THE RESIDENTS OF TALAGA EAST, MABINI BATANGAS",
-    authors: ["Jaybert A. Caguete", "Jozelle M." Calderon", "Samantha G. Aque", "Gerwin A. Manalo "],
+    authors: ["Jaybert A. Caguete", "Jozelle M. Calderon", "Samantha G. Aque", "Gerwin A. Manalo "],
     year: "March 2025",
     strand: "HUMSS",
     abstract:
