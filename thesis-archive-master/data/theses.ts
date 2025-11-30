@@ -23,7 +23,7 @@ export const theses: Thesis[] = [
           "Osorio, Ralph Lorenz",
           "Pellazar, Cristal Jane G.",
           "Reyes, Baby Ashley",
-          "Rotone, Isabelo R.
+          "Rotone, Isabelo R.",
         ],
         year: "March 2025",
         strand: "ICT",
