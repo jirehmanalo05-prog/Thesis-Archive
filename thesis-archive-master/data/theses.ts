@@ -98,7 +98,13 @@ export const theses: Thesis[] = [
   {
     id: "pbm-01",
     title: "TRANSFORMING SALINE WATER INTO A SUSTAINABLE FRESHWATER RESOURCE: A PROCESS BENEFICIAL TO MARINERS ONBOARD",
-    authors: ["Casa, Krystel Marie C. Castillo", "Zedrick O. Datinguinoo", "Julie M. De Villa", "Giovanni M. Escalona", "Drew Zyvann A. "],
+    authors: [
+      "Casa, Krystel Marie C.",
+      "Castillo, Zedrick O.",
+      "Datinguinoo, Julie M.",
+      "De Villa, Giovanni M.",
+      "Escalona, Drew Zyvann A.",
+    ],
     year: "March 2025" ,
     strand: "PBM",
     abstract:
@@ -110,7 +116,18 @@ export const theses: Thesis[] = [
   {
     id: "pbm-02",
     title: "Exploring the Potential of Coco Coir as Oil Spill Cleaner",
-    authors: ["Bantugon, Jonathan Anglo", "France Aloya, Leovy Asi", "Jan Elmer Ballester", "Jay Carlo Castillo", "Gian Corona", "Nhelmark Dalawampu", "Thristan Dalawampu", "Carl David De Mayo", "John Paolo "],
+    authors: [
+      "Bantugon, Jonathan",
+      "Anglo, France",
+      "Aloya, Leovy",
+      "Asi, Jan Elmer",
+      "Ballester, Jay Carlo",
+      "Castillo, Gian",
+      "Corona, Nhelmark",
+      "Dalawampu, Thristan",
+      "Dalawampu, Carl David",
+      "De Mayo, John Paolo",
+    ],
     year: "March 2025",
     strand: "PBM",
     abstract:
@@ -122,7 +139,13 @@ export const theses: Thesis[] = [
   {
     id: "pbm-03",
     title: "MARINER'S METAL AND NON-METAL RECOVERY: A KEY TO SUSTAINABILITY" ,
-    authors: ["Belen, Dionisio Jr. Magsino, Prince Luigi Lualhati, Clark Steeven Manalo, Winstone Maralit, Kim Justine"],
+    authors: [
+      "Belen, Dionisio Jr.",
+      "Magsino, Prince Luigi",
+      "Lualhati, Clark Steeven",
+      "Manalo, Winstone",
+      "Maralit, Kim Justine",
+     ],
     year: "March 2025",
     strand: "PBM",
     abstract:
@@ -139,7 +162,13 @@ Device
   {
     id: "pbm-04",
     title: "MARINE AC SYSTEM: IMPROVING CABIN'S AIR QUALITY" ,
-    authors: [": Manongsong, Josh Jhinsley Fadriquilan", "Mark Joseph Gomez", "Prince Cedrick Herrera", "John Robin Ilagan", "Jhon Howard "],
+    authors: [
+      "Manongsong, Josh Jhinsley",
+      "Fadriquilan, Mark Joseph",
+      "Gomez, Prince Cedrick",
+      "Herrera, John Robin",
+      "Ilagan, "Jhon Howard",
+     ],
     year: "March 2025",
     strand: "PBM",
     abstract:
@@ -154,7 +183,13 @@ Keywords: Marine AC System Maritime Industry
   {
     id: "pbm-05",
     title: "LOCALIZED SEABIN AS A SEAWATER CLEANER FOR MABINI" ,
-    authors: ["Baculo, Leoneil B. Magboo", "Jhon Erickson B. Magnaye", "Joshua C. Mendoza", "Led Grant Rauto", "Heide A. "],
+    authors: [
+      "Baculo, Leoneil B.",
+      "Magboo, Jhon Erickson B.",
+      "Magnaye, Joshua C.",
+      "Mendoza, Led Grant",
+      "Rauto, Heide A.",
+    ],
     year: "March 2018",
     strand: "PBM",
     abstract:
@@ -166,7 +201,14 @@ Keywords: Marine AC System Maritime Industry
   {
     id: "pbm-06",
     title: "Banana Trunk Fiber for Oil Spill Management " ,
-    authors: ["Cabral, Queen Althea Mari A. Canarias", "Juvy Danica R. Dela Cruz", "Jade Edison G. Delos Santos", "Meriah Jillean A. Fabila", "Arabele A. Flor", "Charline M."],
+    authors: [
+      "Cabral, Queen Althea Mari A.",
+      "Canarias, Juvy Danica R.",
+      "Dela Cruz, Jade Edison G.",
+      "Delos Santos, Meriah Jillean A.",
+      "Fabila, Arabele A.",
+      "Flor, Charline M.",
+    ],
     year: "April 2024",
     strand: "PBM",
     abstract:
@@ -178,7 +220,15 @@ Keywords: Marine AC System Maritime Industry
    {
     id: "humss-01",
     title: "THE PSYCHOLOGICAL EFFECT OF SOCIAL MEDIA USAGE IN ACADEMIC PERFORMANCE AMONG THE STUDENTS ON GIl HUMSS OF THE ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL",
-    authors: ["Beloso, Maria Erica I. Lopez, Veejay Arth N. Martinez, Ashley Marieze M. Matibag, Angel M. Maliglig, Lovely Thriscia P. Ramirez, Rommel O. Supan, Ralph Benzon A."],
+    authors: [
+      "Beloso, Maria Erica I.",
+      "Lopez, Veejay Arth N.",
+      "Martinez, Ashley Marieze M.",
+      "Matibag, Angel M.",
+      "Maliglig, Lovely Thriscia P.",
+      "Ramirez, Rommel O.",
+      "Supan, Ralph Benzon A.",
+    ],
     year: "March 2025",
     strand: "HUMSS",
     abstract:
@@ -190,7 +240,21 @@ Keywords: Marine AC System Maritime Industry
   {
     id: "humss-02",
     title: "EFFECTS OF COVID 19 PANDEMIC AS TO THE LEARNING QUALITY IN ENGLISH FOR ACADEMIC AND PROFESSIONAL PURPOSES AND SOCIAL ASPECTS AMONG GRADE 12 STUDENTS ",
-    authors: ["Cabello, Flavine Dhyll D. Albano, Prinz Carl A. Atkins, Rovick Andrei M. Siazon, Felix Daniel E. Umali, Shone Vince B. Alvarez, Veronica M. Audeje, Jobelle P. De Austria, Krisha Aleeson A. De Castro, Jean Angel M. Evangelista, Mary Ann R. Garcia, Andrea Criszel G. Garcia, Zyra Jane D. Verdadero, Kristine Faith R. "],
+    authors: [
+      "Cabello, Flavine Dhyll D.",
+      "Albano, Prinz Carl A.",
+      "Atkins, Rovick Andrei M.",
+      "Siazon, Felix Daniel E.",
+      "Umali, Shone Vince B.",
+      "Alvarez, Veronica M.",
+      "Audeje, Jobelle P.",
+      "De Austria, Krisha Aleeson A.",
+      "De Castro, Jean Angel M.",
+      "Evangelista, Mary Ann R.",
+      "Garcia, Andrea Criszel G.",
+      "Garcia, Zyra Jane D.",
+      "Verdadero, Kristine Faith R.",
+    ],
     year: "June 2023 ",
     strand: "HUMSS",
     abstract:
@@ -226,7 +290,19 @@ After throughout analysis interpretation of the data gathered, the following fin
   {
     id: "humss-03",
     title: "REPORT CARD RELEASING VIA QR CODE: AN EASY ACCESS TOOL ON GRADE VIEWING AMONG GRADE 12 AMETHYST STUDENTS IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL",
-    authors: ["Gonzales, Althea Rae Atienza, Kent Benedict Bisa, John Lloyd Bitancur, Arvy Marasigan, Dionel Navarro, Sam Bisa, Hanna Shiacey Matibag, Maybell Ann Mustaza, Lauren Grace Piguerra, Jillian Vissoro, Ma. Lea Jane"],
+    authors: [
+      "Gonzales, Althea Rae",
+      "Atienza, Kent Benedict",
+      "Bisa, John Lloyd",
+      "Bitancur, Arvy",
+      "Marasigan, Dionel",
+      "Navarro, Sam",
+      "Bisa, Hanna Shiacey",
+      "Matibag, Maybell Ann",
+      "Mustaza, Lauren Grace",
+      "Piguerra, Jillian",
+      "Vissoro, Ma. Lea Jane",
+    ],
     year: "April 2024",
     strand: "HUMSS",
     abstract:
@@ -238,7 +314,17 @@ After throughout analysis interpretation of the data gathered, the following fin
   {
     id: "humss-04",
     title: "STRESSORS IN MEDIA AND INFORMATION LITERACY AND ACADEMIC PERFORMANCE AMONG G12 AMETHYST STUDENTS IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
-    authors: ["Ortega, Gheann Kristine B. Baraquel, Stella Yvone D. Dote, Lovely Ann R. De Austria, Lea Z. Gonda, Heart V. Gonda, Josh M. Mańibo, Rona Marie C. Napeñas, Maria Aelleen M. Villanueva, Rowell M. "],
+    authors: [
+      "Ortega, Gheann Kristine B.",
+      "Baraquel, Stella Yvone D.",
+      "Dote, Lovely Ann R.",
+      "De Austria, Lea Z.",
+      "Gonda, Heart V.",
+      "Gonda, Josh M.",
+      "Mańibo, Rona Marie C.",
+      "Napeñas, Maria Aelleen M.",
+      "Villanueva, Rowell M.",
+    ],
     year: "April 2024",
     strand: "HUMSS",
     abstract:
@@ -250,7 +336,19 @@ After throughout analysis interpretation of the data gathered, the following fin
   {
     id: "humss-05",
     title: "THE ASSISTED CHAT GPT REVIEWER IN TRIPLE I: A TOOL TO QUICK MEMORY RETENTION AMONG GRADE 12-AMETHYST STUDENTS IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
-    authors: [" Pabelonia, Arman M. Bartolome, Christian Wayne Brucal, Lawrence Jay Balansag, Kenneth Chong, Nash Miano, John Paul An, Kate Berja, Kim Dianne llagan, Shiela Rose Recto, Jhana Velasquez, Mary Joy "],
+    authors: [
+      " Pabelonia, Arman M.",
+      "Bartolome, Christian Wayne",
+      "Brucal, Lawrence Jay",
+      "Balansag, Kenneth",
+      "Chong, Nash",
+      "Miano, John Paul",
+      "An, Kate",
+      "Berja, Kim Dianne",
+      "llagan, Shiela Rose",
+      "Recto, Jhana",
+      "Velasquez, Mary Joy ",
+    ],
     year: "April 2024",
     strand: "HUMSS",
     abstract:
@@ -262,7 +360,17 @@ After throughout analysis interpretation of the data gathered, the following fin
   {
     id: "humss-06",
     title: "Academic Performance Between Students of OFW Parent/s and of Non- OFW Parent's Among Grade 8 students of Anselmo A. Sandoval Memorial National High School. ",
-    authors: ["Eliah Florenne Baronia, Jovert Ansay, Billy De Torres, Joeffrey Emano, Krystel Flores, Princess Rose Herrera, Hazel Mendoza, Ma. Christine Reyes, Riza Villanueva"],
+    authors: [
+      "Eliah Florenne",
+      "Baronia, Jovert",
+      "Ansay, Billy",
+      "De Torres, Joeffrey",
+      "Emano, Krystel",
+      "Flores, Princess Rose",
+      "Herrera, Hazel",
+      "Mendoza, Ma. Christine",
+      "Reyes, Riza Villanueva",
+    ],
     year: "January 2018",
     strand: "HUMSS",
     abstract:
@@ -274,7 +382,20 @@ After throughout analysis interpretation of the data gathered, the following fin
   {
     id: "humss-07",
     title: "STRUGGLES ENCOUNTERED IN FACE-TO-FACE CLASSES IMPLEMENTATION AMONG THE GENDER OF GRADE 12 STUDENTS IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL",
-    authors: ["Marigondon Aliah C. Hernandez, Alexzandra D. Alolod, Neil Marc A. Castillo, Edsel H. Chua, Leonel M. Rodelas, Jaylord G. Belen, Madonna C. Castor, Kristine G. Dula, Ann Margaret M. Isla, Keziah Whesley B. Lopez, Princess Zaira R. Rublico, Nyrine O. "],
+    authors: [
+      "Marigondon Aliah C.",
+      "Hernandez, Alexzandra D.",
+      "Alolod, Neil Marc A.",
+      "Castillo, Edsel H.",
+      "Chua, Leonel M.",
+      "Rodelas, Jaylord G.",
+      "Belen, Madonna C.",
+      "Castor, Kristine G.",
+      "Dula, Ann Margaret M.",
+      "Isla, Keziah Whesley B.",
+      "Lopez, Princess Zaira R.",
+      "Rublico, Nyrine O. ",
+    ],
     year: "June 2023",
     strand: "HUMSS",
     abstract:
@@ -284,9 +405,21 @@ After throughout analysis interpretation of the data gathered, the following fin
     pdfUrl: "/pdfs/thesis-08.pdf",
   },
   {
-    id: "he-08",
+    id: "humss-08",
     title: "STRESSORS ENCOUNTERED IN PRACTICAL RESEARCH IN RELATION TO BEHAVIOR AMONG GRADE 12 STUDENTS, ACADEMIC TRACK IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
-    authors: ["Patricio, Marina M., Evangelista Airah C., Castillo lan Kirby R., Dela Cruz Michael Angelo A., Ebreo Rein Jenn D., Cabrera Cristine C.,Dalawampu Mikylla B. ,Evangelista Airah C. ,Manalo Patricia M. ,Manongsong Bea Crissets A., Panopio Angela Jade E."],
+    authors: [
+      "Patricio, Marina M.",
+      "Evangelista, Airah C.", 
+      "Castillo, lan Kirby R.",
+      "Dela Cruz, Michael Angelo A.",
+      "Ebreo Rein, Jenn D.",
+      "Cabrera, Cristine C.",
+      "Dalawampu, Mikylla B.",
+      "Evangelista, Airah C.",
+      "Manalo Patricia M.",
+      "Manongsong Bea Crissets A.",
+      "Panopio Angela Jade E.",
+    ],
     year: "June 2023 ",
     strand: "HUMSS",
     abstract:
@@ -298,7 +431,23 @@ After throughout analysis interpretation of the data gathered, the following fin
   {
     id: "humss-09",
     title: "Status of Working and Non-working students  Among Senior High School in Anselmo A. Sandoval Memorial National High School ",
-    authors: ["John froilan Mendoza ‎Abarquez,Jay R ‎Almario,Ralp Andrew D. ‎Baculo,Luke Andrei M. ‎Castillo,Mark Lorenz A. ‎ Panopio,Daryl H. ‎Beloso,Marienel B. ‎Cabanes,Teajan E. ‎Corona,Kaye Erica M. ‎Dalawampu,jane H. ‎Dauba,windelyn P. ‎Dela Cruz,Marjorie F. ‎Hernandez,Hazel G. ‎Laude,Venus larra Jane A. ‎Malayao,Hazel Mariel S."],
+    authors: [
+      "John froilan Mendoza",
+      "‎Abarquez,Jay R.",
+      "‎Almario,Ralp Andrew D.",
+      "‎Baculo,Luke Andrei M.",
+      "‎Castillo,Mark Lorenz A.",
+      "‎Panopio,Daryl H.",
+      "‎Beloso,Marienel B.",
+      "‎Cabanes,Teajan E.',
+      "‎Corona,Kaye Erica M.",
+      "‎Dalawampu,jane H.",
+      "‎Dauba,windelyn P.",
+      "‎Dela Cruz,Marjorie F.",
+      "‎Hernandez,Hazel G.",
+      "‎Laude,Venus larra Jane A.",
+      "‎Malayao,Hazel Mariel S.",
+    ],
     year: "June 2023",
     strand: "HUMSS",
     abstract:
@@ -310,7 +459,7 @@ After throughout analysis interpretation of the data gathered, the following fin
   {
     id: "humss-10",
     title: "THE PSYCHOLOGICAL EFFECT OF SOCIAL MEDIA USAGE IN ACADEMIC PERFORMANCE AMONG THE STUDENTS ON GIl HUMSS OF THE ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
-    authors: ["Beloso, Maria Erica I. Lopez, Veejay Arth N. Martinez, Ashley Marieze M. Matibag, Angel M. Maliglig, Lovely Thriscia P. Ramirez, Rommel O. Supan, Ralph Benzon A. "],
+    authors: ["Beloso, Maria Erica I."," Lopez, Veejay Arth N."," Martinez, Ashley Marieze M."," Matibag, Angel M."," Maliglig, Lovely Thriscia P."," Ramirez, Rommel O."," Supan, Ralph Benzon A. "],
     year: "March 2025",
     strand: "HUMSS",
     abstract:
@@ -322,7 +471,7 @@ After throughout analysis interpretation of the data gathered, the following fin
   {
     id: "humss-11",
     title: "THE PROBABILITY OF PASSING THE ENTRANCE EXAM IN BATANGAS STATE UNIVERSITY OF HUMSS STUDENT IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL",
-    authors: ["Aguilar, Angel C. Beloso, Mary Rose O. Espiritu, Jennyrose O. Mendoza, Erlyn Marie Z. Panopio, Ralph Lance M. Torres, Karen D. "],
+    authors: ["Aguilar, Angel C."," Beloso, Mary Rose O."," Espiritu, Jennyrose O."," Mendoza, Erlyn Marie Z."," Panopio, Ralph Lance M."," Torres, Karen D. "],
     year: "March 2025",
     strand: "HUMSS",
     abstract:
@@ -334,7 +483,7 @@ After throughout analysis interpretation of the data gathered, the following fin
   {
     id: "humss-12",
     title: "EFFECTS OF COMMUNITY EVENTS TO LOCAL ENGAGEMENT AND SOCIAL TIES AMONG THE RESIDENTS OF TALAGA EAST, MABINI BATANGAS",
-    authors: ["Jaybert A. Caguete, Jozelle M. Calderon, Samantha G. Aque, Gerwin A. Manalo "],
+    authors: ["Jaybert A. Caguete", "Jozelle M." Calderon", "Samantha G. Aque", "Gerwin A. Manalo "],
     year: "March 2025",
     strand: "HUMSS",
     abstract:
@@ -346,7 +495,7 @@ After throughout analysis interpretation of the data gathered, the following fin
   {
     id: "humss-13",
     title: "EFFECTS OF LEAST RANKED DIFFICULT SUBJECT TO STUDENTS GRADE 12 HUMSS STRAND IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL",
-    authors: ["Claro, Samuel T. Garcia, Airon C. Mitra, Joemel M. Santos, Kristine P.  "],
+    authors: ["Claro, Samuel T."," Garcia, Airon C."," Mitra, Joemel M."," Santos, Kristine P.  "],
     year: "March 2025",
     strand: "HUMSS",
     abstract:
@@ -358,7 +507,7 @@ After throughout analysis interpretation of the data gathered, the following fin
   {
     id: "humss-14",
     title: "EXAMINING THE ROLE OF TECHNOLOGY IN ENHANCING LEARNING OUTCOMES IN EDUCATION AMONG GRADE 12 HUMSS STUDENTS AT ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
-    authors: ["Baxa, Janella Bumagat, Glenda G. Dempo, Rena S. Dipasupil, Prince Jharien M. Garcia, Mary Euphrasia E. Mallada, Abegail M Mañibo, Donna Mae S. Ortega, Princess Camille J. "],
+    authors: ["Baxa, Janella"," Bumagat, Glenda G."," Dempo, Rena S."," Dipasupil, Prince Jharien M."," Garcia, Mary Euphrasia E."," Mallada, Abegail M."," Mañibo, Donna Mae S."," Ortega, Princess Camille J. "],
     year: "March 2025",
     strand: "HUMSS",
     abstract:
@@ -370,7 +519,7 @@ After throughout analysis interpretation of the data gathered, the following fin
   {
     id: "humss-15",
     title: "EFFECTS OF LEAST RANKED DIFFICULT SUBJECT TO GRADE 12 HUMSS STUDENTS IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL",
-    authors: ["Delen, Prince John M. Envase, Mark Anthony T. Gatmen, Nathalie Jhoys B. Salazar, Rhealyn A."],
+    authors: ["Delen, Prince John M."," Envase, Mark Anthony T."," Gatmen, Nathalie Jhoys B."," Salazar, Rhealyn A."],
     year: "March 2025",
     strand: "HUMSS",
     abstract:
@@ -382,7 +531,7 @@ After throughout analysis interpretation of the data gathered, the following fin
   {
     id: "humss-16",
     title: "PSYCHOLOGICAL APPROACH IN ENHANCING THE ENGLISH LANGUAGE SPEAKING SKILLS OF HUMSS STUDENTS",
-    authors: ["Aguho, Jomar P. Castillo, Cristel Maranan Castillo, Dorothy Merlin Mañibo, Ryza Elaine O. Sola, Kate Angelene M. "],
+    authors: ["Aguho, Jomar P."," Castillo, Cristel Maranan"," Castillo, Dorothy Merlin"," Mañibo, Ryza Elaine O."," Sola, Kate Angelene M. "],
     year: "March 2025",
     strand: "HUMSS",
     abstract:
@@ -397,7 +546,7 @@ Based on the results, the study recommends integrating psychological approaches 
   {
     id: "humss-17",
     title: "Detrimental Effect of Stage Fright and Anxiety among HUMSS Students of Grade 12 Diamond Causing Lower Grades and Inactive Participation",
-    authors: ["Burlongan, Ma. Asha R. Delgado, Chester Lloyd V. Marasigan, Reneth A. Medrano, Danica Joy M. Paglinawan, Marc Genesis M. Rico, Cherish M."],
+    authors: ["Burlongan, Ma. Asha R."," Delgado, Chester Lloyd V."," Marasigan, Reneth A."," Medrano, Danica Joy M."," Paglinawan, Marc Genesis M."," Rico, Cherish M."],
     year: "March 2025",
     strand: "HUMSS",
     abstract:
@@ -410,7 +559,7 @@ As a conclusion, the study emphasizes the significance of treatment and attendin
   {
     id: "humss-18",
     title: "INFLUENCES OF SOCIAL MEDIA ON YOUTHS PREFERENCES AND OPINIONS ABOUT THEIR COMMUNITY: A QUANTITATIVE STUDY ",
-    authors: ["Bagui, John Lloyd D. Calderon, Jayzell M. Datingaling, Radha Aesha Danielle A. Edep, John Marco B. Garcia, Erika Mae D. Hernandez, Jovie Beboth B. Ornopia, Ailene R. Ortega, Zyrell O. Portillo, Aaron Kevin B. Calderon, Jayzell M. Datingaling, Radha Aesha Danielle A. Edep, John Marco B. Garcia, Erika Mae D. Hernandez, Jovie Beboth B. Ornopia, Ailene R. Ortega, Zyrell O."],
+    authors: ["Bagui, John Lloyd D."," Calderon, Jayzell M."," Datingaling, Radha Aesha Danielle A."," Edep, John Marco B."," Garcia, Erika Mae D."," Hernandez, Jovie Beboth B."," Ornopia, Ailene R."," Ortega, Zyrell O."," Portillo, Aaron Kevin B."],
     year: "March 2025",
     strand: "HUMSS",
     abstract:
@@ -422,7 +571,7 @@ As a conclusion, the study emphasizes the significance of treatment and attendin
   {
     id: "humss-19",
     title: "THE IMPACT OF INADEQUATE VOCABULARY DEVELOPMENT ON THE READING COMPREHENSION OF G10 STUDENTS AT ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
-    authors: ["Albania, Princess Lherra O. Binay, Melvin M. Brucal, Kc Ann A. Cepillo, Ruzzel James A. Dolor, Cristine Yvette C. Hilario, Krizeah M. Sila, Rashid Anthron G."],
+    authors: ["Albania, Princess Lherra O."," Binay, Melvin M."," Brucal, Kc Ann A."," Cepillo, Ruzzel James A."," Dolor, Cristine Yvette C."," Hilario, Krizeah M."," Sila, Rashid Anthron G."],
     year: "April 2024",
     strand: "HUMSS",
     abstract:
@@ -434,7 +583,7 @@ As a conclusion, the study emphasizes the significance of treatment and attendin
   {
     id: "humss-20",
     title: "ASSESSING THE ROLE OF SOCIAL MEDIA ON GENDER SENSITIVITY AMONG GRADE 12 STUDENTS IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
-    authors: ["Baxa, Princess Mae H. Abratique, Crissa Mae D. Acosta, Adrian A. De Claro, Norwel Nathaniel M. Delos Santos, Erika D. Epis, Mary Grace M. Magsino, Mark Rj D. Marasigan, Jhermie D. Matibag, Zandy Cecilia M. Matira, Jouella B. Pagkaliwagan, Jobel S. Rayles, Francia Mae D."],
+    authors: ["Baxa, Princess Mae H."," Abratique, Crissa Mae D."," Acosta, Adrian A."," De Claro, Norwel Nathaniel M."," Delos Santos, Erika D."," Epis, Mary Grace M."," Magsino, Mark Rj D."," Marasigan, Jhermie D."," Matibag, Zandy Cecilia M."," Matira, Jouella B."," Pagkaliwagan, Jobel S."," Rayles, Francia Mae D."],
     year: "April 2024",
     strand: "HUMSS",
     abstract:
@@ -476,7 +625,7 @@ Keywords: Oral Communication Supplementary Activity World Literature
   {
     id: "humss-23",
     title: "LEVEL OF PERFORMANCE IN ORAL AND WRITTEN SKILLS AMONG GRADE 12 HUMSS STRAND IN ANSELMO A SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
-    authors: ["Atienza, Joseph Jhones, V. Bacay, Roselle, C. Bonquin, Mary Rose, R. Castillo, Rose Dianne, V. De Guzman, Jaclyn, C. Gadores, Jessica, A. Mendoza, Denice, O. Mendoza, Erika, H. Ramos, Donna Mae, M. Valderrama, Czanea Mikaela, U. "],
+    authors: ["Atienza, Joseph Jhones V."," Bacay, Roselle C."," Bonquin, Mary Rose R."," Castillo, Rose Dianne V."," De Guzman, Jaclyn C."," Gadores, Jessica A."," Mendoza, Denice O."," Mendoza, Erika H."," Ramos, Donna Mae M."," Valderrama, Czanea Mikaela U. "],
     year: "March 2023",
     strand: "HUMSS",
     abstract:
@@ -498,27 +647,133 @@ Keywords: Oral Communication Supplementary Activity World Literature
     pdfUrl: "/pdfs/thesis-08.pdf",
   },
   {
-    id: "humss-17",
-    title: "Detrimental Effect of Stage Fright and Anxiety among HUMSS Students of Grade 12 Diamond Causing Lower Grades and Inactive Participation",
-    authors: ["Burlongan, Ma. Asha R. Delgado, Chester Lloyd V. Marasigan, Reneth A. Medrano, Danica Joy M. Paglinawan, Marc Genesis M. Rico, Cherish M."],
-    year: "March 2025",
+    id: "humss-25",
+    title: "ASSESSMENT OF SKYLIGHT SPIRITUAL SELF-CARE: AS STRESSOR RELIEVER APPLICATION AMONG GRADE 12 HUMANITIES AND SOCIAL SCIENCES STUDENTS OF ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
+    authors: ["Bulao, Jewelle Kaye G. Alfonso, Stefano Eve M. Camongol, Rose Ann G. De Claro, Annes M. Fajardo, Marc Eugene P. Galamgam, Amieka C. Gonzaga, Heart F. Golondrina, Mark Angelo C. Magbato, Rodelyn O. Manalo, Nikka Zyrhel A. Paglinawan, Jay Vergel M. Solis, Mirvel Yari Renz C."],
+    year: "May 2024",
     strand: "HUMSS",
     abstract:
-      `This study was conducted to examine the effect of stage fright on the academic performance of a student, specially focusing on the Grade 12 Diamond under the strand of HUMSS. A quantitative research methodology was used to ensure precise and objective findings. The data was gathered through distributing printed questionnaires to students, with an average of thirty students taking part in the study, giving their insights about the causes of stage fright and how it affects their academic performance. In order to ensure a fair representation of students, the study employed the roulette wheel random sampling approach to identify the respondents. The purpose of the handed-out questionnaires was to find out what factors contribute to stage fright, such as judgments, prior public speaking experiences, and self-confidence. The researchers were able to distinguish the frequency and intensity of stage fright among students as well as the relationship between it and their academic performance with the help of the responses of the respondents. Stage fright showed a significant effect on grade 12 Diamond HUMSS students' academic performance. Higher levels of stage fright and anxiety were associated with low performance in presentations, recitations, and other academic activities that require the student to do public speaking. Their conflict in terms of academic performance was made worse by the psychological and physical symptoms of stage fright, which include trembling, a rapid heartbeat, and mental blocks. 
-As a conclusion, the study emphasizes the significance of treatment and attending symposiums to help students effectively manage their anxiety and stage fright. By employing confidence-boosting techniques and providing teachers with assistance, we can assist students in reducing stage fright by addressing the psychological and physical aspects of stage fright and enhancing their academic performance.`,
+      `This study aimed to assess the features of the Skylight: Spiritual Self-Care Application that contribute to stress relief among the respondents. Along with, the common stressors experienced by Grade 12 Humanities and Social Sciences students related to academic tasks including writing research papers, reporting, and project making were identified and examine. This study aimed as well to assess the level of effectiveness of the Skylight: Spiritual Self-Care Application in terms of academic composure, behavioral composure, and serving as a refresher for Grade 12 students. Additionally, this also aimed to propose actionable recommendations based on the study's findings to strengthen the use of the Skylight App among Grade 12 Humanities and Social Sciences students at Anselmo A. Sandoval Memorial National High School The study employed a quantitative research approach, specifically utilizing a descriptive research design to assess the effectiveness of the Skylight: Spiritual Self-Care Application as a stress reliever among Grade 12 Humanities and Social Science students at Anselmo A. Sandoval Memorial National High School. The research method involved data collection through a self-crafted survey questionnaire administered to 50 students selected through stratified random sampling from a total population of 180 students. The questionnaire, validated for reliability, consisted of two sections focusing on common stressors and the app's effectiveness, utilizing Likert scales for responses. Statistical analysis involved frequency counts, ranking, and weighted mean calculations to interpret the gathered data comprehensively. The study's comprehensive findings reveal that Grade 12 Humanities and Social Science students at Anselmo A. Sandoval Memorial National High School face significant stress in their academic tasks, including writing research papers, reporting, and project making. Common stressors identified within these tasks`,
     thumbnail:
       "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
     pdfUrl: "/pdfs/thesis-08.pdf",
   },
   {
-    id: "humss-17",
-    title: "Detrimental Effect of Stage Fright and Anxiety among HUMSS Students of Grade 12 Diamond Causing Lower Grades and Inactive Participation",
-    authors: ["Burlongan, Ma. Asha R. Delgado, Chester Lloyd V. Marasigan, Reneth A. Medrano, Danica Joy M. Paglinawan, Marc Genesis M. Rico, Cherish M."],
+    id: "humss-26",
+    title: "ASSESSMENT OF PADLET APPLICATION UTILIZATION IN CREATIVE NONFICTION: A RESPONSE FOR INTERACTIVE WRITING AMONG GRADE 12 HUMSS STUDENTS ",
+    authors: ["Bantugon, Aleissa Aloya, Gillian Ashley Bantugon, Chester Kayl Castillo, Jherwel Celetaria, Crisha Jane Corona, Arabella Cose, Danrave Magcalayo, Jherick Ortega, Arwen Ralph Umali, Dewnella Kate"],
+    year: "April 2024",
+    strand: "HUMSS",
+    abstract:
+      `This study aimed to assess the role of Padlet application as an assessment tool in the field of interactive writing in Creative Nonfiction among Grade 12 Humanities and Social Sciences (HUMSS) strand students in Anselmo A. Sandoval Memorial National High School SY 2023-2024. With the use of survey questionnaires as the main data gathering tool and Likert scale method is used for collecting the data. The study employed the quantitative research method in descriptive research design with the researcher-made questionnaire as the main instrument for data gathering. The respondents of the study involve a total population of 180 Grade 12 Humanities and Social Sciences Strand currently enrolled and studying in Anselmo A. Sandoval Memorial National High School. Moreover, ranking, weighted mean, and Cronbach's Alpha were the statistical tools used to treat the data. There were 50 selected students through stratified random sampling respondents included in this study. Grade 12 Humanities and Social Sciences strand consist of four sections namely: Amethyst, Diamond, Pearl, and Spinel. Researchers included the top 12 and top 13 students depends on the total population of each HUMSS sections. Based on the data evaluated from the survey questionnaire, the researchers presented the findings and conclusion of the features, usability, safety and privacy, challenges, and the actions that the researchers created to minimize the challenges and difficulties that the students had encountered in using Padlet application. Majority of the respondents agreed that Padlet is a very useful, safe to use, and very effective in improving their writing skills and creativity at the same time.`,
+    thumbnail:
+      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
+    pdfUrl: "/pdfs/thesis-08.pdf",
+  },
+  {
+    id: "humss-27",
+    title: "ASSESSMENT OF GOOGLE DOCS IN ENHANCING COLLABORATIVE WRITING SKILLS IN INQUIRIES, INVESTIGATIONS AND IMMERSION AMONG GRADE 12 HUMSS STUDENTS ",
+    authors: ["De Chavez, Nhicolle B. Aloya, Jessalyn V. Azur, Ley Marck M. Balais, John Marc D. Delos Reyes, Ken Zyrren M. Dimaano, Lorie Mae M. Ramos, Dealene April M. Reyes, Mark Aaron A. Tupaz, Flordiliza C. "],
+    year: "April 2024",
+    strand: "HUMSS",
+    abstract:
+      `This study aimed to assess how google docs enhance the collaborative writing skills of Grade 12 students at Anselmo A. Sandoval Memorial National High School. From Humanities and Social Sciences Academic Strand in Inquiries, Investigation, Immersion subject during the school year of 2023-2024. This study aims to compare and and evaluate google docs and microsoft word in terms of group sharing, functionality and accessibility. Along with this it provides insights into the effectiveness of Google Docs in enhancing collaborative writing skills among Grade 12 HUMSS students. Moreover, challenges encountered by students were identified. Furthermore, this research study also propose actionable recommendations to enhance the use of Google Docs in improving the writing skills of students. The study employed the quantitative research method in experimental research design with the researcher-made questionnaire as the main instrument for data gathering. The respondents of the study involved a total population of 64 Grade 12 HUMSS Students currently enrolled and studying at Anselmo A. Sandoval Memorial National High School. Moreover, ranking, weighted mean, and Raosoft formula, were the statistical tools used to treat the data. Results of the study indicated that the respondents found interacting with my peers through comments or suggestions on google docs enhances the collaborative writing process to the weighted mean acquired from the questionnaire responses of students-respondents. Moreover, google docs with my other google services such as Gmail, Google drive and google calendar acquired a Very Highly Manifested google docs is compatible with screen readers like a voice over to assist me when i difficult in reading and navigating the document`,
+    thumbnail:
+      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
+    pdfUrl: "/pdfs/thesis-08.pdf",
+  },
+  {
+    id: "humss-28",
+    title: "MUSIC AS TOOL AND STUDENTS' RESPONSE IN IMPROVING WRITING SKILLS AMONG GRADE 12 HUMSS STUDENTS IN ANSELMO Α. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
+    authors: ["Jusi, Fresie Joyce M. Bantillo, John Mark M. Calda, Sunshine G. Dela Rosa, Precious Harvie V. De Leon, Trisha Mae B. Maestre, Reymond S. Matibag, Vivian S. Navarro, Justine B. Paras, Asher Reu Sam A. Rondina, Jasmin M. Villamer, Cedrick Saimon E. Villanueva, Ryza Elizabeth M."],
+    year: "May 2024",
+    strand: "HUMSS",
+    abstract:
+      `This research aims to investigate the impact of incorporating music as a supportive tool on the enhancement of writing skills, particularly in creative non- fiction, in terms of generating ideas, longevity, and fluidity in writing. This study is limited to Grade 12 students in the HUMSS strand at Anselmo A. Sandoval Memorial National High School. This research utilized a quantitative research design of experimental research type with 50 respondents using the Raosoft formula. A stratified random sampling was conducted. The experimental group listened to background music during their writing sessions, while the control group maintained their writing sessions without background music. The writing skills of the students were measured using a validated survey questionnaire. Statistical analysis revealed a significant difference in the writing skills of respondents with and without music in terms of generating ideas, longevity, and fluidity, with p values of 0.00001216, 0.0000000024, and 0.000683 with a = 0.05 rejecting the null hypothesis. To sum up, the presence of background music has a significant impact on the writing skills of respondents in terms of generating ideas, longevity, and fluidity. The data also revealed that the students were mostly engaged in pop, classical, and hip-hop music genres. To enhance writing performance among students, the researchers proposed Spotify playlists corresponding to the top three preferred music genres of the students.`,
+    thumbnail:
+      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
+    pdfUrl: "/pdfs/thesis-08.pdf",
+  },
+  {
+    id: "humss-29",
+    title: "ASSESSMENT ON QUILLBOT AI DETECTOR IN WRITING THESIS AMONG GRADE 12 HUMANITIES AND SOCIAL SCIENCES STUDENTS ",
+    authors: ["Magmanlac, Aieszia Claire I. Baculo, Leannah Joy V. Bartolay, Williard G. Castillo, Christine Mae Castillo, Reymart B. Cismoan, Mark James R. Condat, Charie Mae F. Escalona, Zyrell Joy A. Lumawag, Princes Padron Albert Reyes, Krystin Roz "],
+    year: "May 2024",
+    strand: "HUMSS",
+    abstract:
+      `This study aimed to assess Quillbot Al Detector as tool in writing thesis paper among Grade 12 HUMSS students of Anselmo A. Sandoval Memorial National High School. Along with this some student nowadays rely too much on Al creator tools for their school work such as research which is not accurate and reliable and may affect their own writing skill for not enhancing it and just rely on Al. The design used in this study is a quantitative research method in descriptive design with 32 students as a respondents, purposive sampling and a statistical treatment such as weighted mean, rank and frequency counts. This research is limited to leaders and co-leaders of the groups on the subject Inquiries, Investigations and Immersion of HUMSS strand in AASMNHS. Furthermore, the originality/value of this research paper enhances the writing skill and content authenticity on writing a thesis through the use of Quillbot Al Detector. For the findings of the study, the use of Quillbot Al Detector was found to perform in great extent on detecting whether a work of a member in writing thesis is Al generated or not. Thus, it enhances the writing skill of the student and not rely on Al work.`,
+    thumbnail:
+      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
+    pdfUrl: "/pdfs/thesis-08.pdf",
+  },
+  {
+    id: "humss-30",
+    title: "FACTORS INFLUENCING SENIOR HIGH SCHOOL STUDENTS' CHOICE OF HUMANITIES AND SOCIAL SCIENCES STRAND IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
+    authors: ["Castillo, Kim Jhemuel Q. De Torres, Douglas Ivan S. Lanzarote, Margarette G. Sawali, Kim Joshua L. Torrecampo, Jimuel D. Umali, Jamilla Claire T. Veloso, Jeus Allendri B. "],
     year: "March 2025",
     strand: "HUMSS",
     abstract:
-      `This study was conducted to examine the effect of stage fright on the academic performance of a student, specially focusing on the Grade 12 Diamond under the strand of HUMSS. A quantitative research methodology was used to ensure precise and objective findings. The data was gathered through distributing printed questionnaires to students, with an average of thirty students taking part in the study, giving their insights about the causes of stage fright and how it affects their academic performance. In order to ensure a fair representation of students, the study employed the roulette wheel random sampling approach to identify the respondents. The purpose of the handed-out questionnaires was to find out what factors contribute to stage fright, such as judgments, prior public speaking experiences, and self-confidence. The researchers were able to distinguish the frequency and intensity of stage fright among students as well as the relationship between it and their academic performance with the help of the responses of the respondents. Stage fright showed a significant effect on grade 12 Diamond HUMSS students' academic performance. Higher levels of stage fright and anxiety were associated with low performance in presentations, recitations, and other academic activities that require the student to do public speaking. Their conflict in terms of academic performance was made worse by the psychological and physical symptoms of stage fright, which include trembling, a rapid heartbeat, and mental blocks. 
-As a conclusion, the study emphasizes the significance of treatment and attending symposiums to help students effectively manage their anxiety and stage fright. By employing confidence-boosting techniques and providing teachers with assistance, we can assist students in reducing stage fright by addressing the psychological and physical aspects of stage fright and enhancing their academic performance.`,
+      `This study explores the key factors influencing senior high school students in selecting the Humanities and Social Sciences (HUMSS) strand and examines the challenges they faced during the decision-making process. The research was conducted to gather authentic data to develop effective interventions to address these challenges. Conducted at Anselmo A. Sandoval Memorial National High School, the research employed simple random sampling to gather 40 respondents from the senior high school population, ensuring accurate and relevant data to support the study's objectives. Using a quantitative approach, data was collected via Likert-scale questionnaires disseminated electronically through Google Forms, which facilitated accuracy and convenience in data collection. The collected numerical data was analyzed using weighted mean calculations to determine the influence levels of each identified key factor. The findings revealed that personal interest in the HUMSS strand was the most influential factor, with a weighted mean of 3.18 and a "Strongly Agree" interpretation. Conversely, gender was the least influential factor, with a weighted mean of 1.75 and a "Disagree" interpretation. The most challenging aspect of the decision-making process was academic performance, with a weighted mean of 2.95 and an "Agree" interpretation, while peer pressure was the least challenging, with a weighted mean of 1.80 and a "Disagree" interpretation. There was no significant difference in the level of influence of these factors across senior high school grades, indicating that all grades were equally affected. Based on these findings, the researchers propose implementing a comprehensive symposium to better guide students and address the challenges they face in choosing the HUMSS strand. This study highlights the significant impact of various factors and challenges on students' decisions, suggesting more flexible approaches to mitigate these issues. The results provide valuable insights for future researchers to further explore the factors affecting students' decisions and to develop effective strategies for addressing them.`,
+    thumbnail:
+      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
+    pdfUrl: "/pdfs/thesis-08.pdf",
+  },
+  {
+    id: "humss-31",
+    title: "THE EFFECTIVENESS OF CAPCUT APPLICATION FOR DIGITAL OUTPUTS OF SELECTED SUBJECTS AMONG GRADE 12 STUDENTS ",
+    authors: ["Santos, Patrick Abarintos, Cristorey C. Bornales, Jirex V. Cepillo, Rohn Ayrhand D. Ilao, Allen M. Panganiban, John Marck Andrei, Tugade Aloya, Hazzel Anne M. Bueno, Melisa D. Paglinawan, Christy Laiza M. Sumauang, Xyrelle Keith Barcarse B."],
+    year: "April 2024",
+    strand: "HUMSS",
+    abstract:
+      `This study aimed to assess the effectiveness of the Capcut application in digital output among grade 12 students at Anselmo A. Sandoval Memorial National High School. Along with this, Capcut application aesthetic features proposed to improve the overall aesthetic features like the visual effects, sound effects, and transition effects. This study aimed as well to examine the relationship between the effectiveness of the Capcut application in digital output and other video editing tools in overall aesthetic features. Moreover, challenges encountered by students in making their digital output for the selected subjects. Furthermore, this research study also aimed to propose ways to strengthen the effectiveness of the Capcut application in digital output. The study employed the quantitative research method in experimental and research design with the researcher's self made constructor questionnaire as the main instrument for data gathering. The respondents of the study involved a total population of 58 Grade 12 Students currently enrolled and studying in Anselmo A. Sandoval Memorial National High School. Moreover, ranking, weighted mean, and 90% confidence level and a 0.05 coefficient level were the statistical tools used to treat the data. Results of the study indicated that students' effectiveness of the Capcut application in digital output perceived a very highly manifested that there's a effectiveness of the Capcut application in digital output with the weighted mean acquired form the questionnaire responses of students-respondents. Moreover, male and respondent perceived a great extent in effectiveness of the Capcut application in digital output among grade 12 student in the overall aesthetic features, the aesthetic features of the Capcut application in terms functions, creativity, visual appeal, visual effects, sound effects, and transition a favor as a highly manifested by the respondent. Furthermore, there is no significant relationship on the effectiveness of the Capcut application in digital output among grade 12 students. In line with this, a positive result of effectiveness of Capcut application in digital output through the overall aesthetic features of the Capcut application is expected among Grade 12 students in Anselmo A. Sandoval Memorial National High School. On the other hand, the most common primordial challenges that Grade 12 students in all have are the digital output of senior high school students to the aesthetic value of the digital output. The findings of the study were the basis for the development of the proposed way to strengthen the effectiveness of the Capcut application in digital output among grade 12 students. Based on the findings and conclusions of the study, some recommendations were given including the proposed more aesthetic features on improving overall aesthetic features of the Capcut Application. Another, the school may also give a video presentation if editing using the aesthetic features of the Capcut Application. Then, this study may serve as a guide for other future researchers in conducting similar or related studies.`,
+    thumbnail:
+      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
+    pdfUrl: "/pdfs/thesis-08.pdf",
+  },
+  {
+    id: "humss-32",
+    title: "THE ASSESSMENT OF CANVA UTILIZATION TO LEARNING EXPERIENCES AMONG GRADE 12 HUMSS STUDENTS IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
+    authors: ["Galanao, Chris Jhon B. Aloya, Marlon S. Atienza, Trisha Mae Burgos, Margott Therese P. Candelaria, Rolando T. Floralde, Allyzza Ashley D. Gonda, Janerz Qlyne V. Magbujos, Jean Rose D. Patulot, Christian Dave Pichay, Jeoff Cyrus M. Tugade, Armie Briz "],
+    year: "April 2024",
+    strand: "HUMSS",
+    abstract:
+      `This study aimed to assess the effectiveness of Canva Utilization to learning experiences among Grade 12 HUMSS students in Anselmo A. Sandoval Memorial National High School during the academic year 2023-2024. This research employed a quantitative experimental research design, utilizing purposive sampling to select 33 respondents. Statistical analysis involved frequency counts, percentages, and weighted mean calculations. The study was limited to 33 Grade 12 Humanities and Social Sciences students at Anselmo A. Sandoval Memorial National High School. This research contributes to enhancing the use of the Canva application not only in Creative Writing but also across various other subjects. It demonstrates its versatility for fulfilling school or activity-related requirements. The findings suggest that the utilization of the Canva app significantly enhances the learning experiences of the respondents. Among the various tech tools available, Canva has gained popularity as a powerful and user-friendly graphic design platform. Canva allows users to create visually captivating and informative content. With the increasing need for engaging and interactive learning experiences, educators are constantly seeking ways to integrate technology into the classroom. As such, the utilization of Canva in the learning process has the potential to enhance student engagement and facilitate a more dynamic and creative approach to education. With Canva, users can create engaging lessons and activities by incorporating images, fonts, videos, animations, and editing features. This study aimed to asssess the effectiveness of utilizing canva application to the learning experiences among Grade 12 HUMSS Students. In addition to creative writing, Canva can be applied across various subjects to enhance the learning experiences of Grade 12 students`,
+    thumbnail:
+      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
+    pdfUrl: "/pdfs/thesis-08.pdf",
+  },
+  {
+    id: "humss-33",
+    title: "DETERMINING THE EFFECTIVENESS OF LISTENING TO POP MUSIC IN ENHANCING INTELLECTUAL THINKING AND VOCABULARY OF GRADE 12 HUMSS STUDENTS IN CREATIVE WRITING IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
+    authors: ["Andal, John Michael C. Dalangin, Kim Saira Joy R. Espina, Reelaiah Lorraine A. Garcia, Kaye Norinne A. Gomez, April M. Manongsong, Mariel E. Marasigan, Jasmine D. Resare, Princess Rose E. "],
+    year: "March 2025",
+    strand: "HUMSS",
+    abstract:
+      `Intervention while listening to pop music while writing assists students in strengthening the intellectual thinking and vocabulary of those who experience having difficulty in any academic areas, specifically in the subject Creative Writing. Thus, this study aimed to determine the effectiveness of listening to pop music in enhancing Grade 12 Humanities and Social Sciences (HUMSS) students' intellectual thinking and vocabulary in Creative Writing at Anselmo A. Sandoval Memorial National High School. This research paper utilized a quantitative research design, specifically employing an experimental research method. To assess the effectiveness of the said intervention in the subject Creative Nonfiction on the students' intellectual thinking and vocabulary, a pre- test and post-test were utilized as the main data-gathering tool. The researchers used simple random sampling on the 30 HUMSS students who had taken the pre-test and post-test in Creative Writing. The statistical tools such as mean, weighted mean, and T-test were used to measure the effects of the intervention. With 30 respondents of the study, it was concluded that the intervention has no significant effect on the intellectual thinking and vocabulary of the students, with a p-value of 0.52628592010716. Moreover, being highly engaged and confident in the pursuit of knowledge, as well as possessing good study habits, may contribute to improving the students' academic performance. Based on the findings, the researchers recommended intervention activities to further strengthen the intervention, which may also be implemented in other subject areas. Additionally, it provides implications for educators seeking innovative ways to engage and motivate their students, highlighting the potential benefits of incorporating pop music into their teaching practices. Overall, this indicates some students are struggling to think clearly during the test while they listen to music. While some became more excellent in writing while listening to pop music.`,
+    thumbnail:
+      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
+    pdfUrl: "/pdfs/thesis-08.pdf",
+  },
+  {
+    id: "humss-34",
+    title: "THE BENEFICIAL EFFECTS OF USING ARTIFICIAL INTELLIGENCE TOOLS OF G12 HUMSS STUDENTS IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGHSCHOOL ",
+    authors: ["Amboy, Janine A. Binay, Michael M. Celo, Aaliyah M. Dalangin, Edhelbert P. Francisco, Justine D. Matira, Stacy P. Pilar, Jorjielyn M. Ramos, Mark Jeff A. "],
+    year: "March 2025",
+    strand: "HUMSS",
+    abstract:
+      `Artificial Intelligence has become increasingly powerful in recent years. Continuous evaluation is crucial to the power of Al effectively in educational settings. A research study was conducted to analyze the objective to examine how the integration of Al technology influences students' learning experiences, academic performance, and overall educational outcomes. To achieve this objective, a qualitative data collection method approach was employed. A survey questionnaire was administered to a sample of HUMSS Senior High School students, assessing their perceptions, attitudes, and experiences with Al technology. Additionally, in- depth interviews were conducted with a select group of students to gain deeper insights into their perspectives. The findings of this study revealed several significant impacts of Al on HUMSS Senior High School students. The integration of Al technology in the classroom was found to enhance students' engagement and motivation, as it provided interactive and personalized learning experiences. Al-based educational tools and platforms were found to improve students' academic performance by providing instant feedback, adaptive learning materials, and access to a wide range of educational resources. The study identified potential challenges and concerns related to the ethical implications and potential biases associated with Al technology in education. These findings contribute to the existing body of knowledge on the impact of Al in education, specifically focusing on the HUMSS Senior High School context in Anselmo A. Sandoval Memorial National High School.`,
+    thumbnail:
+      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
+    pdfUrl: "/pdfs/thesis-08.pdf",
+  },
+  {
+    id: "humss-35",
+    title: "THE EFFECTIVENESS OF FREE TABLETS FROM DEPED FOR EDUCATIONAL PURPOSES AMONG G12 HUMSS STUDENTS AT ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGHSCHOOL",
+    authors: ["Adarlo, Eliza Mae A. Badongen, Jamilla E. Bisa, Jhed Christian B. De Claro Luis Miguel M. Garcia, Hazel B. Manongsong, Merry Joys D. Valera, Jazzley Drew L. Villo, Bheatrice E."],
+    year: "March 2025",
+    strand: "HUMSS",
+    abstract:
+      `The integration of technology in education has gained significant attention, particularly through the distribution of free tablets by the Department of Education (DepEd). This study seeks to determine the effectiveness of these tablets in enhancing the learning experiences of Grade 12 HUMSS students at AASMNHS. While previous research has highlighted the benefits of digital learning tools, many studies fail to account for factors such as internet accessibility, device limitations, and student adaptability, leaving gaps in understanding their true impact in public school settings. To address these gaps, this study utilized a quantitative research design, employing questionnaires to gather data from Grade 12 HUMSS students. The survey assessed how the free tablets influenced academic performance, learning engagement, and digital literacy. The collected data was analyzed to identify trends, challenges, and the overall effectiveness of the tablets in supporting student learning. Findings indicate that while the tablets provide students with greater access to learning materials and improve technological skills, issues such as unstable internet connectivity, lack of proper technical support, and distractions from non-educational content hinder their full potential. These results suggest that for tablets to be truly effective, improvements in digital infrastructure, teacher training, and stricter content regulation are necessary. This study contributes to the ongoing discussion on educational technology, providing insights for policymakers and educators in optimizing the use of digital resources in public schools.`,
     thumbnail:
       "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
     pdfUrl: "/pdfs/thesis-08.pdf",
