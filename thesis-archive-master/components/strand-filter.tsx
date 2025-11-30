@@ -81,7 +81,7 @@ export function StrandFilter({ activeStrand, title }: StrandFilterProps) {
       {title ? (
         <div className="mb-4 flex items-center justify-between">
           <h2 className="text-lg font-semibold text-foreground">{title}</h2>
-          <span className="text-sm text-muted-foreground">3 strands</span>
+          <span className="text-sm text-muted-foreground">8 strands</span>
         </div>
       ) : null}
       <div className="grid gap-4 md:grid-cols-2">
