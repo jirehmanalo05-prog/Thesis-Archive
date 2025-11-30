@@ -28,8 +28,8 @@ export const theses: Thesis[] = [
         year: "March 2025",
         strand: "ICT",
         abstract: `This study employs a experimental Research design to investigate the effectiveness of the video learning tools on Grade 10 Students in Anselmo A. Sandoval Memorial national High School, Through Pre- test, Post- test and survey questionnaires. The research evaluates the impact of video learning tools on grade 10 Students. The findings revealed That video learning tools gives positive effects to the respondents. The effectiveness of video learning tools whether it's negative or positive. Furthermore, the studying provides insights for the teacher and students the usage of video learning tools for their academics, recommendations includes prioritizing. Overall, the study contribute to the effects of video learning tools to grade 10 students and in educational trend.`,
-        thumbnail: "https://images.unsplash.com/photo-1558618047-3c8c76ca7e87?auto=format&fit=crop&w=600&q=80",
-        pdfUrl: "/pdfs/thesis-01.pdf"
+        thumbnail: "ICT.jpg",
+        pdfUrl: "/"
     },
   {
     id: "ict-02",
@@ -43,9 +43,8 @@ export const theses: Thesis[] = [
 This study reveals that most of Elderly Professionals in Mabini find digital technology useful but they struggle with the adaptation. Despite the facts that security concerns exist, breaches are low as many take precautions. Low seminar participation highlights a learning gap, emphasizing the need for more education and support. ‎
  ‎These findings suggest that attending to seminars and programs may be an effective tool on how the Elderly Professionals can adapt more easily to the digital evolution.
 Anselmo A. Sandoval Memorial National High School P. Balibaguhan, Mabini, Batangas ‎`,
-    thumbnail:
-      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-02.pdf",
+    thumbnail: "ICT.jpg",
+    pdfUrl: "/",
   },
   {
     id: "ict-03",
@@ -56,8 +55,8 @@ Anselmo A. Sandoval Memorial National High School P. Balibaguhan, Mabini, Batang
     abstract:
       `It's about the use of internet in academic purposes for every senior high student that they use for the research, projects and activities. However, it is very obvious that the internet provides not only social connection and entertainment, but also academic and scientific information as well. The benefit is not only for students but also for the teachers, by using the internet teachers can teach by the use of animation, power point slides, and images to capture the student's attention. The Internet technology has provided an extraordinary level of public accessibility to a wide range of forms of communication.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-03.pdf",
+      "ICT.jpg",
+    pdfUrl: "/",
   },
   {
     id: "ict-04",
@@ -68,8 +67,8 @@ Anselmo A. Sandoval Memorial National High School P. Balibaguhan, Mabini, Batang
     abstract:
       "Focusing on immersive learning, this project develops an AR application that guides electronics students through soldering, board inspection, and safety workflows. Spatial anchors align virtual overlays with physical lab benches, while a validation study compares task completion between AR-assisted and traditional printed guides. Participants using the AR trainer finish calibration steps 33% faster and commit fewer safety violations, according to a rubric developed with faculty mentors. The thesis delves into 3D asset optimization for low-powered tablets, user interface accessibility decisions, and the maintenance process for updating procedures every academic term. Suggestions for future work include haptic feedback integrations and multi-user collaboration modes.",
     thumbnail:
-      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-04.pdf",
+      "ICT.jpg",
+    pdfUrl: "/",
   },
   {
     id: "stem-01",
@@ -80,8 +79,8 @@ Anselmo A. Sandoval Memorial National High School P. Balibaguhan, Mabini, Batang
     abstract:
       `The used of mobile phones were increasing every year. As the demand of the phones increases also the demand in electricity will increase because every mobile phones needed electrical energy to function. The study propose the used of dynamo as charger for mobile phones. This intended to evaluate the charging speed and the length of usage of the charged phones in dynamo charger and commercial charger. The differences between dynamo charger and commercial charger where evaluated by this study. Charging speed of the phones using dynamo charger is faster than commercial charger. But the period of time in length of usage of the charged phones in the commercial charger is longer than the phones charged in dynamo charger.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "STEM.jpg",
+    pdfUrl: "/",
   },
   {
     id: "stem-02",
@@ -92,8 +91,8 @@ Anselmo A. Sandoval Memorial National High School P. Balibaguhan, Mabini, Batang
     abstract:
       `Segregation of waste is important because it is much easier to recycle. Effective segregation of waste goes to landfill which makes it deeper and better for people and environment. It is also important to segregate for public health. In particular, hazardous wastes can cure long term health problem, so it is very important to segregate waste correctly and safely and not mixed in with the normal waste coming out of the home or office. This study aimed to show the effect of an animation video on proper segregation in Anselmo A. Sandoval Memorial National High School. The students will learn it in an enjoyable way. By application of animation, the researchers will make an educational animation video to show how animation video affects the behavior of all students in A.A. S.M.N.H.S.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "STEM.jpg",
+    pdfUrl: "/",
   },
   {
     id: "stem-03",
@@ -104,8 +103,8 @@ Anselmo A. Sandoval Memorial National High School P. Balibaguhan, Mabini, Batang
     abstract:
       `The use of multimedia in education has proven its importance due to its positive impact on the teaching and learning process. The presents study investigates comparative effectiveness of multimedia- aided teaching on students' academic performance in Physics. A sample of 70 students was purposively divided into two groups. Pretest-posttest design was selected for this experimental study. The experimental group was taught with the help of multimedia presentation whereas the controlled group was treated traditionally. The valid and reliable questionnaires were used as data collection tools. A Statistical Package for the Social Sciences (SPSS) Program was used to measure the results of both groups before and after treatment. To analyze the data, an independent sample t- test was used. The results indicated that multimedia- aided teaching is more effective than the traditional one. Students' academic performance towards in Physics improves more if multimedia- aided teaching method was used compare to the traditional method teaching`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "STEM.jpg",
+    pdfUrl: "/",
   },
   {
     id: "stem-04",
@@ -117,8 +116,8 @@ Anselmo A. Sandoval Memorial National High School P. Balibaguhan, Mabini, Batang
       `In recent years, earthquakes have been one of the most catastrophic and detrimental natural phenomena that usually occurs in the Philippines. Several homes and buildings have been damaged, and the structures themselves have fissures or cracks. The impact signifies that the construction materials being used are weak and less durable. The aim of this research is to develop a practical and efficient replacement for commercial hollow blocks with optimum internal and external properties by incorporating a fusion of two varied fiber component, such as pineapple leaf fiber (PALF) and coir fibers, to the conventional solution that will ensure the availability of hybrid composite material for construction in the Mabini, Batangas vicinity. This study employs experimental methods and is quantitative in character. Data are acquired by observing external properties and experimenting with internal properties using a machine. 
 Keywords: replacement, fusion, fiber component, hybrid, hollow blocks`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "STEM.jpg",
+    pdfUrl: "/",
   },
   {
     id: "stem-05",
@@ -165,8 +164,8 @@ Recommendations
 6. The proposed activities may be used to somehow alleviate or lessen the struggle that the students encountered on that certain factor. By implementing these recommendations, educators can enhance the motivational level of students in written and performance tasks, regardless of the learning mode.
 `,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "STEM.jpg",
+    pdfUrl: "/",
   },
   {
     id: "stem-06",
@@ -211,8 +210,8 @@ The study uses quantitative approach with the method of true experimental resear
 KEYWORD Solar panel, motherboard, direct current, capacitor
 `,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "STEM.jpg",
+    pdfUrl: "/",
   },
    {
     id: "stem-07",
@@ -244,8 +243,8 @@ After the thorough and careful analysis of findings and conclusion, the followin
 4. FUTURE RESEARCHERS might help as a basis and building up new ideas
 `,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "STEM.jpg",
+    pdfUrl: "/",
   },
    {
     id: "stem-08",
@@ -266,13 +265,13 @@ In order to achieve the needed results, we have conducted an experiment to furth
 (4) Lastly, we took a quality test and recorded all the data collected. Results showed that there is no significant difference between the Alternative and Commercial Floor wax.
 `,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "STEM.jpg",
+    pdfUrl: "/",
   },
   {
     id: "abm-01",
     title: "Teaching Strategies: Factors that Affects the ABM Students Performance ",
-    authors: ["Whalid Aloya"," Oliver Bacay"," Joseph Escalona"," Jaimelyne Baculo"," Loren Baculo",' Jenny Rose Buenviaje"," Karen Candava"," Angelica Manalo"," Mary Joy Reyes"],
+    authors: ["Whalid Aloya"," Oliver Bacay"," Joseph Escalona"," Jaimelyne Baculo"," Loren Baculo"," Jenny Rose Buenviaje"," Karen Candava"," Angelica Manalo"," Mary Joy Reyes"],
     year: "March 2018",
     strand: "ABM",
     abstract:
@@ -306,8 +305,8 @@ The proponents of this action research recommended the following based from the 
 6) This studies can be used as basis for the future researchers for similar information and related topic.
 `,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "ABM.jpg",
+    pdfUrl: "/",
   },
   {
     id: "abm-02",
@@ -341,8 +340,8 @@ The proponents of this action research recommended the following based from the 
 5. Similar studies may be conducted along this line to address other related topics that will make alleviate the achievement of students.
 `,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "ABM.jpg",
+    pdfUrl: "/",
   },
    {
     id: "abm-03",
@@ -361,8 +360,8 @@ Discussion
 The results demonstrate the need for making a proper budget and giving appropriate time before implementing a market research. A lack of effective time budget management can have a negative impact on the research and increases stress and frustration of the researchers that may cause a burnout. Increasing the productivity of staff by enhancing their talents through continuous training and development programs and thinking of creative and unique business ideas that can attract potential customers is also recommended.
 `,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "ABM.jpg",
+    pdfUrl: "/",
   },
    {
     id: "abm-04",
@@ -406,8 +405,8 @@ The proponents of this action recommended the following based from the findings 
 3. Teachers must consider this study because this will help
 `,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "ABM.jpg",
+    pdfUrl: "/",
   },
    {
     id: "abm-01",
@@ -418,8 +417,8 @@ The proponents of this action recommended the following based from the findings 
     abstract:
       "Targeting emerging eco-tourism towns, this project creates a lightweight revenue management framework that guides community councils in pricing tour bundles. Leveraging historical visitor counts, weather data, and transport availability, the model forecasts weekly demand and recommends dynamic price adjustments while preserving equitable earnings among partner households. Field tests in two coastal barangays increased average household tourism income by 18% without reducing visitor satisfaction. The thesis details governance agreements, training modules for local guides, and the ethical guardrails that prevent price gouging. Future work suggests integrating conservation impact metrics and cooperative-owned booking platforms.",
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "ABM.jpg",
+    pdfUrl: "/",
   },
    {
     id: "abm-01",
@@ -430,8 +429,8 @@ The proponents of this action recommended the following based from the findings 
     abstract:
       "Targeting emerging eco-tourism towns, this project creates a lightweight revenue management framework that guides community councils in pricing tour bundles. Leveraging historical visitor counts, weather data, and transport availability, the model forecasts weekly demand and recommends dynamic price adjustments while preserving equitable earnings among partner households. Field tests in two coastal barangays increased average household tourism income by 18% without reducing visitor satisfaction. The thesis details governance agreements, training modules for local guides, and the ethical guardrails that prevent price gouging. Future work suggests integrating conservation impact metrics and cooperative-owned booking platforms.",
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "ABM.jpg",
+    pdfUrl: "/",
   },
   {
     id: "pbm-01",
@@ -448,8 +447,8 @@ The proponents of this action recommended the following based from the findings 
     abstract:
       `This study evaluates the effectiveness of "Oceanus Evo," a desalination system prototype, designed for maritime applications. The research assesses the prototype's performance in producing potable water, focusing on key metrics such as salinity removal and water production rate. The study employs a quantitative experimental design, utilizing laboratory testing and field simulations to gather data. The effectiveness of " Oceanus Evo" is analyzed through measurements volume of salt water, amount of salt produced, and volume of fresh water produced. The findings demonstrate Oceanus Evo's capability to effectively desalinate seawater, providing valuable data on its potential for practical implementation within the maritime industry. This research contributes to the development of sustainable water solutions for maritime environments, highlighting the potential of "Oceanus Evo" to address freshwater scarcity challenges.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-05.pdf",
+      "PBM.jpg",
+    pdfUrl: "/",
   },
   {
     id: "pbm-02",
@@ -471,8 +470,8 @@ The proponents of this action recommended the following based from the findings 
     abstract:
       `Oil spills pose significant threats to marine ecosystems, coastal populations, and the global economy. Traditional cleanup methods, such as booms and skimmers, are often costly, inefficient, and environmentally harmful. This study explores the potential of coco coir, a natural fiber derived from coconut husks, as a sustainable and cost-effective alternative for oil spill remediation. The research investigates coco coir's adsorption capacity for different oil types, including vegetable oil and gasoline, while also analyzing the effect of contact time on its efficiency. Experimental results demonstrate that coco coir possesses high oil adsorption properties, with a greater affinity for vegetable oil than gasoline. However, its high water absorbency presents a limitation, suggesting the need for modifications to enhance its hydrophobicity. The findings indicate that improvements such as combining coco coir with other materials (e.g., sawdust or corn cobs) or altering its structure into absorbent pads could optimize its performance. This study highlights coco coir's potential as an eco-friendly and cost-efficient oil spill cleaner, promoting sustainability and environmental protection. Further research on large-scale applications and modifications is recommended to enhance its effectiveness in real-world oil spill scenarios.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-06.pdf",
+      "PBM.jpg",
+    pdfUrl: "/",
   },
   {
     id: "pbm-03",
@@ -494,8 +493,8 @@ Non-metal
 Device
 `,
     thumbnail:
-      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-07.pdf",
+      "PBM.jpg",
+    pdfUrl: "/",
   },
   {
     id: "pbm-04",
@@ -515,8 +514,8 @@ Device
 Keywords: Marine AC System Maritime Industry
 `,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "PBM.jpg",
+    pdfUrl: "/",
   },
   {
     id: "pbm-05",
@@ -533,8 +532,8 @@ Keywords: Marine AC System Maritime Industry
     abstract:
       `Mabini is known for its beautiful and lively marine diversity that's why it becomes one of the popular and favorite tourist destinations of travelers, vacationers, divers, and adventurers. For this reason, the economy of the municipality rises as well as the number of its wastes production. The clear water of the place became filthy and floating wastes are observable, like, plastics, bottles, cans, paper, candy wrap, and even diapers can be seen now in the surface of the seawater. This situation motivates the researchers to build an environment friendly machine called "the seabin" that will lessen the number of wastes or even be a solution for the over production of waste in water areas in Mabini. The seabin works similarly to a filter. An electric pump draws water through the bottom of the cylinder, creating a vortex around the upper edge that pulls in water and floating trash. A bag filter, made of natural material like a coffee sack, collects the trash and allows water to pass through (M. Weiser, 2016). Furthermore, to determine the potential and effectiveness of the seabin, the researchers focuses on the seabin's capacity and speed of collecting waste. They conduct some trials to measure the ability of the machine. The researchers estimated the amount of garbage that the seabin can gather weekly, monthly, and yearly. In addition, they test the relationship of the capacity and speed of collecting wastes of the seabin. Afterwards, the researchers find actions that can be done to enhance the performance of the seabin. The researcher uses Experimental-Correlational method for this study in order to view the potential and effectiveness of the seabin in collecting wastes. As a result, the researchers found out that the seabin can bring a large impact to the problem of over production of wastes of Mabini.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "PBM.jpg",
+    pdfUrl: "/",
   },
   {
     id: "pbm-06",
@@ -552,8 +551,8 @@ Keywords: Marine AC System Maritime Industry
     abstract:
       `Providing alternative means to serve as a solution to addressing oil spills through the use of banana trunk fibers will significantly assist in the promotion and protection of the environment. The researchers discovered that the lysoda used in creating banana fibers might harm users health. If banana fibers are dried in the heat of the sun, they will stick together and harden. In this study, the researchers made use of the experimental method in order to determine if there are differences between water and land using banana trunk fiber for oil spill management. These will be used to gather information about the difference between the absorption capacity of acylated banana fibers on land and water. This study requires the main materials, such as banana trunk. The study is then interpreted, analyzed, and supported by the review literature and study.Researchers found out that banana fibers are efficiently sorbent in removing oil in water and may be alternatively utilized for oil cleanup. According to the findings of the study, banana trunk fiber can be used as an alternative tool for absorbing oil spills in the water rather than on land. This study will focus on the effectiveness of banana fibers as an oil eliminator.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "PBM.jpg",
+    pdfUrl: "/",
   },
    {
     id: "humss-01",
@@ -572,8 +571,8 @@ Keywords: Marine AC System Maritime Industry
     abstract:
       `The purpose of this study investigated the psychological effects of social media use on the academic performance of 11th-grade Humanities and Social Sciences (HUMSS) students at Anselmo A. Sandoval Memorial National High School. Recognizing social media's dual nature, offering benefits like enhanced communication and information access while posing challenges such as distraction and mental health concerns, the research aimed to describe the relationship between social media usage and academic outcomes. A descriptive research design was employed, analyzing data from student questionnaires. Results revealed a significant negative correlation (r=-0.510, p=0.045) between grades and psychological factors associated with social media use. Contrary to expectations of negative impact, the study concluded that social media positively influenced the students' academic performance, easing study difficulties and improving class performance by providing access to information and enhancing vocabulary. The findings suggest that, for this specific student population, social media serves as a beneficial tool for learning and academic improvement.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-02",
@@ -622,8 +621,8 @@ After throughout analysis interpretation of the data gathered, the following fin
 3. The teachers may use a fun activities for the students to learn faster and have fun.
 `,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-03",
@@ -646,8 +645,8 @@ After throughout analysis interpretation of the data gathered, the following fin
     abstract:
       `This study aimed to examine the implementation of QR Code for grade viewing among Amethyst students in Anselmo A. Sandoval Memorial National High School S.Y. 2023-2024 and the effectiveness of QR Code in enhancing convenience and accessibility to student records, while also verifying the authenticity of student cards. The study employed the quantitative research method in experimental research design with the researcher-made questionnaire as the main instrument for data gathering. The respondents of the study involved a total population of 44 Grade 12 Students from the section of Amethyst currently enrolled and studying in Anselmo A. Sandoval Memorial National High School. Moreover, ranking, weighted mean, and t-test were the statistical tools used to treat the data. The results suggest that the use of QR codes for report card releasing does not have an impact on usability and reliability but can positively increase the convenience of the process. This is beneficial for both the users and the school system as it leads to more efficient and convenient report card releasing. Therefore, the use of QR codes for report card releasing is recommended. Based on findings, this study show that students of Grade 12- Amethyst believed that the use of QR codes for card viewing minimized time and effort, and it was not time-consuming as it only required following simple steps to view cards clearly. It also made card-viewing more efficient and resulted in less paper usage. In terms of convenience, students found it helpful in accessing their cards conveniently without any hassle. Additionally, students added that QR codes also help to minimize interruptions to their parents' work and the need for transportation. Students generally agree that card viewing in a traditional way doesn't require wifi and can be done so with their parents. In addition, card viewing traditionally did not require Wi-Fi, which made it more accessible for the students.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-04",
@@ -668,8 +667,8 @@ After throughout analysis interpretation of the data gathered, the following fin
     abstract:
       `Republic of the Philippines Department of Education REGION IV – A CALABARZON SCHOOLS DIVISION OF BATANGAS ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL P. BALIBAGUHAN, MABINI, BATANGAS ABSTRACT Stressors and academic performance are about the students’ activeness in class. Due to different stressors, students encounter lots of challenges in terms of their skills. Addressing these challenges helps the researchers know what is their common struggles. Every students have different aspects in thinking so much about their academic performance and skill. This study examines stressors in Media and Information Literacy and Academic Performance among G12 Amethyst students at Anselmo A. Sandoval Memorial National High School. It identifies challenges in editing and analyzing online sources. Furthermore, the researchers propose introducing accessible online and offline editing apps to alleviate these technological difficulties. Results of this study indicates how stressors for students in the subject of Media and Information Literacy and also in their academic performance perceived a great extent agreement that almost 44 students of Amethyst are having a hard time in their the editing and analyzing skills that need to apply in Media and Information Literacy based on the form of questionnaire responses of students-respondents. Moreover, the skill in evaluating reliable sources have a weighted mean that is determined to great extent. Moreover, there is no significant relationship between the stressors and academic performance among G12 Amethyst students. The stressors does not affect the students’ academic performance; students can still ace their performance academically even they are stressed. However, based on the researchers’ findings and conclusions, students can achieve their desired grades even though they are having a hard doing and analyzing a certain activity in Media and Information Literacy.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-05",
@@ -692,8 +691,8 @@ After throughout analysis interpretation of the data gathered, the following fin
     abstract:
       `The purpose of this study was to evaluate grade 12 students at Anselmo A. Sandoval Memorial National High School using the Assisted Chat GPT Reviewer in Triple I. In addition, the various assisted chat GPT reviewer forms were analyzed and classified according on the speed retention, accuracy, and longevity. The purpose of this research study was to assess the speed retention, accuracy, and duration of the Assisted Chat GPT Reviewer and the traditional method. In addition, the study intended to provide strategies for improving students' use of the Online Chat GPT Reviewer. The key tool for data collection in the study was a questionnaire created by the researcher, and it used the experimental research design and the quantitative research method. The study covered 23 Grade 12 Amethyst students who are presently enrolled in Anselmo A. Sandoval Memorial National High School as respondents. Additionally, the statistical techniques applied to the data included ranking, weighted mean, and two-tailed t test analysis. Results of the study indicated that students of all backgrounds perceived a great extent agreement that Al ChatGPT reviewer had a role in their academic performance and understanding of various subjects based on the weighted mean acquired from questionnaire responses of students-respondents. Moreover, the students perceived a great extent role of Al ChatGPT reviewer in providing academic assistance and improving their learning experience. Furthermore, there is a significant relationship between the assessments of the role of Al ChatGPT and academic performance among students. Positive results of Al ChatGPT reviewer in aiding academics`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-06",
@@ -714,8 +713,8 @@ After throughout analysis interpretation of the data gathered, the following fin
     abstract:
       `HUMSS RESEARCHERS (AMETHYST). 2018 Anselmo A. Sandoval Memorial National High School Academic Performance Between Students of OFW Parent/s and of Non-OFW Parentis Among Grade 8 students of Anselmo A. Sandoval Memorial National High School Research Teachers: Mrs. Annaliza Alolod Mrs. Marilou Escalona Keywords: Acadernic of Performance, Students with OFW Parent/s and non- OFW Parent/s Family as the basic unit of the family is also an essential part of heritage and culture of Filipinos. As recent times an increasing number of parent/s are undeniable encourage to go to abroad to sustain their family's basic and financial need. Furthermore, in most evident cases which the researchers are interested in some circumstances some students having OFW parent's and non OFW-parent ten to academically excell or fail this cause for the researchers most interest in this topic. This study aimed to determine the Academic Performance Between Students of OFW Parent/s and of Non-OFW Parent/s Among Grade 8 students of Anselmo A. Sandoval Memorial National High School along the knowledge, skills, and participation in school activities. What are the demographic profile of the student-respondents having OFW parent/s and having non-OFW parent's in relation to age, gender, parents in abroad, parent/s occupation, number of years in abroad and guardian? (2) How may the student-respondents of OFW parent's and of non-OFW parents be affected in relation to: (2.1)Communication Aspects (22) Schooling Family Support (2.3) Emotional Family Support (2.4) Character Building (2.5) Peer Influence (3) What is the level of performance of student-respondents with OFW parent/s and Non-OFW parent/s? (4) Is there a significant difference between the studnt-respondents of OFW parent/s and of non-OFW parent/s to their level of performance? (5) Based on the findings, what plan of action may be proposed? Furthermore, this study used the experimental research design to know the Academic Performance Between Students of OFW Parent/s and of Non-OFW Parent/s Among Grade 8 students of Anselmo A. Sandoval Memorial National High School. For the total of eighty (80) students, dividing it into two, forty (40) students having an OFW parent/s and forty (40) students having a non-OFW parents. Using the method of Fishbowl ramdom sampling we are able to get the respondent. To know if there is any significant difference among the two the researchers applied T-Test.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-07",
@@ -739,8 +738,8 @@ After throughout analysis interpretation of the data gathered, the following fin
     abstract:
       `This study aimed to determine the struggles encountered in face-to-face dasses implementation among the gender of Grade 12 students in Anselmo A. Sandoval Memorial National High School Academic Year 2022-2023. The researcher wanted to determine the struggles of the learners with gender as the demographic profile. Additionally, the said struggles were determined as academic adjustments, social adjustments, and difficulties in terms of transportation accessibility and expenses. This study aimed to find out whether there is a significant difference in the struggles experienced among the gender of Grade 12 students, for possible intervention activities that may be presented to mitigate the problem. The study used quantitative research, specifically employing a descriptive research design. In terms of the number of respondents, sixty-two respective subjects are congregated from the used of the Raosoft Sampling Calculator, and the Stratified Random Sampling method with Equal Allocation was used as the determinant of the chosen respondents. Cronbach Alpha, ranking, percentage, weighted mean, raosoft sampling calculator, and analysis of variance were the statistical tools used to treat the data. Results of the study indicated that the struggles encountered by the students in face-to-face classes at Anselmo A. Sandoval Memorial National High School such as academic adjustment, social adjustment, transportation accessibility, and expenses are moderately manifested in general; thus, they still experience hardship and struggle in school. There is no significant difference in the struggles of students when they are grouped according to their gender, it just simply means that the gender of the respondents is not an affecting factor, as the male, female, and LGBTQIA+ students experience the same hardship in face-to-face classes. As a result, the average of the composite mean per variable to get the variable that obtained the highest response was determined that the students struggle. In adjusting academically and coping with the expenses, thus, intervention activities are proposed. The study's findings were the bases for the development of the proposed activities focused to help the students cope and alleviate the challenges that the students experience in school. Based on the findings and conclusions of the study, some recommendations were given such as the proposed activities geared to somehow alleviate or lessen the struggle that the students encountered on the said factor. Another, the implementation of intervention activities may be encouraged by the school administrators and embraced by target people in each activity for an effective objective. Then, this study is set as a guide for conducting similar or related studies by other future researchers.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-08",
@@ -763,8 +762,8 @@ After throughout analysis interpretation of the data gathered, the following fin
     abstract:
       `This current study aims to determine the stressors encountered in Practical Research subjects and their relation to the behavior among the Grade 12 students, Academic Track in Anselmo A. Sandoval Memorial National Highschool. The descriptive method was used to analyze and describe the stressor experienced by the students in their Practical Research subject. It describes all dependent and independent variables of the study and measured the relationship among them. The study's respondents involved were a total population of 59 Grade 12 students from the total of ten (10) sections in the academic track currently existing in Anselmo A. Sandoval Memorial National High School during the study. According to its results, the majority of the students experience stress due to the deadline in Practical Research subjects. The result of the study is found negative therefore the proponents proposed intervention activities that could help to resolve the problem.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-09",
@@ -791,8 +790,8 @@ After throughout analysis interpretation of the data gathered, the following fin
     abstract:
       `This study aimed to determined the status of Working and Non working students among Senior High School Anselmo A. Sandoval Memorial National High School  in terms of  their Target ‎preference; Academic Performance; relationship and differences of Working and Non-working students . ‎`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-10",
@@ -803,8 +802,8 @@ After throughout analysis interpretation of the data gathered, the following fin
     abstract:
       `The purpose of this study investigated the psychological effects of social media use on the academic performance of 11th-grade Humanities and Social Sciences (HUMSS) students at Anselmo A. Sandoval Memorial National High School. Recognizing social media's dual nature, offering benefits like enhanced communication and information access while posing challenges such as distraction and mental health concerns, the research aimed to describe the relationship between social media usage and academic outcomes. A descriptive research design was employed, analyzing data from student questionnaires. Results revealed a significant negative correlation (r=-0.510, p=0.045) between grades and psychological factors associated with social media use. Contrary to expectations of negative impact, the study concluded that social media positively influenced the students' academic performance, easing study difficulties and improving class performance by providing access to information and enhancing vocabulary. The findings suggest that, for this specific student population, social media serves as a beneficial tool for learning and academic improvement.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-11",
@@ -815,8 +814,8 @@ After throughout analysis interpretation of the data gathered, the following fin
     abstract:
       `The Probability of Passing the Entrance Exam in Batangas State University of HUMSS Student in Anselmo A. Sandoval Memorial National High School was explored in this study. It focused on how their academic performance affected their performance on entrance exam also the ideal score that is needed to pass the test, and lastly, the type of entrance exam does Batangas State University offer. Both secondary, especially senior high HUMSS students, and tertiary educational institutions were both included in the study to fully comprehend on how these factors impact the students' chances of passing the entrance exam. The study took a quantitative approach where an online survey questionnaire was used to collect data from 32 former students of grade 12 HUMSS students' batch 2023-2024 who tried to pass the entrance examination in Batangas State University. The respondents were selected using convenience sampling technique. As a quantitative research, statistical methods were employed to analyze the collected data. The results revealed that higher academic performance, particularly in subjects related to reading comprehension, critical thinking, and problem-solving, was strongly correlated with a higher probability of passing the entrance exam. Additionally, the required passing score varied depending on the program applied for, indicating that certain courses demand a higher level of competence. The study found that many students struggled with the entrance exam due to a lack of familiarity with the exam structure and the level of difficulty of the test questions. This suggests that proper preparation and awareness of the exam format are critical for improving success rates. Furthermore, the findings highlighted the need for additional support, such as review programs, study guides, and preparatory courses, to enhance students' readiness for the entrance exam.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-12",
@@ -827,8 +826,8 @@ After throughout analysis interpretation of the data gathered, the following fin
     abstract:
       `This study explored on how community events play a crucial role in fostering local engagement and strengthening social ties in Talaga East. These gatherings provide opportunities for residents to connect, share experiences, and build relationships, ultimately contributing to a vibrant and cohesive community. This study took a quantitative approach where the researcher distribute survey questionnaire was used to collect data from 17 students of Grade 10 and 9 students of Grade 11 and also 11 students of grade 12 making up a total sample size of 37 respondents who were selected using convenience sampling technique. This study allows for an extensive analysis of a community, examining how they enhance themselves through community events and how they build their relationships within the community. As quantitative research, the comparative ANOVA analysis demonstrates how community events in Talaga East build and enhance communication among residents. Community events foster a sense of belonging and shared identity among residents. By bringing people together to celebrate local traditions, cultural heritage, or simply to enjoy each other's company, these gatherings strengthen social bonds and create lasting memories. When residents feel a sense of ownership and pride in their community through events, they may become more likely to participate in other aspects of local life, such as volunteering, attending town meetings, or supporting local initiatives. Events can serve as a gateway to more active involvement. To sum up, Community events in Talaga East play a pivotal role in enhancing local engagement and strengthening social ties. By providing opportunities for communication, fostering civic participation, celebrating shared identity, and building support networks, these events create a sense of belonging and unity. They also encourage inclusivity and intergenerational connections, helping to break down social barriers and promote a more cohesive community. Ultimately, these gatherings help residents feel more connected to each other and their community, creating a stronger, more engaged in community. The findings demonstrate that community events significantly enhance residents' sense of belonging and empowerment. Participation in barangay events provides opportunities for individuals to connect with their community, gain access to resources, and develop leadership skills, ultimately contributing to a more vibrant and engaged local environment.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-13",
@@ -839,8 +838,8 @@ After throughout analysis interpretation of the data gathered, the following fin
     abstract:
       `This study explored the influence of the least-ranked difficult subject on the academic performance and study behaviors of Grade 12 students in the Humanities and Social Sciences (HUMSS) strand at Anselmo A. Sandoval Memorial National High School. It examined how students' perceptions of subject difficulty shaped their engagement, motivation, and overall academic outcomes, shedding light on the broader implications of curriculum design in senior high school education. A quantitative research approach was employed, utilizing a survey questionnaire to gather data from 40 students selected through convenience sampling. This method enabled a comprehensive analysis of how students interacted with their least difficult subject, whether it provided academic relief, increased confidence, or led to a decline in effort toward more challenging courses. Using comparative statistical analysis, the study found varied impacts of having a subject perceived as "easy" on different aspects of academic life. While some students leveraged it as an opportunity to boost their overall grades, others demonstrated reduced academic engagement, indicating a complex relationship between subject difficulty perception and performance. These findings suggest that while having an easier subject may contribute positively to student confidence, it also presents challenges in maintaining consistent effort across all subjects. In conclusion, this research highlights the need for balanced academic workloads and curriculum structuring to ensure holistic learning experiences. The results offer insights for educators and policymakers to refine teaching strategies, ensuring that both challenging and less difficult subjects contribute effectively to student growth. As educational dynamics continue to evolve, such studies remain crucial in guiding improvements in academic planning and student support systems.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-14",
@@ -851,8 +850,8 @@ After throughout analysis interpretation of the data gathered, the following fin
     abstract:
       `This study explored the impact of technology on the learning outcomes of Grade 12 HUMSS students at Anselmo A. Sandoval Memorial National High School during the 2024-2025 academic year. The research aimed to identify how technology enhances academic performance, highlight its advantages and challenges, and provide actionable insights for effective integration in educational settings. Using a quantitative descriptive research design, 40 respondents were selected through purposive sampling from sections Diamond, Amethyst, and Pearl. Data collection was conducted through structured survey questionnaires administered via Google Forms, and the gathered information was analyzed using statistical tools such as weighted mean and percentage analysis. Findings revealed that students perceive modern technology as essential for completing tasks efficiently, fostering academic growth, and preparing them for future careers. Positive outcomes included improved critical thinking, better task management, and enhanced engagement in learning activities. Nevertheless, challenges such as distractions, prolonged screen exposure, and information overload were identified as notable concerns. Additionally, access to reliable internet and digital devices remained a significant barrier for some students, limiting equitable learning opportunities. This study concluded that Integrating technology into classroom instruction positively influences students' learning experiences, provided that it is effectively managed and supported by adequate resources. Recommendations include continuous teacher training on digital tools, fostering a balanced approach to screen time, and ensuring students have equal access to necessary technology. Furthermore, school administrators are encouraged to support technology-driven initiatives that promote academic excellence. Future research involving a larger sample size and diverse student groups is recommended to validate and expand upon these findings.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-15",
@@ -863,8 +862,8 @@ After throughout analysis interpretation of the data gathered, the following fin
     abstract:
       `This study examines how Grade 12 students in the Humanities and Social Sciences (HUMSS) strand at Anselmo A. Sandoval Memorial National High School performs academically and how motivated they are based on their disliked subjects. This research study was conducted to analyze the objective of the study which into examine how the difficult subjects in grade 12 affect their learning skills and overall educational outcomes. To achieve this objective, a qualitative data collection method approach was employed. A survey questionnaire was administered to a sample of HUMSS student ,assessing their perceptions, vocabulary and experiences in the subjects. The findings indicated that respondents thought creative writing to be the most challenging subject. Additionally, the study found a strong relationship between students' academic success and their subject preferences. Students who showed a smaller amount of interest in creative writing performed worse academically and were more discouraged. According to the findings, in order to improve academic engagement and achievement, they need to study well, read a lot of books, understand the lessons and search the meaning of unfamiliar words to enhance their vocabulary. These findings contribute to the depth of knowledge that is accessible on the effects of the most challenging subject for grade 12 students, with a particular emphasis on the HUMSS Senior High School setting at Anselmo A. Sandoval Memorial National High School.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-16",
@@ -878,8 +877,8 @@ The study highlights the importance of creating an engaging and supportive learn
 Based on the results, the study recommends integrating psychological approaches into language instruction to foster a positive learning experience. Teachers should focus on building students' confidence, providing interactive speaking opportunities, and incorporating technology to enhance engagement.
  Future research should explore long-term effects of these psychological strategies on language acquisition and consider additional factors such as cultural influences and peer interaction in developing speaking proficiency.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-17",
@@ -891,8 +890,8 @@ Based on the results, the study recommends integrating psychological approaches 
       `This study was conducted to examine the effect of stage fright on the academic performance of a student, specially focusing on the Grade 12 Diamond under the strand of HUMSS. A quantitative research methodology was used to ensure precise and objective findings. The data was gathered through distributing printed questionnaires to students, with an average of thirty students taking part in the study, giving their insights about the causes of stage fright and how it affects their academic performance. In order to ensure a fair representation of students, the study employed the roulette wheel random sampling approach to identify the respondents. The purpose of the handed-out questionnaires was to find out what factors contribute to stage fright, such as judgments, prior public speaking experiences, and self-confidence. The researchers were able to distinguish the frequency and intensity of stage fright among students as well as the relationship between it and their academic performance with the help of the responses of the respondents. Stage fright showed a significant effect on grade 12 Diamond HUMSS students' academic performance. Higher levels of stage fright and anxiety were associated with low performance in presentations, recitations, and other academic activities that require the student to do public speaking. Their conflict in terms of academic performance was made worse by the psychological and physical symptoms of stage fright, which include trembling, a rapid heartbeat, and mental blocks. 
 As a conclusion, the study emphasizes the significance of treatment and attending symposiums to help students effectively manage their anxiety and stage fright. By employing confidence-boosting techniques and providing teachers with assistance, we can assist students in reducing stage fright by addressing the psychological and physical aspects of stage fright and enhancing their academic performance.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-18",
@@ -903,8 +902,8 @@ As a conclusion, the study emphasizes the significance of treatment and attendin
     abstract:
       `This study investigates the influence of social media on youth preferences and opinions about their community. Using a quantitative approach with a single-group pre-test post-test design, the study surveyed 37 Junior High School students from Anselmo A. Sandoval Memorial National High School in Mabini, Batangas, Philippines. The research explored how social media platforms shape youth perceptions of local issues, community events, and overall community engagement. The findings reveal a complex relationship between social media use and community involvement. While social media facilitates connections with peers and raises awareness of community challenges, it also contributes to a lack of trust in online information and a potential focus on negativity. The study highlights the need for media literacy programs to empower youth to navigate online information critically, fostering positive community engagement and mitigating the potential negative impacts of social media. The research underscores the importance of addressing the digital divide and promoting responsible online behavior to harness the positive potential of social media for community building.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-19",
@@ -915,8 +914,8 @@ As a conclusion, the study emphasizes the significance of treatment and attendin
     abstract:
       `This study examines the effect of insufficient vocabulary development on the reading comprehension skills of Grade 10 students at Anselmo A. Sandoval Memorial National High School, focusing on those who encounter difficulties in academic subjects, particularly in English. Given that vocabulary is essential for understanding and interpreting written texts, the research explores how a lack of vocabulary knowledge can impede students' ability to comprehend reading material fully. By evaluating students' reading abilities, the study seeks to identify the relationship between vocabulary skills and reading comprehension, offering insights into the academic challenges faced by the students. The research followed a quantitative approach, using a descriptive research method to analyze the effects of vocabulary development on students' reading comprehension and vocabulary proficiency. A simple random sampling method was used to select 36 Grade 10 students who completed a survey designed to assess their vocabulary and reading comprehension. Statistical analysis tools, such as mean, weighted mean, and interpretation, were employed to process the survey results and evaluate the link between vocabulary and reading comprehension skills. The results showed a significant relationship, with a p-value of 0,038, indicating that vocabulary development directly influences reading comprehension skills. Additionally, the study found that students who were more engaged, confident, and maintained good study habits showed improved academic performance, underscoring the role of motivation and consistent effort in academic success. Based on these findings, the researchers recommend targeted interventions to address vocabulary deficiencies, which could improve students' reading comprehension. These interventions could also be extended to other subjects to promote overall academic growth. The study offers valuable recommendations for educators looking to implement innovative teaching methods that engage and motivate students, ultimately improving their academic performance. By incorporating effective strategies and tools into their teaching, educators can help students overcome vocabulary-related challenges and enhance their overall academic achievement.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-20",
@@ -927,8 +926,8 @@ As a conclusion, the study emphasizes the significance of treatment and attendin
     abstract:
       `This study aimed to assess the role of social media on gender sensitivity among grade 12 students at Anselmo A. Sandoval Memorial National High School. Along with this, social media's role in the gender identity of the students as well as the various dimensions of their gender sensitivity including gender role equality, gender respect, and gender inclusivity were described and identified. This study aimed as well to examine the relationship between the role of social media on gender identity and the different gender sensitivity dimensions such as gender role equality, gender respect, and gender inclusivity. Moreover, challenges encountered by students of all genders were identified. Furthermore, this research study also aimed to propose ways to strengthen the use of social media platforms on gender sensitivity among students. The study employed the quantitative research method in correlational research design with the researcher-made questionnaire as the main instrument for data gathering. The respondents of the study involved a total population of 62 Grade 12 Students currently enrolled and studying at Anselmo A. Sandoval Memorial National High School. Moreover, ranking, weighted mean, and Pearson's product moment correlation coefficient were the statistical tools used to treat the data. Results of the study indicated that students of all genders perceived a great extent agreement that there's a role that social media plays on their gender identity in reference to the weighted mean acquired from the questionnaire responses of students-respondents. Moreover, male and LGBTQIA+ students perceived a great extent role of social media in all gender sensitivity dimensions namely gender role equality, gender respect, and gender inclusivity, while female respondents acquired a great extent role of social media in gender role equality and gender and a very great extent on gender inclusivity. Furthermore, there is a significant relationship in the assessments of the role of social media between gender identity and gender sensitivity dimensions among students. In line with this, a positive result of the effective role of social media on both gender identity and various gender sensitivity dimensions is expected among Grade 12 students in Anselmo A. Sandoval Memorial National High School. On the other hand, the most common primordial challenges that Grade 12 students of all genders have encountered are inferiority or the unequal treatment among genders, gender-based cyberbullying, the need of hiding their gender identity due to discrimination and traditional demands of gender roles. The findings of the study were the basis for the development of the proposed way to strengthen the use of social media platforms on gender sensitivity of grade 12 students. Based on the findings and conclusions of the study, some recommendations were given including the proposed Facebook Page to provide and spread gender sensitivity awareness and promote gender equality, gender respect, and gender inclusivity in online communities. Additionally, the school may also incorporate social media in advocating for the essence of a gender-inclusive environment. Then, this study may serve as a guide for other future researchers in conducting similar or related studies`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-21",
@@ -942,8 +941,8 @@ As a conclusion, the study emphasizes the significance of treatment and attendin
 Keywords: Social Media Reading Behaviors Comprehensive Analysis Academic Discourse
 `,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-22",
@@ -957,8 +956,8 @@ Keywords: Social Media Reading Behaviors Comprehensive Analysis Academic Discour
 Keywords: Oral Communication Supplementary Activity World Literature
 `,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-23",
@@ -969,8 +968,8 @@ Keywords: Oral Communication Supplementary Activity World Literature
     abstract:
       `As researchers pursue greater understanding of the best strategies for enhancing the performance of Grade 12 HUMSS students, the two productive language domains speaking and writing have traditionally been addressed separately. In this study it endeavors to explore the potential relationship between these two variables and to determine the level of performance in oral and written skills among Grade 12 HUMSS Strand in Anselmo A. Sandoval Memorial National High School.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-24",
@@ -981,8 +980,8 @@ Keywords: Oral Communication Supplementary Activity World Literature
     abstract:
       `The digital age has led to the rise of platforms like Facebook Pages and personal websites, providing new communication channels for personal and professional lives. However, students at Anselmo A. Sandoval Memorial National High School at Humanities and Social Sciences struggle to choose the best platform for their Creative Writing, Media, and Information Literacy outputs. A bunch of students prefer the Facebook page since it is easier to use and more accessible since almost everyone has Facebook accounts, and for the website they find them hard to use. Due to the complications in the setup, it seems that there is no difference between the two. The researcher came up with the study that will compare the two and find out which is the better platform to use for their Creative Writing, Media and Information Literacy outputs. The study compares Facebook page and website using quantitative- comparative design, a variable-oriented, case-oriented, and collection-oriented methodology for data analysis. This study consists of 50 Grade 12 Humanities and Social Sciences students at Anselmo A. Sandoval Memorial National High School, selected using the Stratified Sampling method. The Raosoft calculator was used to select respondents from four sections: Pearl and Amethyst, Spinel and Diamond, and Amethyst. The sample size was assessed with a 90% confidence level and 10% margin of error, accounting for 180 people. Researchers used a self-crafted survey questionnaire to gather essential information from selected respondents. The questionnaires' validity was ensured by 3 I's teachers who checked, revised, and suggested until polished for dissemination. The gadget that is suggested for using the two platforms. Facebook pages on frequency of 128 are most effective seen on mobile devices such as smartphones or tablets instead of laptops or computer.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-25",
@@ -993,8 +992,8 @@ Keywords: Oral Communication Supplementary Activity World Literature
     abstract:
       `This study aimed to assess the features of the Skylight: Spiritual Self-Care Application that contribute to stress relief among the respondents. Along with, the common stressors experienced by Grade 12 Humanities and Social Sciences students related to academic tasks including writing research papers, reporting, and project making were identified and examine. This study aimed as well to assess the level of effectiveness of the Skylight: Spiritual Self-Care Application in terms of academic composure, behavioral composure, and serving as a refresher for Grade 12 students. Additionally, this also aimed to propose actionable recommendations based on the study's findings to strengthen the use of the Skylight App among Grade 12 Humanities and Social Sciences students at Anselmo A. Sandoval Memorial National High School The study employed a quantitative research approach, specifically utilizing a descriptive research design to assess the effectiveness of the Skylight: Spiritual Self-Care Application as a stress reliever among Grade 12 Humanities and Social Science students at Anselmo A. Sandoval Memorial National High School. The research method involved data collection through a self-crafted survey questionnaire administered to 50 students selected through stratified random sampling from a total population of 180 students. The questionnaire, validated for reliability, consisted of two sections focusing on common stressors and the app's effectiveness, utilizing Likert scales for responses. Statistical analysis involved frequency counts, ranking, and weighted mean calculations to interpret the gathered data comprehensively. The study's comprehensive findings reveal that Grade 12 Humanities and Social Science students at Anselmo A. Sandoval Memorial National High School face significant stress in their academic tasks, including writing research papers, reporting, and project making. Common stressors identified within these tasks`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-26",
@@ -1005,8 +1004,8 @@ Keywords: Oral Communication Supplementary Activity World Literature
     abstract:
       `This study aimed to assess the role of Padlet application as an assessment tool in the field of interactive writing in Creative Nonfiction among Grade 12 Humanities and Social Sciences (HUMSS) strand students in Anselmo A. Sandoval Memorial National High School SY 2023-2024. With the use of survey questionnaires as the main data gathering tool and Likert scale method is used for collecting the data. The study employed the quantitative research method in descriptive research design with the researcher-made questionnaire as the main instrument for data gathering. The respondents of the study involve a total population of 180 Grade 12 Humanities and Social Sciences Strand currently enrolled and studying in Anselmo A. Sandoval Memorial National High School. Moreover, ranking, weighted mean, and Cronbach's Alpha were the statistical tools used to treat the data. There were 50 selected students through stratified random sampling respondents included in this study. Grade 12 Humanities and Social Sciences strand consist of four sections namely: Amethyst, Diamond, Pearl, and Spinel. Researchers included the top 12 and top 13 students depends on the total population of each HUMSS sections. Based on the data evaluated from the survey questionnaire, the researchers presented the findings and conclusion of the features, usability, safety and privacy, challenges, and the actions that the researchers created to minimize the challenges and difficulties that the students had encountered in using Padlet application. Majority of the respondents agreed that Padlet is a very useful, safe to use, and very effective in improving their writing skills and creativity at the same time.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-27",
@@ -1017,8 +1016,8 @@ Keywords: Oral Communication Supplementary Activity World Literature
     abstract:
       `This study aimed to assess how google docs enhance the collaborative writing skills of Grade 12 students at Anselmo A. Sandoval Memorial National High School. From Humanities and Social Sciences Academic Strand in Inquiries, Investigation, Immersion subject during the school year of 2023-2024. This study aims to compare and and evaluate google docs and microsoft word in terms of group sharing, functionality and accessibility. Along with this it provides insights into the effectiveness of Google Docs in enhancing collaborative writing skills among Grade 12 HUMSS students. Moreover, challenges encountered by students were identified. Furthermore, this research study also propose actionable recommendations to enhance the use of Google Docs in improving the writing skills of students. The study employed the quantitative research method in experimental research design with the researcher-made questionnaire as the main instrument for data gathering. The respondents of the study involved a total population of 64 Grade 12 HUMSS Students currently enrolled and studying at Anselmo A. Sandoval Memorial National High School. Moreover, ranking, weighted mean, and Raosoft formula, were the statistical tools used to treat the data. Results of the study indicated that the respondents found interacting with my peers through comments or suggestions on google docs enhances the collaborative writing process to the weighted mean acquired from the questionnaire responses of students-respondents. Moreover, google docs with my other google services such as Gmail, Google drive and google calendar acquired a Very Highly Manifested google docs is compatible with screen readers like a voice over to assist me when i difficult in reading and navigating the document`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-28",
@@ -1029,8 +1028,8 @@ Keywords: Oral Communication Supplementary Activity World Literature
     abstract:
       `This research aims to investigate the impact of incorporating music as a supportive tool on the enhancement of writing skills, particularly in creative non- fiction, in terms of generating ideas, longevity, and fluidity in writing. This study is limited to Grade 12 students in the HUMSS strand at Anselmo A. Sandoval Memorial National High School. This research utilized a quantitative research design of experimental research type with 50 respondents using the Raosoft formula. A stratified random sampling was conducted. The experimental group listened to background music during their writing sessions, while the control group maintained their writing sessions without background music. The writing skills of the students were measured using a validated survey questionnaire. Statistical analysis revealed a significant difference in the writing skills of respondents with and without music in terms of generating ideas, longevity, and fluidity, with p values of 0.00001216, 0.0000000024, and 0.000683 with a = 0.05 rejecting the null hypothesis. To sum up, the presence of background music has a significant impact on the writing skills of respondents in terms of generating ideas, longevity, and fluidity. The data also revealed that the students were mostly engaged in pop, classical, and hip-hop music genres. To enhance writing performance among students, the researchers proposed Spotify playlists corresponding to the top three preferred music genres of the students.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-29",
@@ -1041,8 +1040,8 @@ Keywords: Oral Communication Supplementary Activity World Literature
     abstract:
       `This study aimed to assess Quillbot Al Detector as tool in writing thesis paper among Grade 12 HUMSS students of Anselmo A. Sandoval Memorial National High School. Along with this some student nowadays rely too much on Al creator tools for their school work such as research which is not accurate and reliable and may affect their own writing skill for not enhancing it and just rely on Al. The design used in this study is a quantitative research method in descriptive design with 32 students as a respondents, purposive sampling and a statistical treatment such as weighted mean, rank and frequency counts. This research is limited to leaders and co-leaders of the groups on the subject Inquiries, Investigations and Immersion of HUMSS strand in AASMNHS. Furthermore, the originality/value of this research paper enhances the writing skill and content authenticity on writing a thesis through the use of Quillbot Al Detector. For the findings of the study, the use of Quillbot Al Detector was found to perform in great extent on detecting whether a work of a member in writing thesis is Al generated or not. Thus, it enhances the writing skill of the student and not rely on Al work.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-30",
@@ -1053,8 +1052,8 @@ Keywords: Oral Communication Supplementary Activity World Literature
     abstract:
       `This study explores the key factors influencing senior high school students in selecting the Humanities and Social Sciences (HUMSS) strand and examines the challenges they faced during the decision-making process. The research was conducted to gather authentic data to develop effective interventions to address these challenges. Conducted at Anselmo A. Sandoval Memorial National High School, the research employed simple random sampling to gather 40 respondents from the senior high school population, ensuring accurate and relevant data to support the study's objectives. Using a quantitative approach, data was collected via Likert-scale questionnaires disseminated electronically through Google Forms, which facilitated accuracy and convenience in data collection. The collected numerical data was analyzed using weighted mean calculations to determine the influence levels of each identified key factor. The findings revealed that personal interest in the HUMSS strand was the most influential factor, with a weighted mean of 3.18 and a "Strongly Agree" interpretation. Conversely, gender was the least influential factor, with a weighted mean of 1.75 and a "Disagree" interpretation. The most challenging aspect of the decision-making process was academic performance, with a weighted mean of 2.95 and an "Agree" interpretation, while peer pressure was the least challenging, with a weighted mean of 1.80 and a "Disagree" interpretation. There was no significant difference in the level of influence of these factors across senior high school grades, indicating that all grades were equally affected. Based on these findings, the researchers propose implementing a comprehensive symposium to better guide students and address the challenges they face in choosing the HUMSS strand. This study highlights the significant impact of various factors and challenges on students' decisions, suggesting more flexible approaches to mitigate these issues. The results provide valuable insights for future researchers to further explore the factors affecting students' decisions and to develop effective strategies for addressing them.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-31",
@@ -1065,8 +1064,8 @@ Keywords: Oral Communication Supplementary Activity World Literature
     abstract:
       `This study aimed to assess the effectiveness of the Capcut application in digital output among grade 12 students at Anselmo A. Sandoval Memorial National High School. Along with this, Capcut application aesthetic features proposed to improve the overall aesthetic features like the visual effects, sound effects, and transition effects. This study aimed as well to examine the relationship between the effectiveness of the Capcut application in digital output and other video editing tools in overall aesthetic features. Moreover, challenges encountered by students in making their digital output for the selected subjects. Furthermore, this research study also aimed to propose ways to strengthen the effectiveness of the Capcut application in digital output. The study employed the quantitative research method in experimental and research design with the researcher's self made constructor questionnaire as the main instrument for data gathering. The respondents of the study involved a total population of 58 Grade 12 Students currently enrolled and studying in Anselmo A. Sandoval Memorial National High School. Moreover, ranking, weighted mean, and 90% confidence level and a 0.05 coefficient level were the statistical tools used to treat the data. Results of the study indicated that students' effectiveness of the Capcut application in digital output perceived a very highly manifested that there's a effectiveness of the Capcut application in digital output with the weighted mean acquired form the questionnaire responses of students-respondents. Moreover, male and respondent perceived a great extent in effectiveness of the Capcut application in digital output among grade 12 student in the overall aesthetic features, the aesthetic features of the Capcut application in terms functions, creativity, visual appeal, visual effects, sound effects, and transition a favor as a highly manifested by the respondent. Furthermore, there is no significant relationship on the effectiveness of the Capcut application in digital output among grade 12 students. In line with this, a positive result of effectiveness of Capcut application in digital output through the overall aesthetic features of the Capcut application is expected among Grade 12 students in Anselmo A. Sandoval Memorial National High School. On the other hand, the most common primordial challenges that Grade 12 students in all have are the digital output of senior high school students to the aesthetic value of the digital output. The findings of the study were the basis for the development of the proposed way to strengthen the effectiveness of the Capcut application in digital output among grade 12 students. Based on the findings and conclusions of the study, some recommendations were given including the proposed more aesthetic features on improving overall aesthetic features of the Capcut Application. Another, the school may also give a video presentation if editing using the aesthetic features of the Capcut Application. Then, this study may serve as a guide for other future researchers in conducting similar or related studies.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-32",
@@ -1077,8 +1076,8 @@ Keywords: Oral Communication Supplementary Activity World Literature
     abstract:
       `This study aimed to assess the effectiveness of Canva Utilization to learning experiences among Grade 12 HUMSS students in Anselmo A. Sandoval Memorial National High School during the academic year 2023-2024. This research employed a quantitative experimental research design, utilizing purposive sampling to select 33 respondents. Statistical analysis involved frequency counts, percentages, and weighted mean calculations. The study was limited to 33 Grade 12 Humanities and Social Sciences students at Anselmo A. Sandoval Memorial National High School. This research contributes to enhancing the use of the Canva application not only in Creative Writing but also across various other subjects. It demonstrates its versatility for fulfilling school or activity-related requirements. The findings suggest that the utilization of the Canva app significantly enhances the learning experiences of the respondents. Among the various tech tools available, Canva has gained popularity as a powerful and user-friendly graphic design platform. Canva allows users to create visually captivating and informative content. With the increasing need for engaging and interactive learning experiences, educators are constantly seeking ways to integrate technology into the classroom. As such, the utilization of Canva in the learning process has the potential to enhance student engagement and facilitate a more dynamic and creative approach to education. With Canva, users can create engaging lessons and activities by incorporating images, fonts, videos, animations, and editing features. This study aimed to asssess the effectiveness of utilizing canva application to the learning experiences among Grade 12 HUMSS Students. In addition to creative writing, Canva can be applied across various subjects to enhance the learning experiences of Grade 12 students`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-33",
@@ -1089,8 +1088,8 @@ Keywords: Oral Communication Supplementary Activity World Literature
     abstract:
       `Intervention while listening to pop music while writing assists students in strengthening the intellectual thinking and vocabulary of those who experience having difficulty in any academic areas, specifically in the subject Creative Writing. Thus, this study aimed to determine the effectiveness of listening to pop music in enhancing Grade 12 Humanities and Social Sciences (HUMSS) students' intellectual thinking and vocabulary in Creative Writing at Anselmo A. Sandoval Memorial National High School. This research paper utilized a quantitative research design, specifically employing an experimental research method. To assess the effectiveness of the said intervention in the subject Creative Nonfiction on the students' intellectual thinking and vocabulary, a pre- test and post-test were utilized as the main data-gathering tool. The researchers used simple random sampling on the 30 HUMSS students who had taken the pre-test and post-test in Creative Writing. The statistical tools such as mean, weighted mean, and T-test were used to measure the effects of the intervention. With 30 respondents of the study, it was concluded that the intervention has no significant effect on the intellectual thinking and vocabulary of the students, with a p-value of 0.52628592010716. Moreover, being highly engaged and confident in the pursuit of knowledge, as well as possessing good study habits, may contribute to improving the students' academic performance. Based on the findings, the researchers recommended intervention activities to further strengthen the intervention, which may also be implemented in other subject areas. Additionally, it provides implications for educators seeking innovative ways to engage and motivate their students, highlighting the potential benefits of incorporating pop music into their teaching practices. Overall, this indicates some students are struggling to think clearly during the test while they listen to music. While some became more excellent in writing while listening to pop music.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-34",
@@ -1101,8 +1100,8 @@ Keywords: Oral Communication Supplementary Activity World Literature
     abstract:
       `Artificial Intelligence has become increasingly powerful in recent years. Continuous evaluation is crucial to the power of Al effectively in educational settings. A research study was conducted to analyze the objective to examine how the integration of Al technology influences students' learning experiences, academic performance, and overall educational outcomes. To achieve this objective, a qualitative data collection method approach was employed. A survey questionnaire was administered to a sample of HUMSS Senior High School students, assessing their perceptions, attitudes, and experiences with Al technology. Additionally, in- depth interviews were conducted with a select group of students to gain deeper insights into their perspectives. The findings of this study revealed several significant impacts of Al on HUMSS Senior High School students. The integration of Al technology in the classroom was found to enhance students' engagement and motivation, as it provided interactive and personalized learning experiences. Al-based educational tools and platforms were found to improve students' academic performance by providing instant feedback, adaptive learning materials, and access to a wide range of educational resources. The study identified potential challenges and concerns related to the ethical implications and potential biases associated with Al technology in education. These findings contribute to the existing body of knowledge on the impact of Al in education, specifically focusing on the HUMSS Senior High School context in Anselmo A. Sandoval Memorial National High School.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "humss-35",
@@ -1113,8 +1112,8 @@ Keywords: Oral Communication Supplementary Activity World Literature
     abstract:
       `The integration of technology in education has gained significant attention, particularly through the distribution of free tablets by the Department of Education (DepEd). This study seeks to determine the effectiveness of these tablets in enhancing the learning experiences of Grade 12 HUMSS students at AASMNHS. While previous research has highlighted the benefits of digital learning tools, many studies fail to account for factors such as internet accessibility, device limitations, and student adaptability, leaving gaps in understanding their true impact in public school settings. To address these gaps, this study utilized a quantitative research design, employing questionnaires to gather data from Grade 12 HUMSS students. The survey assessed how the free tablets influenced academic performance, learning engagement, and digital literacy. The collected data was analyzed to identify trends, challenges, and the overall effectiveness of the tablets in supporting student learning. Findings indicate that while the tablets provide students with greater access to learning materials and improve technological skills, issues such as unstable internet connectivity, lack of proper technical support, and distractions from non-educational content hinder their full potential. These results suggest that for tablets to be truly effective, improvements in digital infrastructure, teacher training, and stricter content regulation are necessary. This study contributes to the ongoing discussion on educational technology, providing insights for policymakers and educators in optimizing the use of digital resources in public schools.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HUMSS.jpg",
+    pdfUrl: "/",
   },
   {
     id: "eim-01",
@@ -1125,8 +1124,8 @@ Keywords: Oral Communication Supplementary Activity World Literature
     abstract:
       `This study is conducted to determine the effectiveness of a personal design portable generator, a engine- driven machine that generates electricity and can be moved from one location to another. This study aims to determine the capacity of the energy that will consume in plugging gadgets and appliances to the portable generator. In conducting the study, the researchers used quantitative research method to observe and to test the portable generator if it is effective and useable. The research design that was used in the study is the experimental research which is quantitative since all of the data sets are gathered through experimentation of the effectiveness and to test the portable generator. The results shows that the efficiency of the portable generator, may easily endure any power loss by using it to power light bulbs, gadgets, and even appliances. Similarly, a portable generator is a useful purchase if you reside in an area where cyclones frequently cause power outages.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "EIM.jpg",
+    pdfUrl: "/",
   },
   {
     id: "eim-02",
@@ -1137,8 +1136,8 @@ Keywords: Oral Communication Supplementary Activity World Literature
     abstract:
       `The purpose of this study is to lessen the bill of electricity and, the use of electricity in way of making this research. The study aims with the help of the of effectiveness of free energy magnetic light with mobile charging self-running machine generator using DC motor us we called "Digital Flasher" this research is create of the researchers also to help lessen the use of electricity. It may help in may residence also when the time of brownout. - The researchers Castillo, Paul Kevin De Guzman, Jive Hendrix Gatongay, Roger Jr. Genteroy, Roilan Luistro, Christian`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "EIM.jpg",
+    pdfUrl: "/",
   },
   {
     id: "he-01",
@@ -1149,8 +1148,8 @@ Keywords: Oral Communication Supplementary Activity World Literature
     abstract:
       `This study examines the effectiveness of mulberry leaves as a sustainable alternative food wrapping material for hot desserts by comparing their physical properties, sensory qualities, and food preservation efficacy. Using a true experimental research design, 35 respondents, including 30 G 12 and G 11 senior high school Home Economics students and five teachers, evaluated the effectiveness of mulberry leaves through a validated 4-point Likert scale questionnaire. Desserts wrapped in mulberry leaves and commercial wrappers were assessed for taste, texture, and appearance. The weighted mean was used to measure the central tendency for each criterion. Preservation was observed under room temperature and refrigeration at intervals of 24, 48, 72, and 96 hours, measuring texture, flavor, microbial load, and moisture content. Results indicate that mulberry leaves enhance visual appeal and flavor while providing a rustic and organic presentation. While commercial wrappers offer a more uniform appearance, mulberry leaves effectively preserve dessert quality for up to 48 hours. After this period, sensory qualities declined due to moisture loss and oxidation, with significant deterioration beyond 72 hours. Statistical analysis showed no significant difference between mulberry leaves and commercial wrappers in maintaining food quality (p = 0.2717), suggesting that mulberry leaves can be an alternative wrapping material for hot desserts. The study concludes that mulberry leaves offer an eco-friendly food wrapping alternative without compromising quality. This finding has implications for sustainable food packaging, as businesses and consumers may consider mulberry leaves a viable natural option.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HE.jpg",
+    pdfUrl: "/",
   },
   {
     id: "he-02",
@@ -1161,13 +1160,13 @@ Keywords: Oral Communication Supplementary Activity World Literature
     abstract:
       `This study investigated the development and evaluation of powercoal cookware cleanser designed to an excellent cleaning solution for stubborn stains, oil, and burnt residues on a variety of cookware surfaces. With its potent yet mild formula, it successfully restores the original sheen of pots, pans, and cooking utensils without scratching or damaging them. It is an indispensable solution for preserving cleanliness and prolonging the life of kitchenware because of its quick-acting formula, which guarantees ease of use. Powercoal Cookware Cleaner is notable for its effectiveness, safety, and capacity to manage intense cleaning tasks with little effort. Keywords: Powercoal Cookware Cleanser Shining Shimering Coallagen`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HE.jpg",
+    pdfUrl: "/",
   },
   {
     id: "he-03",
     title: "FACTORS IN PREVENTING DIFFICULTIES OF GRADE 12 TECHNICAL- VOCATIONAL LIVELIHOOD STUDENTS OF ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ON THEIR WORK IMMERSION",
-    authors: ["Catarig, Glydel Mae"," Magmanlac, Queenan Faye"," Maliglig, Leslie"," Marquez, Shiela"," Matira, Anjeleca"," Panopio, Sophia Nicolle"," Reyes, Aerish Joy"," Siazon, Doren"," Layron, Jairon",' Valdez, Jayvison"," Luistro, Crizel Marie"," Malibiran, Kana Elaine"," Marcellana, Jimabel"," Masangcay, Eunice Claire"," Mauhay, Rochelle"," Rado, Quennie Rose"," Reyes, Hannah Vera"," Sibal, Jovelyn"," Magbuhat, Red"],
+    authors: ["Catarig, Glydel Mae"," Magmanlac, Queenan Faye"," Maliglig, Leslie"," Marquez, Shiela"," Matira, Anjeleca"," Panopio, Sophia Nicolle"," Reyes, Aerish Joy"," Siazon, Doren"," Layron, Jairon"," Valdez, Jayvison"," Luistro, Crizel Marie"," Malibiran, Kana Elaine"," Marcellana, Jimabel"," Masangcay, Eunice Claire"," Mauhay, Rochelle"," Rado, Quennie Rose"," Reyes, Hannah Vera"," Sibal, Jovelyn"," Magbuhat, Red"],
     year: "March 2018 ",
     strand: "HE",
     abstract:
@@ -1206,8 +1205,8 @@ Recommendation
  5. A similar study may conducted by the other students along this line.
 `,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "HE.jpg",
+    pdfUrl: "/",
   },
   {
     id: "smaw-01",
@@ -1218,8 +1217,8 @@ Recommendation
     abstract:
       `This study aims to design and develop a folding table with improved stability, portability, and functionality to enhance its usability for various users, including students and professionals. Specifically, it seeks to identify and assess the key features of the folding table, compare its effectiveness with traditional fixed tables in terms of ease of assembly, weight capacity, space efficiency, and user convenience, and determine significant differences between the two. Additionally, the study introduces design innovations to enhance the practicality and versatility of folding tables in different settings. A quasi-experimental research design was employed to evaluate user experiences with both the innovative folding table and a traditional fixed table. The study involved a selected group of participants, chosen through stratified random sampling, to assess the table's features and performance. Data collection was conducted using a structured survey questionnaire with Likert-scale items measuring stability, ease of use, portability, and overall satisfaction. Statistical tools such as frequency counts, ranking, mean, and an independent t-test were used for data analysis. The findings indicate that the innovative folding table offers significant advantages in terms of convenience, space efficiency, and portability compared to traditional models. It reduces setup time and provides greater adaptability for various environments. Statistical analysis confirmed a notable difference between the traditional and innovative table designs, favoring the latter in terms of stability and overall practicality. Keywords: foldable furniture, cost-effectiveness, portability, space efficiency.`,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "SMAW.jpg",
+    pdfUrl: "/",
   },
   {
     id: "smaw-02",
@@ -1258,8 +1257,8 @@ Recommendations
 4. With the help of Digital Learning, the learning is now in the hands of each learner and student
 `,
     thumbnail:
-      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
-    pdfUrl: "/pdfs/thesis-08.pdf",
+      "SMAW.jpg",
+    pdfUrl: "/",
   },
 ];
 
