@@ -48,7 +48,7 @@ Anselmo A. Sandoval Memorial National High School P. Balibaguhan, Mabini, Batang
   },
   {
     id: "ict-03",
-    title: ‎`UTILIZATION OF INTERNET AMONG SENIOR HIGH STUDENTS OF ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL: BASIS TO OPEN AN INTERNET ACCESS POLICY`,
+    title: `UTILIZATION OF INTERNET AMONG SENIOR HIGH STUDENTS OF ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL: BASIS TO OPEN AN INTERNET ACCESS POLICY`,
     authors: ["Amboy, Francis"," Baculo, Sherwin"," Dinglasan, Mark Dave"," Olano, Jason Denzel"," Busa, Mary Grace"," Galang, Kate Aubrey"," Martinez, Ericka"],
     year: "March 2019",
     strand: "ICT",
