@@ -14,56 +14,56 @@ export interface Thesis {
 export const theses: Thesis[] = [
     {
         id: "ict-01",
-        title: "Bottle for a Pen: Via Automated Plastic Bottle Vending Machine",
+        title: "VIDEO LEARNING TOOLS: IT'S EFFECTS ON THE ACADEMIC PERFORMANCE OF GRADE 10 STUDENTS IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGHSCHOOL",
         authors: [
-            "Jaso, Jherwin S.",
-            "Gonda, Andrew Jeoyam M.",
-            "Maala, Andie Luc C.",
-            "Manongsong, Paul Francis D.",
-            "Ramos, Ralph Jareez D.",
-            "Reyes, John Justin B.",
-            "Sarmiento, Mikel Jazle D.",
-            "Sombilon, John Joren V.",
-            "Dolor, Maria Rosalyn S.",
-            "Gunio, Rica Jhane J.",
-            "Matira, Christine Joy M.",
-            "Presto, Aileen V."
+          "Castillo, Angel Raven M.",
+          "Lipalam, Angel Mae G.",
+          "Ogayon, Jinkey Majal B.",
+          "Ortega, Ashlyn Nicole R.",
+          "Osorio, Ralph Lorenz",
+          "Pellazar, Cristal Jane G.",
+          "Reyes, Baby Ashley",
+          "Rotone, Isabelo R.
         ],
-        year: 2025,
+        year: "March 2025",
         strand: "ICT",
-        abstract: "This research paper, \"Bottle for a Pen: Via Automated Plastic Bottle Vending Machine\", investigates the development and implementation of an automated plastic bottle vending machine designed to promote recycling habits and environmental awareness among students in Anselmo A. Sandoval Memorial National High School. The study aims to assess the machine's effectiveness in encouraging proper disposal of plastic bottles and its overall impact on the school's sustainability initiative. Through quantitative research method, the study evaluates the students' engagement with the vending machine, their recycling behaviors, and their attitudes towards environmental conservation. Data collected from survey provide insights into the machine's usage, its benefits, and areas for improvement. The findings indicate a positive correlation between the presence of the vending machine and an increase in recycling activities among students. Additionally, the study highlights the importance of integrating innovative solution in educational settings to respond environmental responsibility and sustainable practices. The paper concludes with recommendations for further enhancing the vending machine's functionality and expanding its implementation to other educational institutions. This research contributes to the ongoing efforts to address plastic waste management and underscores the role of educational institutions in promoting environmental stewardship.",
+        abstract: `This study employs a experimental Research design to investigate the effectiveness of the video learning tools on Grade 10 Students in Anselmo A. Sandoval Memorial national High School, Through Pre- test, Post- test and survey questionnaires. The research evaluates the impact of video learning tools on grade 10 Students. The findings revealed That video learning tools gives positive effects to the respondents. The effectiveness of video learning tools whether it's negative or positive. Furthermore, the studying provides insights for the teacher and students the usage of video learning tools for their academics, recommendations includes prioritizing. Overall, the study contribute to the effects of video learning tools to grade 10 students and in educational trend.`,
         thumbnail: "https://images.unsplash.com/photo-1558618047-3c8c76ca7e87?auto=format&fit=crop&w=600&q=80",
         pdfUrl: "/pdfs/thesis-01.pdf"
     },
   {
     id: "ict-02",
-    title: "Context-Aware Thesis Recommendation Assistant",
-    authors: ["Jasper Co", "Lea Mapili"],
-    year: 2023,
+    title: "The Perception Of Elderly Professionals on the Common Task being Done Through Online. ‎ ‎",
+    authors: ["Abe, Jaztine D."," Declaro, Luis John P."," Dela torre, Clark John Lloyd D."," Silang, Stefano Jacques M."," Bastian, Kylie Monique P."," Buangaling, Le Joy L."," Caringal, Maria Clarice A."," Ortega, Nizsha Joy A. "],
+    year: "March 2025",
     strand: "ICT",
     abstract:
-      "The study designs a retrieval-augmented chatbot that helps undergraduates discover relevant theses based on conversational intent rather than keyword search. A corpus of 1,200 abstracts is embedded using Sentence Transformers, and recommendations are ranked through a hybrid cosine similarity and popularity signal. Evaluation with thirty ICT students shows a 41% improvement in perceived discovery speed and higher satisfaction for exploratory research tasks. The paper details the prompt-engineering strategies used to keep generative outputs grounded in institutional sources, alongside ethical safeguards that surface citation reminders and authorship disclaimers. Future enhancements include multilingual embeddings and tighter integration with institutional repositories.",
+      `This study investigated the perceptions of elderly professionals regarding common tasks performed online. ‎ 
+‎This research utilizes descriptive aproach as it focused on observing and reporting. It also used simple random sampling on gathering data from the respondents who were teachers and nurses with a sample size of 37 participants, 18.5 or 18 and 19 respondents ‎from this professions. Through this research, we aim to gain insights into their perceptions of the digital evolution. ‎ ‎
+This study reveals that most of Elderly Professionals in Mabini find digital technology useful but they struggle with the adaptation. Despite the facts that security concerns exist, breaches are low as many take precautions. Low seminar participation highlights a learning gap, emphasizing the need for more education and support. ‎
+ ‎These findings suggest that attending to seminars and programs may be an effective tool on how the Elderly Professionals can adapt more easily to the digital evolution.
+Anselmo A. Sandoval Memorial National High School P. Balibaguhan, Mabini, Batangas ‎`,
     thumbnail:
       "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=600&q=80",
     pdfUrl: "/pdfs/thesis-02.pdf",
   },
   {
     id: "ict-03",
-    title: "IoT Laboratory Environment Sentinel",
-    authors: ["Rowena Garcia", "Neil Javier", "Pat Ruiz"],
-    year: 2022,
+    title: ‎`UTILIZATION OF INTERNET AMONG SENIOR HIGH STUDENTS OF ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL: BASIS TO OPEN AN INTERNET ACCESS POLICY`,
+    authors: ["Amboy, Francis"," Baculo, Sherwin"," Dinglasan, Mark Dave"," Olano, Jason Denzel"," Busa, Mary Grace"," Galang, Kate Aubrey"," Martinez, Ericka"],
+    year: "March 2019",
     strand: "ICT",
     abstract:
-      "This thesis presents an IoT-based monitoring platform that visualizes humidity, temperature, and power consumption trends across computer laboratories. Low-cost sensors publish data to an MQTT broker, while a Next.js dashboard triggers SMS alerts when readings exceed configurable safety thresholds. Deployment over a twelve-week semester captured 2.4 million telemetry points and prevented three equipment shutdowns caused by overheating. The research outlines calibration methods, OTA update procedures, and a financial analysis that contrasts commercial building management systems with the student-built solution. Stakeholder interviews underscore the importance of transparent alert policies before automating equipment lockdowns.",
+      `It's about the use of internet in academic purposes for every senior high student that they use for the research, projects and activities. However, it is very obvious that the internet provides not only social connection and entertainment, but also academic and scientific information as well. The benefit is not only for students but also for the teachers, by using the internet teachers can teach by the use of animation, power point slides, and images to capture the student's attention. The Internet technology has provided an extraordinary level of public accessibility to a wide range of forms of communication.`,
     thumbnail:
       "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
     pdfUrl: "/pdfs/thesis-03.pdf",
   },
   {
     id: "ict-04",
-    title: "Augmented Reality Equipment Trainer",
-    authors: ["Dana Pascual", "Eli Santos"],
-    year: 2021,
+    title: "Innovative Business Model Proposal for Internet Cafe Owner's in Mabini Batangas ‎ ",
+    authors: ["De Chavez, Rolly"," Ebreo, Emanrie"," Manalo, Andrei John Claude"," Torres, Cyril John"," Sarabia, Francis Ej."],
+    year: "March 2019",
     strand: "ICT",
     abstract:
       "Focusing on immersive learning, this project develops an AR application that guides electronics students through soldering, board inspection, and safety workflows. Spatial anchors align virtual overlays with physical lab benches, while a validation study compares task completion between AR-assisted and traditional printed guides. Participants using the AR trainer finish calibration steps 33% faster and commit fewer safety violations, according to a rubric developed with faculty mentors. The thesis delves into 3D asset optimization for low-powered tablets, user interface accessibility decisions, and the maintenance process for updating procedures every academic term. Suggestions for future work include haptic feedback integrations and multi-user collaboration modes.",
@@ -73,17 +73,355 @@ export const theses: Thesis[] = [
   },
   {
     id: "stem-01",
+    title: "EFFICIENCY OF DYNAMO CHARGER FOR SAMSUNG PHONES ",
+    authors: ["Austria, Michael"," Maranan, Mark Jayson M."," Sto. Domingo, Jeremiah"," Atienza, Angela C."," Jusi, Maricar G."],
+    year: "March 2018",
+    strand: "STEM",
+    abstract:
+      `The used of mobile phones were increasing every year. As the demand of the phones increases also the demand in electricity will increase because every mobile phones needed electrical energy to function. The study propose the used of dynamo as charger for mobile phones. This intended to evaluate the charging speed and the length of usage of the charged phones in dynamo charger and commercial charger. The differences between dynamo charger and commercial charger where evaluated by this study. Charging speed of the phones using dynamo charger is faster than commercial charger. But the period of time in length of usage of the charged phones in the commercial charger is longer than the phones charged in dynamo charger.`,
+    thumbnail:
+      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
+    pdfUrl: "/pdfs/thesis-08.pdf",
+  },
+  {
+    id: "stem-02",
+    title: "SEGREGATION OF WASTE: AN ANIMATION VIDEO IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGHSCHOOL ",
+    authors: ["Mariele Dela Cruz", "Lezet Fadriquilan", "James Warren Agon", "John Patrick Bello", "JohnPaul Mendoza", "James Russel Tejada", "Jeromel Dipasupil and Jerico Isla"],
+    year: "March 2019",
+    strand: "STEM",
+    abstract:
+      `Segregation of waste is important because it is much easier to recycle. Effective segregation of waste goes to landfill which makes it deeper and better for people and environment. It is also important to segregate for public health. In particular, hazardous wastes can cure long term health problem, so it is very important to segregate waste correctly and safely and not mixed in with the normal waste coming out of the home or office. This study aimed to show the effect of an animation video on proper segregation in Anselmo A. Sandoval Memorial National High School. The students will learn it in an enjoyable way. By application of animation, the researchers will make an educational animation video to show how animation video affects the behavior of all students in A.A. S.M.N.H.S.`,
+    thumbnail:
+      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
+    pdfUrl: "/pdfs/thesis-08.pdf",
+  },
+  {
+    id: "stem-03",
+    title: "EFFECTIVENESS OF MULTIMEDIA LEARNING MATERIAL AMONG STEM STUDENTS' ACADEMIC ACHIEVEMENT IN PHYSICS IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL S.Y. 2017-2018",
+    authors: ["Aclan, Shalmae D."," Brucal, Heracleia D."," Castillo, Ivan James P."," Dinglasan, Vincent A."," Magboo, Jerson V."],
+    year: "March 2018",
+    strand: "STEM",
+    abstract:
+      `The use of multimedia in education has proven its importance due to its positive impact on the teaching and learning process. The presents study investigates comparative effectiveness of multimedia- aided teaching on students' academic performance in Physics. A sample of 70 students was purposively divided into two groups. Pretest-posttest design was selected for this experimental study. The experimental group was taught with the help of multimedia presentation whereas the controlled group was treated traditionally. The valid and reliable questionnaires were used as data collection tools. A Statistical Package for the Social Sciences (SPSS) Program was used to measure the results of both groups before and after treatment. To analyze the data, an independent sample t- test was used. The results indicated that multimedia- aided teaching is more effective than the traditional one. Students' academic performance towards in Physics improves more if multimedia- aided teaching method was used compare to the traditional method teaching`,
+    thumbnail:
+      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
+    pdfUrl: "/pdfs/thesis-08.pdf",
+  },
+  {
+    id: "stem-04",
+    title: "FUSION OF COIR AND PINEAPPLE LEAF FIBERS IN FORMULATING HYBRID CONCRETE HOLLOW BLOCKS: INTERNAL AND EXTERNAL PROPERTIES ",
+    authors: ["Rechiebelle D. Rabino"," Jhenny Rose A. Ramos"," Rochelle B. Sajulan"," Baby Jean Zante"," Patricia Marie F. Reyes"," Mary Joy S. Neypes"," Tom Matthew J. Macayan"],
+    year: "November 2022",
+    strand: "STEM",
+    abstract:
+      `In recent years, earthquakes have been one of the most catastrophic and detrimental natural phenomena that usually occurs in the Philippines. Several homes and buildings have been damaged, and the structures themselves have fissures or cracks. The impact signifies that the construction materials being used are weak and less durable. The aim of this research is to develop a practical and efficient replacement for commercial hollow blocks with optimum internal and external properties by incorporating a fusion of two varied fiber component, such as pineapple leaf fiber (PALF) and coir fibers, to the conventional solution that will ensure the availability of hybrid composite material for construction in the Mabini, Batangas vicinity. This study employs experimental methods and is quantitative in character. Data are acquired by observing external properties and experimenting with internal properties using a machine. 
+Keywords: replacement, fusion, fiber component, hybrid, hollow blocks`,
+    thumbnail:
+      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
+    pdfUrl: "/pdfs/thesis-08.pdf",
+  },
+  {
+    id: "stem-05",
+    title: "MOTIVATIONAL LEVEL OF MODULAR AND ON-SITE LEARNING AMONG GRADE 12 STUDENTS OF ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
+    authors: ["Jutie, Chrizyl Jello A."," Cismoan, Kent Justine R."," Espina, Mark Joseph M."," Lotino, Angelo A."," Mendoza, Johnry J."," Quiatchon, Lauriano Jr. E."," Anyayahan, Christel Jen A."," Antonio- Jelaizah Nicole"," Casapao, Jhanine Heilary B."," Felismino, Deshly G."," Galin, Niña Mae A."," Garcia, Arabell B."," Gomez, Ana Teresa Sophia M."," Mahiya, Jannah Lourdeline B."," Mallari, Rhomma A. "],
+    year: "June 2023",
+    strand: "STEM",
+    abstract:
+      `CHAPTER V SUMMARY, CONCLUSION, AND RECOMMENDATIONS 
+Summary 
+This study aims to determine the motivational level of modular and on-site learning of Grade 12 students in Anselmo A. Sandoval Memorial National High school. Particularly, this study cast around to answer the following questions. 
+1. What are the factors that motivate the students in: 
+1.1 modular and; 
+1.2 On-site learning 
+2. How may the motivational level be assessed by modular and on-site learning by the respondents, In terms of: 
+2.1 written task 
+2.2 performance task 
+3. Is there a significant difference on motivational level in the written task and performance task between modular and on-site learning? 
+4. Based on the findings what intervention activities may be utilized to enhance the motivational level on written and performance task? The researcher used quantitative research to as the appropriate research to use, as it's appropriate type of research to use. The researcher used self-constructed questionnaire as the main data gathering instrument. The respondents of this study has a total of 62 respondents, who came from the 652 population of Grade 12 students of Anselmo A. Sandoval Memorial National High school. The responses were interpreted using the following statistical tools: cronbach alpha, ranking, raosoft sampling, weighted mean, and analysis of variance. 
+
+Findings 
+After the thorough analysis and interpretation of the data gathered, the following findings were obtained. 
+1. The study's findings revealed that good internet connectivity significantly affects the motivation of modular students, with a weighted mean of 3.15, indicating a high level of manifestation among the 62 respondents Subsequently, the study's findings showed that the support of friends or classmates significantly affects the motivation of on-site students, with a weighted mean of 3.21, indicating a high level of manifestation among the 62 respondents.
+2. The assessment of motivational level by modular and on-site learning by the respondents revealed that there are differences in the manifestation of motivation between the two learning modes, particularly in written and performance tasks. 
+2.1 In terms of written tasks, modular students were found to moderately manifest their motivation in their ability to quickly put ideas into writing in their preferred time, with a weighted mean of 3.06. On the other hand, on-site students were found to high extent their motivation in their ability to complete written tasks on time, with a weighted mean of 3.23. 
+2.2 in terms of performance tasks, modular students were found to high extent their motivation in their ability to execute/perform the assigned task online with a weighted mean of 3.23. On-site students, on the other hand, found to a very great extent their motivation in their ability to execute the assigned task from the clear teacher instructions, with a weighted mean of 3.34. 
+3. Regarding the findings of the t-test conducted about respondents' motivational level, there are no significant differences between modular and on-site learning of written tasks and performance tasks. The researchers got the average of the composite mean per variable to determine which of the four determinants is highly evident. The two variables Difference On Motivational Level in the Written Task Between Modular and On-Site which attained 0.235, and Difference On Motivational Level in the Performance Task Between Modular and On-Site which acquired 0.426. Both were much highest than the given alpha which is 0.05. 
+4. Proposed activities have been crafted by the researcher to enhance the motivational level of modular and on-site learning among Grade 12 Students of Anselmo A. Sandoval Memorial National High School. 
+
+Conclusion 
+Based on the findings derived from the study, the researchers came up with the following conclusion: 
+1. In conclusion, the study's findings suggest that good internet connectivity is a significant factor that affects the motivation of modular students. The high level of manifestation among the respondents indicates the importance of this factor in enhancing the motivation and engagement of modular students, particularly in the context of blended learning. More so, the study's findings suggest that the support of friends or classmates is a significant factor that affects the motivation of on-site students. The high level of manifestation among the respondents highlights the importance of social support in enhancing the motivation and engagement of on-site students, particularly in the context of collaborative learning. 
+2. In conclusion, the study's findings suggest that both modular and on-site students highly manifest their motivation in completing written tasks, but in different aspects. Modular students were found to moderately manifest their motivation in their ability to quickly put ideas into writing in their preferred time, while on-site students were found to highly manifest their motivation in completing written tasks on time. These differences may be attributed to the unique characteristics and challenges of each learning mode, highlighting the need for tailored interventions to enhance motivation and engagement among students in both settings. 
+3. The study's findings showed that there are no significant differences in the motivational level of students in the written task and performance task between modular and on-site learning. This suggests that both learning modes may be equally effective in terms of motivating students to engage in these types of tasks. However, it is important to note that there may still be other factors that differentiate the two learning modes and impact student motivation and engagement, such as the mode of instruction, learning environment, and teaching strategies. 
+4. Proposed activities may be used to help the students to enhance the motivational level on written and performance tasks. 
+
+Recommendations
+ Based on the study's findings, the following recommendations can be made to enhance the motivational level of students in written and performance tasks: 
+1. Provide clear instructions and expectations - Students are more likely to be motivated when they understand what is expected of them. Providing clear instructions and expectations for written and performance tasks can help students feel more confident and motivated to complete them. 
+2. Use varied teaching strategies Different students have different learning styles and preferences. Using varied teaching strategies, such as group work, peer feedback, and visual aids, can help engage students and increase their motivation. 
+3. Encourage collaboration Collaboration and group work can help students feel more motivated and engaged in their learning. Encouraging collaboration in written and performance tasks can help students feel more connected to their peers and invested in the task.
+4. Provide timely feedback Timely feedback on written and performance tasks can help students understand their strengths and areas for improvement. This can help increase their motivation to continue learning and improve their performance. 
+5. Future researchers may use this as a reference to their own study. Also, they may conduct similar and/or related studies to further affirm the findings of the present study. 
+6. The proposed activities may be used to somehow alleviate or lessen the struggle that the students encountered on that certain factor. By implementing these recommendations, educators can enhance the motivational level of students in written and performance tasks, regardless of the learning mode.
+`,
+    thumbnail:
+      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
+    pdfUrl: "/pdfs/thesis-08.pdf",
+  },
+  {
+    id: "stem-06",
+    title: "IMPROVING SKILLS IN MULTIPLICATION BY USING JAPANESE MULTIPLICATION METHOD ",
+    authors: [": Cristine Mae De Austria"," Joseph Alfred Magboo"," Dhonna Manigbas"," Christian Silang "],
+    year: "March 2018",
+    strand: "STEM",
+    abstract:
+      `CHAPTER 5 
+FINDINGS, CONCLUSION AND RECOMMENDATIONS 
+This chapter provides the summary of findings, conclusions gathered after analyzing data collected and recommendations of the researchers. 
+
+FINDINGS 
+1. Rikitaro Fujisawa (1900) of the Imperial University of Tokyo, created the Japanese Multiplication Method. It involves lines and intersections, that explained how the Japanese Multiplication Method really works. The popular YouTube video demonstrated Japanese Multiplication method and claims that it is originated in Japan (Johnny Ornelas, 2015). The University of Waterloo used the "Japanese Multiplication Method" and defines it by the method's visual approach. "The Japanese method is a visual way to represent multiplication," writes the mathematics faculty on the University of Waterloo website. 
+2. A mathematical operation performed on a pair of numbers in order to derive a third number called a product. For the common way of multiplying, multiplication consists of adding a number (the multiplicand) to itself a specified number of times. Thus multiplying 6 by 3 means adding 6 to itself three times. Multiplication is defined as meaning that you have a certain number of groups of the same size. Then, it can be solved by repeated addition. While Japanese Multiplication Method is one of the technique that consists illustration of lines to solve multiplication problems. The Japanese method is a visual way to represent computation wherein it involves drawing lines and intersections. 
+3. Based from the study and results, there was statistically significant improvement in the scores of the students taught using Japanese Multiplication Method shows that the mean post test scores increased with a value of 83.8000, compare to the mean pretest scores of the students with a value of 38.2000, of with the same 50 respondents. 
+4. Since using Japanese Multiplication Method is effective to the improvement of multiplication skills of students specifically Grade 7, teachers should be familiar to it so that they will be able to teach students more interesting and full of active participation. They will also engage students effectively with worthwhile mathematics and can use instructional materials that are more likely to lead to multiplication proficiency. 
+
+CONCLUSIONS
+ 1. Japanese Multiplication Method can really help some Grade 7 students to cope up with lessons about multiplication. 
+2. The researchers concluded that there was significant difference between the pretest and post test scores of the students. 
+3. The researchers concluded that teachers can also use this in order to enhance to multiplication performances of their students. Alive teaching styles of the teacher and the use of peer- assistance can lead the students more interesting in multiplying numbers. 
+
+RECOMMENDATIONS 
+1. To all Mathematics teachers of Grade 7 Students. The researchers recommended this research to know where their students really need help. This research helps them to find a way to lessen the difficulties in Multiplication. 
+2. To all Grade 10 students. The researchers recommended this research who has encountered difficulties of multiplication because it can help them to know what should they do in order to overcome the hindrances they suffer in multiplying numbers. 
+3. To all the future researchers. The researchers recommended this research just to help them to give those ideas and information.
+
+Potentiality of 1.85W Solar Panel as an Alternative Energy Supplier to a 7.2V 4100 mAh Mobile Power Bank 
+
+A Research Study Presented to Anselmo A. Sandoval Memorial National High School 
+In Partial Fulfillment of the Requirement in Inquiries, Investigation and Immersion 
+
+Presented By: Agrao, Junella Fae B. Baculo, Gisselle V. Bantugon, Cynt Vritney B. Macarandang, Loreta M. Astoriano III, Alberto C. Magtibay, Marvin R. Of STEM A Sapphire March 2019 
+
+INTRODUCTION 
+An example of social progress and better quality of life would be the availability of portable power bank which are ready when your smart phone battery dies at any time of the day. But there are circumstances that even your power bank had not been charged. However, one of the major drawbacks of communication lines is the lack of generation of electricity as like in remote areas or during disaster or natural calamities. To set back such drawbacks solar power bank is one of its kinds. It works in converting solar to electrical energy. Solar power banks, thus, are essential during disasters and power outrage. 
+
+METHODOLOGY 
+The study uses quantitative approach with the method of true experimental research. By those time periods, the researchers can prove or disprove the hypothesis whether the time it will take the 1.85W solar panel to charge the 7.2V 4100mAh power bank up to 25% has or has no significant difference with the time it will require the DC charger to do so. RESULTS The alternative solar power bank has almost met the standard average amount of time of the existing solar power bank in terms of its consume in charging and in terms of charging it into Direct Current charger. However, charging the solar powerbank using solar panel has greater consumed time than in direct current but as indicated in the result, solar power bank will still play a large contribution to our society as it can be charged on both direct and /or with the use of solar panel. DISCUSSION The use of solar energy in charging the 7.2V 4100 mAh mobile power bank is not as efficient and fast as when using a Direct Current (DC) charger. 
+
+KEYWORD Solar panel, motherboard, direct current, capacitor
+`,
+    thumbnail:
+      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
+    pdfUrl: "/pdfs/thesis-08.pdf",
+  },
+   {
+    id: "stem-07",
+    title: "REFLECTIVE PROPERTY OF ALUMINUM FOIL ON THE SIGNAL OF A POCKET WIFI AS A BASIS IN STRENGTHENING INTERNET CONNECTION ",
+    authors: ["Abarintos, Marc Jay M."," Reyes, Mannuel A."," Bonquin, Rica Shainna D."," Rosales Arvie Marie M."," Valenzuela, Aivee M. "],
+    year: "March 2018",
+    strand: "STEM",
+    abstract:
+      `CHAPTER V 
+SUMMARY OF FINDINGS, CONCLUSION AND RECOMMENDATIONS 
+This chapter presents the summary of findings, conclusions and recommendations. The main objective of this study was to determine if aluminum foil could be a basis in strengthening the wifi connection. In this frame the researchers intended to: Specifically sought to answer the following question: 
+1. How might aluminum foil affect the strength of wifi connection? 
+2. Is there a significant relationship between the distance of the pocket wfi and the number if wifi signal?
+3. Is there a significant difference between the strength of wifi signal bars received by the cellphones from the pocket wifi with foil and pocket wifi without foil? 
+4. Based on the findings of the study, what recommendations mght be proposed for foil as strengthening wifi signal? Researchers used quantitative experimental research to test if there is a significant difference between the strength of wifi signal bars received by the cellphones from the pocket wifi with and without foil. The data was analyzed and collected with the used of Independent T-test using IBM SPSS Statistical Software, it was used to interpret data gathered, to confirm the assumptions of the researchers and to provide the right conclusions. Independent T-test was used to test two unrelated groups and to examine the strength of the wifi with or without foil on the pocket wifi SUMMARY OF FINDINGS The experimental method of research was used to analyze and interpret the observation conducted by the researchers using eight cellphones, aluminum foil and pocket wifi. Three trials for the pocket wifi without an aluminum foil and three trials for the pocket wifi with an aluminum foil. Based from the results of the discussion of the presentation and analysis of data, the researchers lead to the following findings: There is a significant difference between the strength of wifi signal bars received by the cellphones from the pocket wifi with foil and without foil. 
+
+CONCLUSION 
+After the comprehensive analysis and interpretative of data, the researchers were able to draw the following conclusions: 
+1. The aluminum foil will serve as reflector for the signal to reflect the wifi signal from the wifi to your devices. 
+2. There is a relationship between the distance of the pocket wifi and the number of signal but it is negligible. 
+3. There is a significant difference between the strength of wifi signal bars received by the cellphone from the pocket wifi with foil and pocket wifi without foil. 
+4. There was another recommendation proposed to aluminum foil aside from being a strengthening of wifi signal material like: alternative wifi extender. 
+
+RECOMMENDATIONS 
+After the thorough and careful analysis of findings and conclusion, the following recommendations were tendered 
+1. COMMUNITY for them to be productive with the means of strengthening of signal of internet connection. 
+2. CONSUMER helping them to save money and making their lives pretty easy. 
+3. STUDENTS AND TEACHERS might help them in making projects for easy researching.
+4. FUTURE RESEARCHERS might help as a basis and building up new ideas
+`,
+    thumbnail:
+      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
+    pdfUrl: "/pdfs/thesis-08.pdf",
+  },
+   {
+    id: "stem-08",
+    title: "TESTING ALTERNATIVE FLOOR WAX WITH THE USE OF BANANA EXTRACT AND ITS EFFECT TO ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL  ",
+    authors: ["Jomari D. Brucal"," Mariel D. Espiritu"," Jhelie E. Inutan"," Rhea Marie J. Maranan"," Krizel Daniella P. Reyes"," Kaye Desiree M. Rubio"],
+    year: "March 2019",
+    strand: "STEM",
+    abstract:
+      `The study was designed to test the alternative floor wax with the use of banana extract and its effect to Anselmo A. Sandoval Memorial National High School. Specifically, it sought to determine: 
+(a) the ingredients of alternative floor wax; 
+(b) if there were significant difference between the commonly used floor wax and alternative floor wax in terms of quality, time and area and 
+(c) the importance of alternative floor wax in terms of physical health and financial aspect. 
+
+In order to achieve the needed results, we have conducted an experiment to further testify to the researchers' observed results. 
+(1) We applied the commercial and alternative floor wax to the chosen corridors. 
+(2) We recorded the time it took to finish the work. 
+(3) We also took the area covered by each kind of floor wax. 
+(4) Lastly, we took a quality test and recorded all the data collected. Results showed that there is no significant difference between the Alternative and Commercial Floor wax.
+`,
+    thumbnail:
+      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
+    pdfUrl: "/pdfs/thesis-08.pdf",
+  },
+  {
+    id: "abm-01",
+    title: "Teaching Strategies: Factors that Affects the ABM Students Performance ",
+    authors: ["Whalid Aloya"," Oliver Bacay"," Joseph Escalona"," Jaimelyne Baculo"," Loren Baculo",' Jenny Rose Buenviaje"," Karen Candava"," Angelica Manalo"," Mary Joy Reyes"],
+    year: "March 2018",
+    strand: "ABM",
+    abstract:
+      `Summary 
+The study was undertaken to identify and assess the teaching strategies of teachers and the corresponding performance by the students in the class in Gagde val Anselmo A. Sanodval Memorial National High School. Specifically, the study sought to answer the following question 16/are 
+1. What are is the teaching style or the strategies used by the teachers in the class? 
+2. What is the effectivity rate of these strategies? 
+3. What are the General Weighted Average of students? 
+4. How do the teaching strategies affects the performance level of students? 
+5. What solution should be done to improve the performance of the students? 
+
+Findings 
+The researcher come up with the following findings after the analysis and interpretation of data gathered. 
+1. The students prefer to see teachers who use power point presentation because their performances in the class increase and they understand more with this kind of strategy. 
+2. Significant relationship between the teaching strategy and the students performance. After the analysis of the study, it was tested that the alternative hypothesis of students performance is affected by the teaching strategy is accepted, which means that there is a significant relationship between the teaching strategies and the students performance. 
+3. Proposed students activities. These proposed activities are designed to help students increase their performance to achieve an appropriate expectations but important and meaningful ways. 
+
+Conclusions 
+Based from the findings of the study, the following conclusions could be drawn: 
+1. The findings revealed that the teaching strategies by the teachers play a vital role in improving the academic performance of students. 
+2. There is a significant relationship between the teaching strategies and the students' performance in class. 
+3. The proposed activities can help teachers to be more effective when they are teaching. 
+
+Recommendations 
+The proponents of this action research recommended the following based from the findings and conclusions: 
+1) The proposed activities should be presented to the principal and the teachers for checking and validation and should be utilized to determine its effectiveness. 
+2) The teachers should maximize the teaching strategies given in the conclusion so that the students can easily understand the lesson and the topic/subject that he/she is teaching. 
+3) Parents should encourage and help their children review their lessons so that the effectivity of the teaching strategy will be high. This will help them not only to refresh their ideas but also to serve as parent-child bonding.
+4) Students should spend more time on analyzing their lesson and outlining different topic sentence so that they can improve their money and boost their performance in class. The students should also have their own interest that will help them boost their willingness to learn. They should also have study habits, and the researchers recommend these things: a. Students should have at least an hour allocated for studying lessons b. Students should have proper time management c. The student should prioritize academic performances than extracurricular activities 
+5) The environment must be conducive to teaching-learning process to develop student's high level of concentration for them to easily absorb the lessons. 
+6) This studies can be used as basis for the future researchers for similar information and related topic.
+`,
+    thumbnail:
+      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
+    pdfUrl: "/pdfs/thesis-08.pdf",
+  },
+  {
+    id: "abm-02",
+    title: "EFFECTS OF ONLINE CLASS IN THE ACHIEVEMENT OF GRADE 12 ACCOUNTANCY, BUSINESS AND MANAGEMENT STUDENTS OF ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
+    authors: ["Dapula, Mark Harren"," Cuyacot, Mary Ann"," Belen, Maxima"," Garcia, Claire"," Villanueva, Odessa"," Punzalan, Kristine"," Silang, Jaycell"," De Castro, Joshua"],
+    year: "March 2018",
+    strand: "ABM",
+    abstract:
+      `SUMMARY 
+This study aimed to identify the effects of online class in the achievement of grade 12 Accountancy, Business and Management students of Anselmo A. Sandoval Memorial National High School. Specifically, the study sought answers to the following questions: 
+1. What are the examples of online classes or instructional materials that are being used by the teachers of ABM students of AASMNHS? 
+2. Is there a significant difference between the students achievement of the subject and the educational system they have, specifically the online class. 
+3. What activities should be proposed for the online class to make it more effective? 
+
+Findings 
+The researcher comes up with the following findings after the analysis and interpretation of data gathered. 
+1. Examples of Online Class that is being used by the teachers of ABM students of AASMNHS.After the analysis of the study, we found out that Edmodo online class has the biggest percentage from the conducted survey which is equal to 100%, which means that it is the most known and most used online class platform in the Accountancy, Business and Management of Anselmo A. Sandoval Memorial National High School. On the other side, we found also found out that Academia.edu is the least used medium of an online class that has a percentage of 25% in the Accountancy, Business and Management of Anselmo A. Sandoval Memorial National High School. 
+1. Significant difference between the students achievement of the subject and the educational system they have, specifically the online class. After the analysis of the study, it was tested that the null hypotheses of the study is accepted, which means that there is no significant difference between the achievement of students in online class and the achievement in actual learning. 
+2. Proposed Activities.
+
+ After the analysis of the study, Researchers in this study believed that both types of classes needs improvement in order for the students to have a wider knowledge and understanding in terms of academics. Furthermore, Online class should be promoted and be patronized since we are in the 21st century. Researchers proposed that there should be an action plan. Researchers proposed that teachers should always have a different teaching strategy in order for the students not to become bored in the subject, an effective teaching strategy can be one of the main factors in the achievement of the students. Second is that, teachers in an online class should think of a creative way of conducting quizzes/test to students, researchers suggest that turn quizzes into game like mode. Lastly, teachers should recognize those students who got the high grades by giving token or any giveaways that can be useful to the students. Also, teachers should have a talk and motivate those students who got a grade that is not that good. By doing such things, the achievement of students in an online class might increase. Conclusions Based from the findings of the study, the following conclusions could be drawn: classes 
+1. The findings revealed that most of the respondents know the following online a. Edmodo b. Facebook c. Yahoo/Gmail d. Tumblr e. Tesda Online Program f. AMA University Online 
+2. There is no significant difference between the achievement of students in online class and the achievement in actual learning. 
+3. The proposed action plan can help the students to alleviate their learning, moreover teachers will also learn how to improve their teaching strategies. 
+
+Recommendations 
+The proponents of this action research recommended the following based from the findings and conclusions: 
+1. The action plan should be presented to school administrators and head teachers for them to know the results of this study. 
+2. Subject teachers and advisers should encourage and promote both type of classes specifically the Online learning and actual learning. 
+3. Parents should be well-informed as to their role as their guardians of their children in academics. 4. Students should feel free to use between Online class if they have to, or the actual learning 
+5. Similar studies may be conducted along this line to address other related topics that will make alleviate the achievement of students.
+`,
+    thumbnail:
+      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
+    pdfUrl: "/pdfs/thesis-08.pdf",
+  },
+   {
+    id: "abm-03",
+    title: "ADVANTAGES OF CONDUCTING A MARKET RESEARCH TO THE ENTREPRENEURS IN THE MUNICIPALITY OF MABINI, BATANGAS S.Y. 2018-2019 ",
+    authors: ["Atienza, Divina Marie M."," Beloso, Norelyn B."," Caibigan, Rosalinda M."," Candava, Marian M."," Castillo, Angelyn N."," De Rosales, Mary Joy L."," De Torres, Maridy U."," Manibo, Rica Jean C."," Matira, Frances C."," Permejo, Anjelic O."," Trinidad, Jannah "],
+    year: "March 2019",
+    strand: "ABM",
+    abstract:
+      `Introduction 
+According to Joseph McAloon, the global financial crisis that began in 2007 is considered by many economists to be the worst financial crisis since the Great Depression (2011). During this global financial meltdown the world has witnessed disastrous stock market crashes on an unprecedented scale. Knowing how to understand exactly where your buyers are doing their research and what is influencing their decisions, that's where market research comes into play. Market research is the collection and analysis of information about consumers, competitors, and the effectiveness of marketing programs. While market research is crucial for a business startup, it's also useful for established businesses to increase profits. It's accurate information about the marketplace, the target customers, and the competition that allows the development of a successful marketing plan. The researchers came up with this study to determine the benefits of conducting a market research and how it can help the entrepreneurs here in the town of Mabini. This study will give them an idea about the new ways that the business owners can do to improve their ventures. Conducting this study about Market Research will act as an instrument that can be a guide for the entrepreneurs, specially those who are the first timers in the field of business 
+
+Method 
+The researchers used the descriptive method in this study, to help researchers plan and carry out descriptive studies to provide rich descriptive details about the advantages of conducting a market research to the entrepreneurs. Descriptive research seeks to describe the characteristics or behavior. They were chosen since the researchers needed respondents according to their perspective. The respondents are described according to their demographic profile, sex (female, male), age, and student status. The researchers used questionnaires to gather data and information about this study. This is the normal and easiest way of gathering data. The questionnaire contains the questions that was focused on the advantages of conducting market research for the entrepreneurs. Results Companies conduct Market Research to further understand existing customers and to set achievable and realistic goals for continuous improvement of their business. Market Research are also proven to be advantageous as it is a powerful tool for companies for minimizing risks and improving the business strategies that are used. Market Research helps in improving the 1) managerial skills so that entrepreneurs can develop new effective strategies about the existing operations and activities. It also improves the 2) customer interaction in providing new ways in leading efficient meeting that are both productive and sensitive to time constants. And lastly it serves as a base for 3) promotion and advertisement so that businesses can present all information about their product clearly and concisely. 
+
+Discussion 
+The results demonstrate the need for making a proper budget and giving appropriate time before implementing a market research. A lack of effective time budget management can have a negative impact on the research and increases stress and frustration of the researchers that may cause a burnout. Increasing the productivity of staff by enhancing their talents through continuous training and development programs and thinking of creative and unique business ideas that can attract potential customers is also recommended.
+`,
+    thumbnail:
+      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
+    pdfUrl: "/pdfs/thesis-08.pdf",
+  },
+   {
+    id: "abm-04",
+    title: "WORK IMMERSION: ITS EFFECTS TO SENIOR HIGH SCHOOL STUDENTS OF ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
+    authors: ["Anglo, C-jay"," Bello, Miah Denieze"," Escalona, Allan Christopher"," Jamera, Vhea Karla"," Ortega, Laarni Joy"," Permejo, Judy Mark"," Reyes, Juliet"," Villanueva, Bibiana"],
+    year: "March 2018",
+    strand: "ABM",
+    abstract:
+      `SUMMARY 
+This study aimed to identify and assess the effects of work immersion to the senior high school students during the school year 2017-2018. Specifically, the study sought answers to the following questions: 
+1. What are the factors affecting the work immersion of grade 12 students? 
+2. To what extent does the work immersion help the students in their learnings? 
+3. Is there a significant relationship between the factors affecting the work immersion and the effect of work immersion to G-12 Senior High students? 
+4. What can be proposed to make work immersion more effective? 
+
+Findings 
+The researchers come up with the following findings after the analysis and interpretation of data gathered 
+1. Factors affecting the work immersion of grade 12 students 
+1.1 Distance. The distance of work immersion site on the home of the students was proved that it is rarely affect their performance with the mean of 1.58. 
+1.2 Financial Issues. With a mean of 1.40, this factor found out that it not really affects the work immersion of the Senior High School students. 
+1.3 Behavior. It was noticed that this factor resulted with a mean of 4.06 and said to be one of the big factors that affects the work immersion. 
+1.4 Relationship. It was shown that this factor resulted with a mean of 2.32 and rarely affects the work immersion. 
+1.5 Working Habits. This was often observed that the students can easily adjust to working habits with a mean of 4.12. 
+1.6 Physical Appearance. This factor was sometimes effect on how the students work inside the work immersion site resulted of 3.30 mean. 
+1.7 Knowledge. The knowledge obtain in school is often used on the work immersion with a mean of 4.42. 
+1.8 Peers. These factors sometimes affect the performance of the students during work immersion period with a mean of 2.60. 
+2. Ways that Work Immersion Helps the Student's Improvement into their Pursued Career. After the interpretation of data, researchers found out that the work immersion program had the big part to help the students in their learnings and bring the students to what does the real work scenario look likes. With the composite mean of 4.43, the students agreed that this activity has a vital role for the improvement of their knowledge. Based on the result, there are a significant relationship with the work immersion and the improvement of learnings of senior high school students. 
+3. Significant relationship between the factors affecting the work immersion and Academic Performance of Work Immersion Students: After the analysis of the study, it was proven that there is no relationship between the factors affecting the work immersion with the effect of this to the Grade 12 students. 
+4. Proposal to make work immersion more effective These proposed activities are designed to make work immersion more effective. And after the analysis, the proposed activities were proven to be possibly applied to have a better result and to make this more effective and successful. 
+
+Conclusions drawn: Based from the findings of the study, the following conclusions could be 
+1. The findings revealed that the factors that affects the work immersion of the students sometimes affects them. 
+2. The extent on which the work immersion affects the students learning revealed to be agreeable. 
+3. There is no significant relationship between the factors affecting the work immersion and the effect of work immersion to G-12 senior high students. 
+4. The proposed activities can help in making the work immersion more effective especially in adding more experience and learnings in the field to the students. 
+
+Recommendations 
+The proponents of this action recommended the following based from the findings and conclusions: 
+1. The proposed activities should be presented to the Senior high school coordinator which should be filtered to determine its effectiveness. 
+2. School Administrator should consider this study because it is based from the assessment of the senior high school student. 
+3. Teachers must consider this study because this will help
+`,
+    thumbnail:
+      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
+    pdfUrl: "/pdfs/thesis-08.pdf",
+  },
+   {
+    id: "abm-01",
     title: "Community-Based Tourism Revenue Manager",
     authors: ["Sam Yao", "Celine Ancheta"],
     year: 2021,
-    strand: "STEM",
+    strand: "ABM",
     abstract:
       "Targeting emerging eco-tourism towns, this project creates a lightweight revenue management framework that guides community councils in pricing tour bundles. Leveraging historical visitor counts, weather data, and transport availability, the model forecasts weekly demand and recommends dynamic price adjustments while preserving equitable earnings among partner households. Field tests in two coastal barangays increased average household tourism income by 18% without reducing visitor satisfaction. The thesis details governance agreements, training modules for local guides, and the ethical guardrails that prevent price gouging. Future work suggests integrating conservation impact metrics and cooperative-owned booking platforms.",
     thumbnail:
       "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
     pdfUrl: "/pdfs/thesis-08.pdf",
   },
-  {
+   {
     id: "abm-01",
     title: "Community-Based Tourism Revenue Manager",
     authors: ["Sam Yao", "Celine Ancheta"],
@@ -637,7 +975,7 @@ Keywords: Oral Communication Supplementary Activity World Literature
   {
     id: "humss-24",
     title: "A COMPARATIVE STUDY BETWEEN FACEBOOK PAGE AND WEBSITE AS OUTPUT PLATFORMS IN CREATIVE WRITING AND MEDIA INFORMATION LITERACY AMONG GRADE 12 HUMSS ",
-    authors: ["Magbuhos, Nhea Vel C. Guevarra, Jaren Eve Irish Camongol, John Mark R. Dural, John Leirey D. Salazar, Jhon Rovic N. Pancho, King Carlo H. Alvarez, Angela G. Datinguinoo, Danica Joy A. Mendoza, Erikka Mae Z. Ilagan Rubie Ann M. Letada Marivic R. Manibo Aizel Lorraine R."],
+    authors: ["Magbuhos, Nhea Vel C."," Guevarra, Jaren Eve Irish"," Camongol, John Mark R."," Dural, John Leirey D."," Salazar, Jhon Rovic N."," Pancho, King Carlo H."," Alvarez, Angela G."," Datinguinoo, Danica Joy A."," Mendoza, Erikka Mae Z."," Ilagan Rubie Ann M."," Letada Marivic R."," Manibo Aizel Lorraine R."],
     year: "May 2024",
     strand: "HUMSS",
     abstract:
@@ -649,7 +987,7 @@ Keywords: Oral Communication Supplementary Activity World Literature
   {
     id: "humss-25",
     title: "ASSESSMENT OF SKYLIGHT SPIRITUAL SELF-CARE: AS STRESSOR RELIEVER APPLICATION AMONG GRADE 12 HUMANITIES AND SOCIAL SCIENCES STUDENTS OF ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
-    authors: ["Bulao, Jewelle Kaye G. Alfonso, Stefano Eve M. Camongol, Rose Ann G. De Claro, Annes M. Fajardo, Marc Eugene P. Galamgam, Amieka C. Gonzaga, Heart F. Golondrina, Mark Angelo C. Magbato, Rodelyn O. Manalo, Nikka Zyrhel A. Paglinawan, Jay Vergel M. Solis, Mirvel Yari Renz C."],
+    authors: ["Bulao, Jewelle Kaye G."," Alfonso, Stefano Eve M."," Camongol, Rose Ann G."," De Claro, Annes M."," Fajardo, Marc Eugene P."," Galamgam, Amieka C."," Gonzaga, Heart F."," Golondrina, Mark Angelo C."," Magbato, Rodelyn O."," Manalo, Nikka Zyrhel A."," Paglinawan, Jay Vergel M."," Solis, Mirvel Yari Renz C."],
     year: "May 2024",
     strand: "HUMSS",
     abstract:
@@ -661,7 +999,7 @@ Keywords: Oral Communication Supplementary Activity World Literature
   {
     id: "humss-26",
     title: "ASSESSMENT OF PADLET APPLICATION UTILIZATION IN CREATIVE NONFICTION: A RESPONSE FOR INTERACTIVE WRITING AMONG GRADE 12 HUMSS STUDENTS ",
-    authors: ["Bantugon, Aleissa Aloya, Gillian Ashley Bantugon, Chester Kayl Castillo, Jherwel Celetaria, Crisha Jane Corona, Arabella Cose, Danrave Magcalayo, Jherick Ortega, Arwen Ralph Umali, Dewnella Kate"],
+    authors: ["Bantugon, Aleissa"," Aloya, Gillian Ashley"," Bantugon, Chester Kayl"," Castillo, Jherwel"," Celetaria, Crisha Jane"," Corona, Arabella"," Cose, Danrave"," Magcalayo, Jherick"," Ortega, Arwen Ralph"," Umali, Dewnella Kate"],
     year: "April 2024",
     strand: "HUMSS",
     abstract:
@@ -673,7 +1011,7 @@ Keywords: Oral Communication Supplementary Activity World Literature
   {
     id: "humss-27",
     title: "ASSESSMENT OF GOOGLE DOCS IN ENHANCING COLLABORATIVE WRITING SKILLS IN INQUIRIES, INVESTIGATIONS AND IMMERSION AMONG GRADE 12 HUMSS STUDENTS ",
-    authors: ["De Chavez, Nhicolle B. Aloya, Jessalyn V. Azur, Ley Marck M. Balais, John Marc D. Delos Reyes, Ken Zyrren M. Dimaano, Lorie Mae M. Ramos, Dealene April M. Reyes, Mark Aaron A. Tupaz, Flordiliza C. "],
+    authors: ["De Chavez, Nhicolle B."," Aloya, Jessalyn V."," Azur, Ley Marck M."," Balais, John Marc D."," Delos Reyes, Ken Zyrren M."," Dimaano, Lorie Mae M."," Ramos, Dealene April M."," Reyes, Mark Aaron A."," Tupaz, Flordiliza C. "],
     year: "April 2024",
     strand: "HUMSS",
     abstract:
@@ -685,7 +1023,7 @@ Keywords: Oral Communication Supplementary Activity World Literature
   {
     id: "humss-28",
     title: "MUSIC AS TOOL AND STUDENTS' RESPONSE IN IMPROVING WRITING SKILLS AMONG GRADE 12 HUMSS STUDENTS IN ANSELMO Α. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
-    authors: ["Jusi, Fresie Joyce M. Bantillo, John Mark M. Calda, Sunshine G. Dela Rosa, Precious Harvie V. De Leon, Trisha Mae B. Maestre, Reymond S. Matibag, Vivian S. Navarro, Justine B. Paras, Asher Reu Sam A. Rondina, Jasmin M. Villamer, Cedrick Saimon E. Villanueva, Ryza Elizabeth M."],
+    authors: ["Jusi, Fresie Joyce M."," Bantillo, John Mark M.","Calda, Sunshine G."," Dela Rosa, Precious Harvie V.",""," De Leon, Trisha Mae B. Maestre, Reymond S."," Matibag, Vivian S."," Navarro, Justine B.","Paras, Asher Reu Sam A."," Rondina, Jasmin M."," Villamer, Cedrick Saimon E."," Villanueva, Ryza Elizabeth M."],
     year: "May 2024",
     strand: "HUMSS",
     abstract:
@@ -697,7 +1035,7 @@ Keywords: Oral Communication Supplementary Activity World Literature
   {
     id: "humss-29",
     title: "ASSESSMENT ON QUILLBOT AI DETECTOR IN WRITING THESIS AMONG GRADE 12 HUMANITIES AND SOCIAL SCIENCES STUDENTS ",
-    authors: ["Magmanlac, Aieszia Claire I. Baculo, Leannah Joy V. Bartolay, Williard G. Castillo, Christine Mae Castillo, Reymart B. Cismoan, Mark James R. Condat, Charie Mae F. Escalona, Zyrell Joy A. Lumawag, Princes Padron Albert Reyes, Krystin Roz "],
+    authors: ["Magmanlac, Aieszia Claire I."," Baculo, Leannah Joy V."," Bartolay, Williard G."," Castillo, Christine Mae"," Castillo, Reymart B."," Cismoan, Mark James R."," Condat, Charie Mae F."," Escalona, Zyrell Joy A."," Lumawag, Princes Padron Albert"," Reyes, Krystin Roz "],
     year: "May 2024",
     strand: "HUMSS",
     abstract:
@@ -709,7 +1047,7 @@ Keywords: Oral Communication Supplementary Activity World Literature
   {
     id: "humss-30",
     title: "FACTORS INFLUENCING SENIOR HIGH SCHOOL STUDENTS' CHOICE OF HUMANITIES AND SOCIAL SCIENCES STRAND IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
-    authors: ["Castillo, Kim Jhemuel Q. De Torres, Douglas Ivan S. Lanzarote, Margarette G. Sawali, Kim Joshua L. Torrecampo, Jimuel D. Umali, Jamilla Claire T. Veloso, Jeus Allendri B. "],
+    authors: ["Castillo, Kim Jhemuel Q."," De Torres, Douglas Ivan S."," Lanzarote, Margarette G."," Sawali, Kim Joshua L."," Torrecampo, Jimuel D."," Umali, Jamilla Claire T."," Veloso, Jeus Allendri B. "],
     year: "March 2025",
     strand: "HUMSS",
     abstract:
@@ -721,7 +1059,7 @@ Keywords: Oral Communication Supplementary Activity World Literature
   {
     id: "humss-31",
     title: "THE EFFECTIVENESS OF CAPCUT APPLICATION FOR DIGITAL OUTPUTS OF SELECTED SUBJECTS AMONG GRADE 12 STUDENTS ",
-    authors: ["Santos, Patrick Abarintos, Cristorey C. Bornales, Jirex V. Cepillo, Rohn Ayrhand D. Ilao, Allen M. Panganiban, John Marck Andrei, Tugade Aloya, Hazzel Anne M. Bueno, Melisa D. Paglinawan, Christy Laiza M. Sumauang, Xyrelle Keith Barcarse B."],
+    authors: ["Santos, Patrick"," Abarintos, Cristorey C."," Bornales, Jirex V."," Cepillo, Rohn Ayrhand D."," Ilao, Allen M."," Panganiban, John Marck Andrei Tugade"," Aloya, Hazzel Anne M."," Bueno, Melisa D."," Paglinawan, Christy Laiza M."," Sumauang, Xyrelle Keith Barcarse B."],
     year: "April 2024",
     strand: "HUMSS",
     abstract:
@@ -733,7 +1071,7 @@ Keywords: Oral Communication Supplementary Activity World Literature
   {
     id: "humss-32",
     title: "THE ASSESSMENT OF CANVA UTILIZATION TO LEARNING EXPERIENCES AMONG GRADE 12 HUMSS STUDENTS IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
-    authors: ["Galanao, Chris Jhon B. Aloya, Marlon S. Atienza, Trisha Mae Burgos, Margott Therese P. Candelaria, Rolando T. Floralde, Allyzza Ashley D. Gonda, Janerz Qlyne V. Magbujos, Jean Rose D. Patulot, Christian Dave Pichay, Jeoff Cyrus M. Tugade, Armie Briz "],
+    authors: ["Galanao, Chris Jhon B."," Aloya, Marlon S."," Atienza, Trisha Mae"," Burgos, Margott Therese P."," Candelaria, Rolando T."," Floralde, Allyzza Ashley D."," Gonda, Janerz Qlyne V."," Magbujos, Jean Rose D."," Patulot, Christian Dave"," Pichay, Jeoff Cyrus M."," Tugade, Armie Briz "],
     year: "April 2024",
     strand: "HUMSS",
     abstract:
@@ -745,7 +1083,7 @@ Keywords: Oral Communication Supplementary Activity World Literature
   {
     id: "humss-33",
     title: "DETERMINING THE EFFECTIVENESS OF LISTENING TO POP MUSIC IN ENHANCING INTELLECTUAL THINKING AND VOCABULARY OF GRADE 12 HUMSS STUDENTS IN CREATIVE WRITING IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
-    authors: ["Andal, John Michael C. Dalangin, Kim Saira Joy R. Espina, Reelaiah Lorraine A. Garcia, Kaye Norinne A. Gomez, April M. Manongsong, Mariel E. Marasigan, Jasmine D. Resare, Princess Rose E. "],
+    authors: ["Andal, John Michael C."," Dalangin, Kim Saira Joy R."," Espina, Reelaiah Lorraine A."," Garcia, Kaye Norinne A."," Gomez, April M."," Manongsong, Mariel E."," Marasigan, Jasmine D."," Resare, Princess Rose E. "],
     year: "March 2025",
     strand: "HUMSS",
     abstract:
@@ -757,7 +1095,7 @@ Keywords: Oral Communication Supplementary Activity World Literature
   {
     id: "humss-34",
     title: "THE BENEFICIAL EFFECTS OF USING ARTIFICIAL INTELLIGENCE TOOLS OF G12 HUMSS STUDENTS IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGHSCHOOL ",
-    authors: ["Amboy, Janine A. Binay, Michael M. Celo, Aaliyah M. Dalangin, Edhelbert P. Francisco, Justine D. Matira, Stacy P. Pilar, Jorjielyn M. Ramos, Mark Jeff A. "],
+    authors: ["Amboy, Janine A."," Binay, Michael M."," Celo, Aaliyah M."," Dalangin, Edhelbert P."," Francisco, Justine D."," Matira, Stacy P."," Pilar, Jorjielyn M."," Ramos, Mark Jeff A. "],
     year: "March 2025",
     strand: "HUMSS",
     abstract:
@@ -769,7 +1107,7 @@ Keywords: Oral Communication Supplementary Activity World Literature
   {
     id: "humss-35",
     title: "THE EFFECTIVENESS OF FREE TABLETS FROM DEPED FOR EDUCATIONAL PURPOSES AMONG G12 HUMSS STUDENTS AT ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGHSCHOOL",
-    authors: ["Adarlo, Eliza Mae A. Badongen, Jamilla E. Bisa, Jhed Christian B. De Claro Luis Miguel M. Garcia, Hazel B. Manongsong, Merry Joys D. Valera, Jazzley Drew L. Villo, Bheatrice E."],
+    authors: ["Adarlo, Eliza Mae A."," Badongen, Jamilla E."," Bisa, Jhed Christian B."," De Claro Luis Miguel M."," Garcia, Hazel B."," Manongsong, Merry Joys D."," Valera, Jazzley Drew L."," Villo, Bheatrice E."],
     year: "March 2025",
     strand: "HUMSS",
     abstract:
@@ -781,7 +1119,7 @@ Keywords: Oral Communication Supplementary Activity World Literature
   {
     id: "eim-01",
     title: "PERSONAL DESIGN AND DEVELOPMENT OF PORTABLE GENERATOR ",
-    authors: ["Cantara, Kiarra Mae A. Caringal", "Donna Mae C. Matira", "Kent Russel G. Ortega", "Jhellan Mae D Pancho", "Lint Aeroll C. Reyes", "Domingo R."],
+    authors: ["Cantara, Kiarra Mae A."," Caringal, Donna Mae C."," Matira, Kent Russel G."," Ortega, Jhellan Mae D."," Pancho, Lint Aeroll C."," Reyes, Domingo R."],
     year: "April 2024",
     strand: "EIM",
     abstract:
@@ -793,7 +1131,7 @@ Keywords: Oral Communication Supplementary Activity World Literature
   {
     id: "eim-02",
     title: "EFFECTIVENESS OF FREE ENERGY MAGNETIC LIGHT WITH MOBILE CHARGING SELF-RUNNING MACHINE GENERATOR USING DC MOTOR ",
-    authors: ["Castillo, Paul Kevin De Guzman", "Jive Hendrix Gatongay", "Roger Jr. Genteroy", "Roilan Luistro, Christian"],
+    authors: ["Castillo, Paul Kevin"," De Guzman, Jive Hendrix"," Gatongay, Roger Jr."," Genteroy, Roilan Luistro, Christian"],
     year: "March 2019 ",
     strand: "EIM",
     abstract:
@@ -805,7 +1143,7 @@ Keywords: Oral Communication Supplementary Activity World Literature
   {
     id: "he-01",
     title: "MULBERRY LEAVES AS A SUSTAINABLE ALTERNATIVE FOOD WRAPPING MATERIAL FOR HOT DESSERTS: A COMPARATIVE ANALYSIS OF FOOD QUALITY AND SHELF-LIFE PRESERVATION ",
-    authors: ["Adem, Rynowa Andrea M. Aloya", "Gracelyn A. Casapao", "lan Clarence K. Agina", "Sandy M. Baylon", "Emmaclude Sophia B. Basallote", "Denver R. Boongaling", "Alliyah Rhoanne J. Castillo", "Robert Brian A. De Guzman", "Jane Nhorielyn T. Dela Peña", "Edwin C. Espiritu", "Chelce Anne A. Evangelista", "Jeovannie E. Maranan", "Caroline C. Novencido", "Ace E. Pancho", "Jhenny Rhose Ahnn D."],
+    authors: ["Adem, Rynowa Andrea M."," Aloya, Gracelyn A."," Casapao, lan Clarence K."," Agina, Sandy M."," Baylon, Emmaclude Sophia B."," Basallote, Denver R."," Boongaling, Alliyah Rhoanne J."," Castillo, Robert Brian A."," De Guzman, Jane Nhorielyn T."," Dela Peña, Edwin C."," Espiritu, Chelce Anne A."," Evangelista, Jeovannie E."," Maranan, Caroline C."," Novencido, Ace E."," Pancho, Jhenny Rhose Ahnn D."],
     year: "March 2025",
     strand: "HE",
     abstract:
@@ -817,7 +1155,7 @@ Keywords: Oral Communication Supplementary Activity World Literature
   {
     id: "he-02",
     title: "POWERCOAL COOKWARE CLEANSER: AN EFFECTIVE JACK TARS CLEANING AGENT" ,
-    authors: ["Baculo, Lance Cedric Magtibay", "James Patrick Magtibay", "Ronald Kenneth Matira", "Luiz Martin Padriquilan", "Jaymark Peralta", "Kim Alex"],
+    authors: ["Baculo, Lance Cedric"," Magtibay, James Patrick"," Magtibay, Ronald Kenneth"," Matira, Luiz Martin"," Padriquilan, Jaymark"," Peralta, Kim Alex"],
     year: "March 2025",
     strand: "HE",
     abstract:
@@ -829,7 +1167,7 @@ Keywords: Oral Communication Supplementary Activity World Literature
   {
     id: "he-03",
     title: "FACTORS IN PREVENTING DIFFICULTIES OF GRADE 12 TECHNICAL- VOCATIONAL LIVELIHOOD STUDENTS OF ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ON THEIR WORK IMMERSION",
-    authors: ["Catarig, Glydel Mae Magmanlac, Queenan Faye Maliglig, Leslie Marquez, Shiela Matira, Anjeleca Panopio, Sophia Nicolle Reyes, Aerish Joy Siazon, Doren Layron, Jairon Valdez, Jayvison Luistro, Crizel Marie Malibiran, Kana Elaine Marcellana, Jimabel Masangcay, Eunice Claire Mauhay, Rochelle Rado, Quennie Rose Reyes, Hannah Vera Sibal, Jovelyn Magbuhat, Red"],
+    authors: ["Catarig, Glydel Mae"," Magmanlac, Queenan Faye"," Maliglig, Leslie"," Marquez, Shiela"," Matira, Anjeleca"," Panopio, Sophia Nicolle"," Reyes, Aerish Joy"," Siazon, Doren"," Layron, Jairon",' Valdez, Jayvison"," Luistro, Crizel Marie"," Malibiran, Kana Elaine"," Marcellana, Jimabel"," Masangcay, Eunice Claire"," Mauhay, Rochelle"," Rado, Quennie Rose"," Reyes, Hannah Vera"," Sibal, Jovelyn"," Magbuhat, Red"],
     year: "March 2018 ",
     strand: "HE",
     abstract:
@@ -874,7 +1212,7 @@ Recommendation
   {
     id: "smaw-01",
     title: "DESIGN AND FABRICATION OF A PORTABLE TRI-FOLD WOODEN TABLE FOR SMAW LABORATORY ",
-    authors: [": llagan Krizia C. Balindan", "Kerby M. Asilo", "lan M. Arenes", "JonJon C. Abu", "Tj D. Bonquin", "Don Eric L. Decio", "Jhay-Vie C. Napolis", "Paul Vincent P. Secadron", "Eddison M Tolentino", "Christian V."],
+    authors: ["llagan, Krizia C."," Balindan, Kerby M."," Asilo, lan M."," Arenes, JonJon C."," Abu, Tj D."," Bonquin, Don Eric L."," Decio, Jhay-Vie C."," Napolis, Paul Vincent P."," Secadron, Eddison M."," Tolentino, Christian V."],
     year: "March 2025",
     strand: "SMAW",
     abstract:
