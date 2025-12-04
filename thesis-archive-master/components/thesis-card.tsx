@@ -54,13 +54,6 @@ export function ThesisCard({ thesis, onViewAbstract }: ThesisCardProps) {
           >
             View Abstract
           </button>
-          <a
-            href={thesis.pdfUrl}
-            download
-            className="inline-flex flex-1 items-center justify-center rounded-full bg-primary px-4 py-2 text-sm font-semibold text-white transition hover:-translate-y-0.5 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
-          >
-            Download PDF
-          </a>
         </div>
       </div>
     </article>
