@@ -1,6 +1,6 @@
 import Link from "next/link";
 import type { Strand } from "@/data/theses";
-import { CpuChipIcon, BuildingOffice2Icon } from "@heroicons/react/24/outline";
+import { CpuChipIcon,BeakerIcon,ChartBarIcon,GlobeAsiaAustraliaIcon,ChatBubbleLeftRightIcon,WrenchScrewdriverIcon,HomeModernIcon,FireIcon } from "@heroicons/react/24/outline";
 
 const strands: Array<{
   key: Strand;
@@ -20,49 +20,49 @@ const strands: Array<{
     key: "STEM",
     label: "STEM Theses",
     description: "Scientific, exploratory, and logical.",
-    Icon: BuildingOffice2Icon,
+    Icon: BeakerIcon,
     href: "/stem",
   },
   {
     key: "ABM",
     label: "ABM Theses",
     description: "Business strategy, finance, and community ventures.",
-    Icon: BuildingOffice2Icon,
+    Icon: ChartBarIcon,
     href: "/abm",
   },
   {
     key: "PBM",
     label: "PBM Theses",
     description: "Ocean-focused, skilled, and operational.",
-    Icon: BuildingOffice2Icon,
+    Icon: GlobeAsiaAustraliaIcon,
     href: "/pbm",
   },
   {
     key: "HUMSS",
     label: "HUMSS Theses",
     description: "Social, reflective, and communicative.",
-    Icon: BuildingOffice2Icon,
+    Icon: ChatBubbleLeftRightIcon,
     href: "/humss",
   },
   {
     key: "EIM",
     label: "EIM Theses",
     description: " Electrical, mechanical, and technical.",
-    Icon: BuildingOffice2Icon,
+    Icon: WrenchScrewdriverIcon,
     href: "/eim",
   },
    {
     key: "HE",
     label: "HE Theses",
     description: "Practical, service-oriented, and creative.",
-    Icon: BuildingOffice2Icon,
+    Icon: HomeModernIcon,
     href: "/he",
   },
    {
     key: "SMAW",
     label: "SMAW Theses",
     description: "Metalworking, skilled, and hands-on.",
-    Icon: BuildingOffice2Icon,
+    Icon: FireIcon,
     href: "/smaw",
   },
 ];
