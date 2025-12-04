@@ -14,35 +14,82 @@ export interface Thesis {
 export const theses: Thesis[] = [
     {
         id: "ict-01",
-        title: "VIDEO LEARNING TOOLS: IT'S EFFECTS ON THE ACADEMIC PERFORMANCE OF GRADE 10 STUDENTS IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGHSCHOOL",
+        title: "STRAND ASSESSMENT WEBSITE: A CATALYST RESPONSE TOOL IN CHOOSING SUITABLE STRAND FOR UPCOMING G-11 SENIOR HIGH SCHOOL STUDENTS IN ANSELMO A. SANDOVAL MEMORIALNATIONAL HIGH SCHOOL S.Y. 2024-2025",
         authors: [
-          "Castillo, Angel Raven M.",
-          "Lipalam, Angel Mae G.",
-          "Ogayon, Jinkey Majal B.",
-          "Ortega, Ashlyn Nicole R.",
-          "Osorio, Ralph Lorenz",
-          "Pellazar, Cristal Jane G.",
-          "Reyes, Baby Ashley",
-          "Rotone, Isabelo R.",
+          "Aclan. Joselito C.",
+          "Gubot, Ryan Angelo R.",
+          "Ordoño, Jazmin Keisha B.",
+          "Ortega, Crispin M. Jr.",
         ],
         year: "March 2025",
         strand: "ICT",
-        abstract: `This study employs a experimental Research design to investigate the effectiveness of the video learning tools on Grade 10 Students in Anselmo A. Sandoval Memorial national High School, Through Pre- test, Post- test and survey questionnaires. The research evaluates the impact of video learning tools on grade 10 Students. The findings revealed That video learning tools gives positive effects to the respondents. The effectiveness of video learning tools whether it's negative or positive. Furthermore, the studying provides insights for the teacher and students the usage of video learning tools for their academics, recommendations includes prioritizing. Overall, the study contribute to the effects of video learning tools to grade 10 students and in educational trend.`,
+        abstract: `This study aimed to assess the role of Strand Assessment Website: A Catalyst Response Tool in Choosing Suitable Strand for Upcoming Grade 11 Senior High School Students in Anselmo A. Sandoval Memorial National High School S.Y. 2024-2025. With the use of survey questionnaires as the main data gathering tool and Likert scale method is used for collecting the data..
+
+The study employed the quantitative research method in Experimental research design with the researcher-made questionnaire as the main instrument for data gathering. The respondents of the study involve a total population of both 86 Grade 10 Galileo and Grade 10 Rutherford students currently enrolled and studying in Anselmo A. Sandoval Memorial National High School. Moreover, ranking, weighted mean is the statistical tool used to treat the data. There were 39 selected students through simple random sampling respondents included in this study.
+
+Based on the data evaluated from the survey questionnaire, the Researchers presented the findings and conclusion of the design, content, visual appeal, student's satisfaction, and the effectiveness of the website in terms of SHS strand choice, College course, and Job Preference. Majority of the respondents agreed that Strand Assessment Website is useful, easy to use, and resourceful being a tool for the students decision-making process of choosing their preferred Senior High School Strand in Anselmo A. Sandoval Memorial National High School.`,
         thumbnail: "ICT.jpg",
         pdfUrl: "/"
     },
   {
     id: "ict-02",
-    title: "The Perception Of Elderly Professionals on the Common Task being Done Through Online. ‎ ‎",
-    authors: ["Abe, Jaztine D."," Declaro, Luis John P."," Dela torre, Clark John Lloyd D."," Silang, Stefano Jacques M."," Bastian, Kylie Monique P."," Buangaling, Le Joy L."," Caringal, Maria Clarice A."," Ortega, Nizsha Joy A. "],
+    title: "PARENT MESSAGING OF STUDENTS IN & OUT IN SCHOOL VIA QR CODE AND CODING SYSTEM AMONG ICT GRADE 12 STUDENTS IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL‎",
+    authors: ["Umali, Danica Joy D.","Mendoza, John Patrick R.","Baluran, Brian Joyce R.","Rosales, Ceprian R.","Benamer, Laurence E. ","Almarez, Angela R.","De Torres, Lawrence M.","Anastacio, Alleah F.","Delos Trinos, Mark Joseph L.","Matira, Kaye Anne M.","Ilao, Mark Johndreen V.","Matibag, Maurecio P.","Urriza, Ashley M."],
     year: "March 2025",
     strand: "ICT",
     abstract:
-      `This study investigated the perceptions of elderly professionals regarding common tasks performed online. ‎ 
-‎This research utilizes descriptive aproach as it focused on observing and reporting. It also used simple random sampling on gathering data from the respondents who were teachers and nurses with a sample size of 37 participants, 18.5 or 18 and 19 respondents ‎from this professions. Through this research, we aim to gain insights into their perceptions of the digital evolution. ‎ ‎
-This study reveals that most of Elderly Professionals in Mabini find digital technology useful but they struggle with the adaptation. Despite the facts that security concerns exist, breaches are low as many take precautions. Low seminar participation highlights a learning gap, emphasizing the need for more education and support. ‎
- ‎These findings suggest that attending to seminars and programs may be an effective tool on how the Elderly Professionals can adapt more easily to the digital evolution.
-Anselmo A. Sandoval Memorial National High School P. Balibaguhan, Mabini, Batangas ‎`,
+      `Chapter V
+
+SUMMARY, CONCLUSION, AND RECOMMENDATION
+
+This chapter presents the summary of findings, conclusion, and recommendations of the study.
+
+This statement of the problem aims to identify the current state of the Parent Messaging of Students In & Out In School Via QR Code and Coding System Among ICT Grade 12 Students in Anselmo A. Sandoval Memorial National High School.
+
+Specifically, this study sought to answer the following questions:
+
+1. How can a parent messaging system described in terms of:
+
+1.1 design
+
+1.2 usability
+
+2. What is the level of performance of In & Out parent messaging device in terms of:
+
+2.1 speed:
+
+2.2 accessibility, and
+
+2.3 accuracy
+
+3. The challenges encountered in the parent messaging device?
+
+4. Action may be proposed to enhanced the parent messaging device?
+
+This study utilized an experimental research design with the ease use of questionnaires as the main data gathering instruments. The respondents to the study were 34 from the population of Grade 12 Amber (ICT) students at Anselmo
+
+A. Sandoval Memorial National High School.
+
+Responses were interpreted using the following statistical tools: frequency counts, percentage, weighted mean, and t-test.
+Findings
+
+After a thorough analysis and interpretation of the data gathered, the following finding were obtained:
+
+1. Parent messaging system described in terms of design, and usability with a composite mean of 3.38.
+
+2. The In & Out parent messaging system's performance can be assessed using system logs, user feedback, and testing. Speed is measured by the time taken from QR code scanning to message delivery, with high performance indicating instant messages. Accessibility is measured by the availability of messages across different platforms and ease of use for parents. Accuracy is determined by the accuracy of recording student entry and exit times, student identification, and message content. Recommendations for improvement include addressing network issues, improving accessibility, and ensuring accurate student information.
+
+3. The Parent Messaging System faces challenges such as message delivery issues, technical limitations, parental engagement, privacy and security concerns, cost, power and hardware dependability, student compliance, and system maintenance and support. Issues include poor internet or mobile network connectivity, technical limitations, parental engagement, language barriers, privacy and security concerns, and reliance on third-party messaging services. Recommendations include regular software updates and IT support to address these challenges.
+
+4. To improve the parent messaging system for student in-and-out tracking via QR code, consider improving system reliability and speed, integrating multi-channel messaging, allowing customizable notifications, two-way communication, automated alerts for irregularities, a user-friendly interface, security enhancements, battery backup and offline mode, regular maintenance. and updates, and providing parental training and support. These suggestions can be tailored to address specific concerns and ensure the system remains operational during power outages or internet downtimes.
+
+Conclusion
+
+In conclusion, this study delved into the assessment of parent messaging of students in & out via QR code and coding system as a tool for enhancing collaborative writing skills among Grade 12 Amber (ICT) Students in Inquiries, Investigations, and Immersion. The following key findings and conclusion were drawn from the study:
+
+1. The parent messaging system was evaluated in terms of design and usability. The study found that the system's QR code-based interface and coding system were designed for efficiency and ease of use, ensuring that students entry and exit data were processed seamlessly. Additionally, the system was rated highly usable, as it required minimal effort from both students and parents to receive real-time notifications, making it an effective tool for enhancing parental involvement.
+
+2. The study assessed the system's performance based on speed, accessibility, and accuracy. Findings indicate that the QR code scanning and messaging system operates efficiently, processing student entries and exits within seconds, significantly improving traditional attendance me ‎`,
     thumbnail: "ICT.jpg",
     pdfUrl: "/",
   },
@@ -66,6 +113,44 @@ Anselmo A. Sandoval Memorial National High School P. Balibaguhan, Mabini, Batang
     strand: "ICT",
     abstract:
       "Focusing on immersive learning, this project develops an AR application that guides electronics students through soldering, board inspection, and safety workflows. Spatial anchors align virtual overlays with physical lab benches, while a validation study compares task completion between AR-assisted and traditional printed guides. Participants using the AR trainer finish calibration steps 33% faster and commit fewer safety violations, according to a rubric developed with faculty mentors. The thesis delves into 3D asset optimization for low-powered tablets, user interface accessibility decisions, and the maintenance process for updating procedures every academic term. Suggestions for future work include haptic feedback integrations and multi-user collaboration modes.",
+    thumbnail:
+      "ICT.jpg",
+    pdfUrl: "/",
+  },
+   {
+    id: "ict-05",
+    title: "Handcrafted Smoke Detector with Integrated Noise Alert System: A Safety Device for ICT Laboratory in Anselmo A. Sandoval Memorial National High School",
+    authors: ["Corpuz, Ayessa Denise O.","Adarlo, Marinela M.","Agdan, Louies Rafael Q.","Aspi, Criztan Jae Allen A.","Balbas, Jan Mikhail C.","Capuno, Khent Azlee H.","Cordero, Adrian B.","Dimaculangan, Lei Osiris M.","Dinglasan, Aniesie Grace M.","Paglinawan, John Loyd M.","Tolentino, Jercel V."],
+    year: "March 2025",
+    strand: "ICT",
+    abstract:
+      `This research paper, "Handcrafted Smoke Detector with Integrated Noise Alert System: A Safety Device for ICT Laboratory in Anselmo A. Sandoval Memorial National High School," investigates the development and implementation of a handcrafted smoke detector equipped with a noise alert system, designed to enhance fire safety measures within the ICT laboratory. The study aims to assess the device's effectiveness in detecting smoke and alerting individuals promptly, thereby mitigating potential fire hazards and ensuring the safety of students and faculty.
+
+Through a combination of qualitative and quantitative research methods. the study evaluates the functionality of the device, its reliability in detecting smoke, and the responsiveness of users to the noise alert system. Data collected from surveys, interviews, and observations provide insights into the device's efficiency, its advantages, and areas for improvement.
+
+The findings indicate a positive correlation between the presence of the smoke detector and an increased awareness of fire safety among students. and faculty. Additionally, the study highlights the importance of integrating innovative and cost-effective safety solutions in educational settings to prevent fire-related incidents. The paper concludes with recommendations for further enhancing the device's capabilities and expanding its application to other school facilities.
+
+This research contributes to the ongoing efforts to improve fire safety in educational institutions and underscores the role of technology in promoting a secure learning environment.`,
+    thumbnail:
+      "ICT.jpg",
+    pdfUrl: "/",
+  },
+  {
+    id: "ict-06",
+    title: "Bottle for a Pen: Via Automated Plastic Bottle Vending Machine",
+    authors: ["Jaso, Jherwin S.","Gonda, Andrew Jeoyam M.","Maala, Andie Luc C.","Manongsong, Paul Francis D.","Ramos, Ralph Jareez D.","Reyes, John Justin B.","Sarmiento, Mikel Jazle D.","Sombilon, John Joren V.","Dolor, Maria Rosalyn S.","Gunio, Rica Jhane J.","Matira, Christine Joy M.","Presto, Aileen V."],
+    year: "March 2025",
+    strand: "ICT",
+    abstract:
+      `This research paper, "Bottle for a Pen: Via Automated Plastic Bottle Vending Machine", investigates the development and implementation of an automated plastic bottle vending machine designed to promote recycling habits and environmental awareness among students in Anselmo A. Sandoval Memorial National High School. The study aims to assess the machine's effectiveness in encouraging proper disposal of plastic bottles and its overall impact on the school's sustainability initiative.
+
+Through quantitative research method, the study evaluates the students' engagement with the vending machine, their recycling behaviors, and their attitudes towards environmental conservation. Data collected from survey provide insights into the machine's usage, its benefits, and areas for improvement.
+
+The findings indicate a positive correlation between the presence of the
+
+vending machine and an increase in recycling activities among students. Additionally, the study highlights the importance of integrating innovative solution in educational settings to respond environmental responsibility and sustainable practices. The paper concludes with recommendations for further enhancing the vending machine's functionality and expanding its implementation to other educational institutions.
+
+This research contributes to the ongoing efforts to address plastic waste management and underscores the role of educational institutions in promoting environmental stewardship.`,
     thumbnail:
       "ICT.jpg",
     pdfUrl: "/",
