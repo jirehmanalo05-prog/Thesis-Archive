@@ -16,8 +16,8 @@ export function SiteFooter() {
           className="rounded-2xl border border-border/60 bg-background/60 p-4 text-sm text-muted-foreground"
         >
           <p className="font-semibold text-foreground">Contact</p>
-          <p>Email: archive@example.edu</p>
-          <p>Office: Learning Commons, Room 204</p>
+          <p>Email: archiveshsaasmnhs@gmail.com</p>
+          <p>Office:Anselmo A. Sandoval MNHS P.Balibaguhan, Mabini, Batangas</p>
         </div>
       </div>
     </footer>
