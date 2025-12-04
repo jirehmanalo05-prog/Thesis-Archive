@@ -1,4 +1,4 @@
-import { AcademicCapIcon, BriefcaseIcon, UsersIcon } from "@heroicons/react/24/outline";
+import { CommandLineIcon, CubeTransparentIcon, ChartPieIcon,MapIcon,BookOpenIcon,Cog8ToothIcon,ShoppingBagIcon,SparklesIcon } from "@heroicons/react/24/outline";
 import { HeroIntro } from "@/components/hero-intro";
 import { StrandFilter } from "@/components/strand-filter";
 
@@ -7,49 +7,49 @@ const strandInsights = [
     title: "What is ICT?",
     description:
       "(Information and Communications Technology) - Tackle software engineering, intelligent systems, infrastructure, and immersive experiences that move our digital campus forward.",
-    icon: AcademicCapIcon,
+    icon: CommandLineIcon,
   },
   {
     title: "What is STEM?",
     description:
       "(Science, Technology, Engineering, Mathematics) – The strand for curious innovators ready to explore, experiment, and engineer the future.",
-    icon: AcademicCapIcon,
+    icon: CubeTransparentIcon,
   },
   {
     title: "What is ABM?",
     description:
       "(Accountancy, Business, and Management) – Home of future entrepreneurs and leaders who turn ideas into success stories.",
-    icon: UsersIcon,
+    icon: ChartPieIcon,
   },
   {
     title: "What is PBM?",
     description:
       "(Pre - Baccalaureate Maritime) – Where future seafarers begin their voyage, mastering discipline, navigation, and the call of the open sea.",
-    icon: BriefcaseIcon,
+    icon: MapIcon,
   },
   {
     title: "What is HUMSS?",
     description:
       "(Humanities and Social Sciences) – The path for storytellers, thinkers, and advocates who want to shape society with words and wisdom.",
-    icon: UsersIcon,
+    icon: BookOpenIcon,
   },
   {
     title: "What is EIM?",
     description:
       "(Electrical Installation and Maintenance) – For hands that bring power to life—future electricians who keep systems running and lights shining.",
-    icon: UsersIcon,
+    icon: Cog8ToothIcon,
   },
   {
     title: "What is HE?",
     description:
       "(Home Economics) – Where future culinary creatives are born—crafting flavors, mastering kitchen skills, and turning passion for cooking into a profession.",
-    icon: UsersIcon,
+    icon: ShoppingBagIcon,
   },
   {
     title: "What is SMAW?",
     description:
       "(Shielded Metal Arc Welding) – Where sparks fly and skills are forged, creating builders ready to weld the world into shape.",
-    icon: UsersIcon,
+    icon: SparklesIcon,
   },
 ];
 
