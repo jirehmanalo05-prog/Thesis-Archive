@@ -20,7 +20,7 @@ export function SiteHeader() {
             href="/"
             className="text-lg font-semibold tracking-tight text-foreground"
           >
-            Thesis Archive
+            AASMNHS Theses Archive
           </Link>
         </div>
 
