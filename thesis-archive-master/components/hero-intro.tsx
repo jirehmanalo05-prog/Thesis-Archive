@@ -12,12 +12,12 @@ export function HeroIntro() {
     <section className="relative isolate overflow-hidden rounded-3xl border border-border/60 bg-gradient-to-br from-primary/10 via-background to-background p-8 shadow-lg sm:p-12">
       <div className="grid gap-10 lg:grid-cols-[1.1fr_0.9fr]">
         <div className="space-y-6">
-          <p className="text-sm font-semibold uppercase tracking-widest text-primary">
+          <h5 className="text-sm font-semibold uppercase tracking-widest text-primary">
             Welcome to the Thesis Archive
-          </p>
-          <h1 className="text-4xl font-bold tracking-tight text-foreground sm:text-5xl">
+          </h4>
+          <h3 className="text-4xl font-bold tracking-tight text-foreground sm:text-5xl">
             Discover groundbreaking research from our academic community
-          </h1>
+          </h3>
           <p className="max-w-2xl text-lg text-muted-foreground">
             This archive hosts theses from academic strands, enabling quick
             browsing, abstract previews, and PDF downloads. Whether you are a
