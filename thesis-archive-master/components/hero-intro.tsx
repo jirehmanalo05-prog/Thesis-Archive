@@ -14,7 +14,7 @@ export function HeroIntro() {
         <div className="space-y-6">
           <h5 className="text-sm font-semibold uppercase tracking-widest text-primary">
             Welcome to the Thesis Archive
-          </h4>
+          </h5>
           <h3 className="text-4xl font-bold tracking-tight text-foreground sm:text-5xl">
             Discover groundbreaking research from our academic community
           </h3>
