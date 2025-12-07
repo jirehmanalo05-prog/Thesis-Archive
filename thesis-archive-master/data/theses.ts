@@ -12,45 +12,45 @@ export interface Thesis {
 }
 
 export const theses: Thesis[] = [
-    {
-        id: "ict-01",
-        title: `UTILIZATION OF INTERNET AMONG SENIOR HIGH STUDENTS OF ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL: BASIS TO OPEN AN INTERNET ACCESS POLICY`,
-        authors: ["Amboy, Francis"," Baculo, Sherwin"," Dinglasan, Mark Dave"," Olano, Jason Denzel"," Busa, Mary Grace"," Galang, Kate Aubrey"," Martinez, Ericka"],
-        year: "March 2019",
-        strand: "ICT",
-        abstract: `It's about the use of internet in academic purposes for every senior high student that they use for the research, projects and activities. However, it is very obvious that the internet provides not only social connection and entertainment, but also academic and scientific information as well. The benefit is not only for students but also for the teachers, by using the internet teachers can teach by the use of animation, power point slides, and images to capture the student's attention. The Internet technology has provided an extraordinary level of public accessibility to a wide range of forms of communication.`,
-        thumbnail: "ICT.jpg",
-        pdfUrl: "/",
-    },
-    {
-        id: "ict-02",
-        title: "Innovative Business Model Proposal for Internet Cafe Owner's in Mabini Batangas ‎ ",
-        authors: ["De Chavez, Rolly"," Ebreo, Emanrie"," Manalo, Andrei John Claude"," Torres, Cyril John"," Sarabia, Francis Ej."],
-        year: "March 2019",
-        strand: "ICT",
-        abstract: "Focusing on immersive learning, this project develops an AR application that guides electronics students through soldering, board inspection, and safety workflows. Spatial anchors align virtual overlays with physical lab benches, while a validation study compares task completion between AR-assisted and traditional printed guides. Participants using the AR trainer finish calibration steps 33% faster and commit fewer safety violations, according to a rubric developed with faculty mentors. The thesis delves into 3D asset optimization for low-powered tablets, user interface accessibility decisions, and the maintenance process for updating procedures every academic term. Suggestions for future work include haptic feedback integrations and multi-user collaboration modes.",
-        thumbnail: "ICT.jpg",
-        pdfUrl: "/",
-    },
-    {
-        id: "ict-03",
-        title: "STRAND ASSESSMENT WEBSITE: A CATALYST RESPONSE TOOL IN CHOOSING SUITABLE STRAND FOR UPCOMING G-11 SENIOR HIGH SCHOOL STUDENTS IN ANSELMO A. SANDOVAL MEMORIALNATIONAL HIGH SCHOOL S.Y. 2024-2025",
-        authors: [
-          "Aclan. Joselito C.",
-          "Gubot, Ryan Angelo R.",
-          "Ordoño, Jazmin Keisha B.",
-          "Ortega, Crispin M. Jr.",
+  {
+    id: "ict-01",
+    title: `UTILIZATION OF INTERNET AMONG SENIOR HIGH STUDENTS OF ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL: BASIS TO OPEN AN INTERNET ACCESS POLICY`,
+    authors: ["Amboy, Francis"," Baculo, Sherwin"," Dinglasan, Mark Dave"," Olano, Jason Denzel"," Busa, Mary Grace"," Galang, Kate Aubrey"," Martinez, Ericka"],
+    year: "March 2019",
+    strand: "ICT",
+    abstract: `It's about the use of internet in academic purposes for every senior high student that they use for the research, projects and activities. However, it is very obvious that the internet provides not only social connection and entertainment, but also academic and scientific information as well. The benefit is not only for students but also for the teachers, by using the internet teachers can teach by the use of animation, power point slides, and images to capture the student's attention. The Internet technology has provided an extraordinary level of public accessibility to a wide range of forms of communication.`,
+    thumbnail: "ICT.jpg",
+    pdfUrl: "/",
+  },
+  {
+    id: "ict-02",
+    title: "Innovative Business Model Proposal for Internet Cafe Owner's in Mabini Batangas ‎ ",
+    authors: ["De Chavez, Rolly"," Ebreo, Emanrie"," Manalo, Andrei John Claude"," Torres, Cyril John"," Sarabia, Francis Ej."],
+    year: "March 2019",
+    strand: "ICT",
+    abstract: "Focusing on immersive learning, this project develops an AR application that guides electronics students through soldering, board inspection, and safety workflows. Spatial anchors align virtual overlays with physical lab benches, while a validation study compares task completion between AR-assisted and traditional printed guides. Participants using the AR trainer finish calibration steps 33% faster and commit fewer safety violations, according to a rubric developed with faculty mentors. The thesis delves into 3D asset optimization for low-powered tablets, user interface accessibility decisions, and the maintenance process for updating procedures every academic term. Suggestions for future work include haptic feedback integrations and multi-user collaboration modes.",
+    thumbnail: "ICT.jpg",
+    pdfUrl: "/",
+  },
+  {
+    id: "ict-03",
+    title: "STRAND ASSESSMENT WEBSITE: A CATALYST RESPONSE TOOL IN CHOOSING SUITABLE STRAND FOR UPCOMING G-11 SENIOR HIGH SCHOOL STUDENTS IN ANSELMO A. SANDOVAL MEMORIALNATIONAL HIGH SCHOOL S.Y. 2024-2025",
+    authors: [
+        "Aclan. Joselito C.",
+        "Gubot, Ryan Angelo R.",
+        "Ordoño, Jazmin Keisha B.",
+        "Ortega, Crispin M. Jr.",
         ],
-        year: "March 2025",
-        strand: "ICT",
-        abstract: `This study aimed to assess the role of Strand Assessment Website: A Catalyst Response Tool in Choosing Suitable Strand for Upcoming Grade 11 Senior High School Students in Anselmo A. Sandoval Memorial National High School S.Y. 2024-2025. With the use of survey questionnaires as the main data gathering tool and Likert scale method is used for collecting the data..
+    year: "March 2025",
+    strand: "ICT",
+    abstract: `This study aimed to assess the role of Strand Assessment Website: A Catalyst Response Tool in Choosing Suitable Strand for Upcoming Grade 11 Senior High School Students in Anselmo A. Sandoval Memorial National High School S.Y. 2024-2025. With the use of survey questionnaires as the main data gathering tool and Likert scale method is used for collecting the data..
 
 The study employed the quantitative research method in Experimental research design with the researcher-made questionnaire as the main instrument for data gathering. The respondents of the study involve a total population of both 86 Grade 10 Galileo and Grade 10 Rutherford students currently enrolled and studying in Anselmo A. Sandoval Memorial National High School. Moreover, ranking, weighted mean is the statistical tool used to treat the data. There were 39 selected students through simple random sampling respondents included in this study.
 
 Based on the data evaluated from the survey questionnaire, the Researchers presented the findings and conclusion of the design, content, visual appeal, student's satisfaction, and the effectiveness of the website in terms of SHS strand choice, College course, and Job Preference. Majority of the respondents agreed that Strand Assessment Website is useful, easy to use, and resourceful being a tool for the students decision-making process of choosing their preferred Senior High School Strand in Anselmo A. Sandoval Memorial National High School.`,
-        thumbnail: "ICT.jpg",
-        pdfUrl: "/"
-    },
+    thumbnail: "ICT.jpg",
+    pdfUrl: "/"
+  },
   {
     id: "ict-04",
     title: "PARENT MESSAGING OF STUDENTS IN & OUT IN SCHOOL VIA QR CODE AND CODING SYSTEM AMONG ICT GRADE 12 STUDENTS IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL‎",
@@ -293,7 +293,7 @@ After the thorough and careful analysis of findings and conclusion, the followin
       "STEM.jpg",
     pdfUrl: "/",
   },
-   {
+  {
     id: "stem-08",
     title: "TESTING ALTERNATIVE FLOOR WAX WITH THE USE OF BANANA EXTRACT AND ITS EFFECT TO ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL  ",
     authors: ["Jomari D. Brucal"," Mariel D. Espiritu"," Jhelie E. Inutan"," Rhea Marie J. Maranan"," Krizel Daniella P. Reyes"," Kaye Desiree M. Rubio"],
@@ -390,7 +390,7 @@ The proponents of this action research recommended the following based from the 
       "ABM.jpg",
     pdfUrl: "/",
   },
-   {
+  {
     id: "abm-03",
     title: "ADVANTAGES OF CONDUCTING A MARKET RESEARCH TO THE ENTREPRENEURS IN THE MUNICIPALITY OF MABINI, BATANGAS S.Y. 2018-2019 ",
     authors: ["Atienza, Divina Marie M."," Beloso, Norelyn B."," Caibigan, Rosalinda M."," Candava, Marian M."," Castillo, Angelyn N."," De Rosales, Mary Joy L."," De Torres, Maridy U."," Manibo, Rica Jean C."," Matira, Frances C."," Permejo, Anjelic O."," Trinidad, Jannah "],
@@ -410,7 +410,7 @@ The results demonstrate the need for making a proper budget and giving appropria
       "ABM.jpg",
     pdfUrl: "/",
   },
-   {
+  {
     id: "abm-04",
     title: "WORK IMMERSION: ITS EFFECTS TO SENIOR HIGH SCHOOL STUDENTS OF ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
     authors: ["Anglo, C-jay"," Bello, Miah Denieze"," Escalona, Allan Christopher"," Jamera, Vhea Karla"," Ortega, Laarni Joy"," Permejo, Judy Mark"," Reyes, Juliet"," Villanueva, Bibiana"],
@@ -455,7 +455,7 @@ The proponents of this action recommended the following based from the findings 
       "ABM.jpg",
     pdfUrl: "/",
   },
-   {
+  {
     id: "abm-01",
     title: "Community-Based Tourism Revenue Manager",
     authors: ["Sam Yao", "Celine Ancheta"],
@@ -467,7 +467,7 @@ The proponents of this action recommended the following based from the findings 
       "ABM.jpg",
     pdfUrl: "/",
   },
-   {
+  {
     id: "abm-01",
     title: "Community-Based Tourism Revenue Manager",
     authors: ["Sam Yao", "Celine Ancheta"],
@@ -601,7 +601,7 @@ Keywords: Marine AC System Maritime Industry
       "PBM.jpg",
     pdfUrl: "/",
   },
-   {
+  {
     id: "humss-01",
     title: "THE PSYCHOLOGICAL EFFECT OF SOCIAL MEDIA USAGE IN ACADEMIC PERFORMANCE AMONG THE STUDENTS ON GIl HUMSS OF THE ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL",
     authors: [
