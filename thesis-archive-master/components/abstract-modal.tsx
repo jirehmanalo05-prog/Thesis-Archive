@@ -63,9 +63,9 @@ export function AbstractModal({ thesis, open, onClose }: AbstractModalProps) {
             &times;
           </button>
         </div>
-        <p className="mt-6 text-base leading-relaxed text-foreground">
+        <div className="mt-6 max-h-[60vh] overflow-auto text-base leading-relaxed text-foreground whitespace-pre-wrap">
           {thesis.abstract}
-        </p>
+        </div>
       </div>
     </div>
   );
