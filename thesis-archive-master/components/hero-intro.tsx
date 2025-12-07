@@ -9,7 +9,7 @@ const stats = [
 
 export function HeroIntro() {
   return (
-     <section className="relative isolate overflow-hidden rounded-3xl border border-border/60 bg-gradient-to-br from-[#5C1A1A] via-[#7A2D2D]/70 to-[#2D0A0A] p-8 shadow-lg sm:p-12">
+     <section className="relative isolate overflow-hidden rounded-3xl border border-border/60 bg-gradient-to-br from-[#5A1A1A]/20 via-[#7A2E2E]/30 to-[#3A0F0F] p-8 shadow-lg sm:p-12">
       <div className="grid gap-10 lg:grid-cols-[1.1fr_0.9fr]">
         <div className="space-y-6">
           <h1 className="text-4xl font-bold tracking-tight text-foreground sm:text-5xl">
