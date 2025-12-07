@@ -27,7 +27,7 @@ export function HeroIntro() {
           <div className="flex flex-wrap gap-4">
             <Link
               href="/ict"
-              className="inline-flex items-center justify-center rounded-full bg-primary px-6 py-3 text-base font-semibold text-white shadow transition hover:-translate-y-0.5 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
+              className="inline-flex items-center justify-center rounded-full bg-red-800 px-6 py-3 text-base font-semibold text-white shadow transition hover:-translate-y-0.5 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2"
             >
               Explore ICT Theses
             </Link>
