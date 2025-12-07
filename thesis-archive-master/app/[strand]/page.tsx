@@ -100,7 +100,7 @@ export default async function StrandPage({ params }: StrandPageProps) {
   return (
     <div className="space-y-12">
       <section className="rounded-3xl border border-border/60 bg-card/70 p-8 shadow-sm">
-        <p className="text-sm font-semibold uppercase tracking-widest text-primary">
+        <p className="text-sm font-semibold uppercase tracking-widest text-red-800">
           {data.key} Strand
         </p>
         <h1 className="mt-3 text-3xl font-bold text-foreground">{data.title}</h1>
