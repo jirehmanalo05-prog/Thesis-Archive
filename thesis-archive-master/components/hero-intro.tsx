@@ -15,7 +15,7 @@ export function HeroIntro() {
           <h1 className="text-4xl font-bold tracking-tight text-foreground sm:text-5xl">
             Welcome to the SHS Theses Archive
           </h1>
-          <h4 className="text-sm font-semibold uppercase tracking-widest text-red-800"">
+          <h4 className="text-sm font-semibold uppercase tracking-widest text-red-800">
             Discover groundbreaking research from our academic community
           </h4>
           <p className="max-w-2xl text-lg text-muted-foreground">
