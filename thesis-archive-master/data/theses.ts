@@ -314,49 +314,41 @@ After the thorough and careful analysis of findings and conclusion, the followin
     thumbnail:
       "STEM.jpg",
     pdfUrl: "/",
-  },
+  }, 
   {
     id: "abm-01",
-    title: "Teaching Strategies: Factors that Affects the ABM Students Performance ",
-    authors: ["Whalid Aloya"," Oliver Bacay"," Joseph Escalona"," Jaimelyne Baculo"," Loren Baculo"," Jenny Rose Buenviaje"," Karen Candava"," Angelica Manalo"," Mary Joy Reyes"],
-    year: "March 2018",
+    title: "Community-Based Tourism Revenue Manager",
+    authors: ["Sam Yao", "Celine Ancheta"],
+    year: 2021,
     strand: "ABM",
     abstract:
-      `Summary 
-The study was undertaken to identify and assess the teaching strategies of teachers and the corresponding performance by the students in the class in Gagde val Anselmo A. Sanodval Memorial National High School. Specifically, the study sought to answer the following question 16/are 
-1. What are is the teaching style or the strategies used by the teachers in the class? 
-2. What is the effectivity rate of these strategies? 
-3. What are the General Weighted Average of students? 
-4. How do the teaching strategies affects the performance level of students? 
-5. What solution should be done to improve the performance of the students? 
+      "Targeting emerging eco-tourism towns, this project creates a lightweight revenue management framework that guides community councils in pricing tour bundles. Leveraging historical visitor counts, weather data, and transport availability, the model forecasts weekly demand and recommends dynamic price adjustments while preserving equitable earnings among partner households. Field tests in two coastal barangays increased average household tourism income by 18% without reducing visitor satisfaction. The thesis details governance agreements, training modules for local guides, and the ethical guardrails that prevent price gouging. Future work suggests integrating conservation impact metrics and cooperative-owned booking platforms.",
+    thumbnail:
+      "ABM.jpg",
+    pdfUrl: "/",
+  }, 
+   {
+    id: "abm-02",
+    title: "ADVANTAGES OF CONDUCTING A MARKET RESEARCH TO THE ENTREPRENEURS IN THE MUNICIPALITY OF MABINI, BATANGAS S.Y. 2018-2019 ",
+    authors: ["Atienza, Divina Marie M."," Beloso, Norelyn B."," Caibigan, Rosalinda M."," Candava, Marian M."," Castillo, Angelyn N."," De Rosales, Mary Joy L."," De Torres, Maridy U."," Manibo, Rica Jean C."," Matira, Frances C."," Permejo, Anjelic O."," Trinidad, Jannah "],
+    year: "March 2019",
+    strand: "ABM",
+    abstract:
+      `Introduction 
+According to Joseph McAloon, the global financial crisis that began in 2007 is considered by many economists to be the worst financial crisis since the Great Depression (2011). During this global financial meltdown the world has witnessed disastrous stock market crashes on an unprecedented scale. Knowing how to understand exactly where your buyers are doing their research and what is influencing their decisions, that's where market research comes into play. Market research is the collection and analysis of information about consumers, competitors, and the effectiveness of marketing programs. While market research is crucial for a business startup, it's also useful for established businesses to increase profits. It's accurate information about the marketplace, the target customers, and the competition that allows the development of a successful marketing plan. The researchers came up with this study to determine the benefits of conducting a market research and how it can help the entrepreneurs here in the town of Mabini. This study will give them an idea about the new ways that the business owners can do to improve their ventures. Conducting this study about Market Research will act as an instrument that can be a guide for the entrepreneurs, specially those who are the first timers in the field of business 
 
-Findings 
-The researcher come up with the following findings after the analysis and interpretation of data gathered. 
-1. The students prefer to see teachers who use power point presentation because their performances in the class increase and they understand more with this kind of strategy. 
-2. Significant relationship between the teaching strategy and the students performance. After the analysis of the study, it was tested that the alternative hypothesis of students performance is affected by the teaching strategy is accepted, which means that there is a significant relationship between the teaching strategies and the students performance. 
-3. Proposed students activities. These proposed activities are designed to help students increase their performance to achieve an appropriate expectations but important and meaningful ways. 
+Method 
+The researchers used the descriptive method in this study, to help researchers plan and carry out descriptive studies to provide rich descriptive details about the advantages of conducting a market research to the entrepreneurs. Descriptive research seeks to describe the characteristics or behavior. They were chosen since the researchers needed respondents according to their perspective. The respondents are described according to their demographic profile, sex (female, male), age, and student status. The researchers used questionnaires to gather data and information about this study. This is the normal and easiest way of gathering data. The questionnaire contains the questions that was focused on the advantages of conducting market research for the entrepreneurs. Results Companies conduct Market Research to further understand existing customers and to set achievable and realistic goals for continuous improvement of their business. Market Research are also proven to be advantageous as it is a powerful tool for companies for minimizing risks and improving the business strategies that are used. Market Research helps in improving the 1) managerial skills so that entrepreneurs can develop new effective strategies about the existing operations and activities. It also improves the 2) customer interaction in providing new ways in leading efficient meeting that are both productive and sensitive to time constants. And lastly it serves as a base for 3) promotion and advertisement so that businesses can present all information about their product clearly and concisely. 
 
-Conclusions 
-Based from the findings of the study, the following conclusions could be drawn: 
-1. The findings revealed that the teaching strategies by the teachers play a vital role in improving the academic performance of students. 
-2. There is a significant relationship between the teaching strategies and the students' performance in class. 
-3. The proposed activities can help teachers to be more effective when they are teaching. 
-
-Recommendations 
-The proponents of this action research recommended the following based from the findings and conclusions: 
-1) The proposed activities should be presented to the principal and the teachers for checking and validation and should be utilized to determine its effectiveness. 
-2) The teachers should maximize the teaching strategies given in the conclusion so that the students can easily understand the lesson and the topic/subject that he/she is teaching. 
-3) Parents should encourage and help their children review their lessons so that the effectivity of the teaching strategy will be high. This will help them not only to refresh their ideas but also to serve as parent-child bonding.
-4) Students should spend more time on analyzing their lesson and outlining different topic sentence so that they can improve their money and boost their performance in class. The students should also have their own interest that will help them boost their willingness to learn. They should also have study habits, and the researchers recommend these things: a. Students should have at least an hour allocated for studying lessons b. Students should have proper time management c. The student should prioritize academic performances than extracurricular activities 
-5) The environment must be conducive to teaching-learning process to develop student's high level of concentration for them to easily absorb the lessons. 
-6) This studies can be used as basis for the future researchers for similar information and related topic.
+Discussion 
+The results demonstrate the need for making a proper budget and giving appropriate time before implementing a market research. A lack of effective time budget management can have a negative impact on the research and increases stress and frustration of the researchers that may cause a burnout. Increasing the productivity of staff by enhancing their talents through continuous training and development programs and thinking of creative and unique business ideas that can attract potential customers is also recommended.
 `,
     thumbnail:
       "ABM.jpg",
     pdfUrl: "/",
   },
   {
-    id: "abm-02",
+    id: "abm-03",
     title: "EFFECTS OF ONLINE CLASS IN THE ACHIEVEMENT OF GRADE 12 ACCOUNTANCY, BUSINESS AND MANAGEMENT STUDENTS OF ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
     authors: ["Dapula, Mark Harren"," Cuyacot, Mary Ann"," Belen, Maxima"," Garcia, Claire"," Villanueva, Odessa"," Punzalan, Kristine"," Silang, Jaycell"," De Castro, Joshua"],
     year: "March 2018",
@@ -385,26 +377,6 @@ The proponents of this action research recommended the following based from the 
 2. Subject teachers and advisers should encourage and promote both type of classes specifically the Online learning and actual learning. 
 3. Parents should be well-informed as to their role as their guardians of their children in academics. 4. Students should feel free to use between Online class if they have to, or the actual learning 
 5. Similar studies may be conducted along this line to address other related topics that will make alleviate the achievement of students.
-`,
-    thumbnail:
-      "ABM.jpg",
-    pdfUrl: "/",
-  },
-  {
-    id: "abm-03",
-    title: "ADVANTAGES OF CONDUCTING A MARKET RESEARCH TO THE ENTREPRENEURS IN THE MUNICIPALITY OF MABINI, BATANGAS S.Y. 2018-2019 ",
-    authors: ["Atienza, Divina Marie M."," Beloso, Norelyn B."," Caibigan, Rosalinda M."," Candava, Marian M."," Castillo, Angelyn N."," De Rosales, Mary Joy L."," De Torres, Maridy U."," Manibo, Rica Jean C."," Matira, Frances C."," Permejo, Anjelic O."," Trinidad, Jannah "],
-    year: "March 2019",
-    strand: "ABM",
-    abstract:
-      `Introduction 
-According to Joseph McAloon, the global financial crisis that began in 2007 is considered by many economists to be the worst financial crisis since the Great Depression (2011). During this global financial meltdown the world has witnessed disastrous stock market crashes on an unprecedented scale. Knowing how to understand exactly where your buyers are doing their research and what is influencing their decisions, that's where market research comes into play. Market research is the collection and analysis of information about consumers, competitors, and the effectiveness of marketing programs. While market research is crucial for a business startup, it's also useful for established businesses to increase profits. It's accurate information about the marketplace, the target customers, and the competition that allows the development of a successful marketing plan. The researchers came up with this study to determine the benefits of conducting a market research and how it can help the entrepreneurs here in the town of Mabini. This study will give them an idea about the new ways that the business owners can do to improve their ventures. Conducting this study about Market Research will act as an instrument that can be a guide for the entrepreneurs, specially those who are the first timers in the field of business 
-
-Method 
-The researchers used the descriptive method in this study, to help researchers plan and carry out descriptive studies to provide rich descriptive details about the advantages of conducting a market research to the entrepreneurs. Descriptive research seeks to describe the characteristics or behavior. They were chosen since the researchers needed respondents according to their perspective. The respondents are described according to their demographic profile, sex (female, male), age, and student status. The researchers used questionnaires to gather data and information about this study. This is the normal and easiest way of gathering data. The questionnaire contains the questions that was focused on the advantages of conducting market research for the entrepreneurs. Results Companies conduct Market Research to further understand existing customers and to set achievable and realistic goals for continuous improvement of their business. Market Research are also proven to be advantageous as it is a powerful tool for companies for minimizing risks and improving the business strategies that are used. Market Research helps in improving the 1) managerial skills so that entrepreneurs can develop new effective strategies about the existing operations and activities. It also improves the 2) customer interaction in providing new ways in leading efficient meeting that are both productive and sensitive to time constants. And lastly it serves as a base for 3) promotion and advertisement so that businesses can present all information about their product clearly and concisely. 
-
-Discussion 
-The results demonstrate the need for making a proper budget and giving appropriate time before implementing a market research. A lack of effective time budget management can have a negative impact on the research and increases stress and frustration of the researchers that may cause a burnout. Increasing the productivity of staff by enhancing their talents through continuous training and development programs and thinking of creative and unique business ideas that can attract potential customers is also recommended.
 `,
     thumbnail:
       "ABM.jpg",
@@ -455,26 +427,42 @@ The proponents of this action recommended the following based from the findings 
       "ABM.jpg",
     pdfUrl: "/",
   },
-  {
-    id: "abm-01",
-    title: "Community-Based Tourism Revenue Manager",
-    authors: ["Sam Yao", "Celine Ancheta"],
-    year: 2021,
+   {
+    id: "abm-05",
+    title: "Teaching Strategies: Factors that Affects the ABM Students Performance ",
+    authors: ["Whalid Aloya"," Oliver Bacay"," Joseph Escalona"," Jaimelyne Baculo"," Loren Baculo"," Jenny Rose Buenviaje"," Karen Candava"," Angelica Manalo"," Mary Joy Reyes"],
+    year: "March 2018",
     strand: "ABM",
     abstract:
-      "Targeting emerging eco-tourism towns, this project creates a lightweight revenue management framework that guides community councils in pricing tour bundles. Leveraging historical visitor counts, weather data, and transport availability, the model forecasts weekly demand and recommends dynamic price adjustments while preserving equitable earnings among partner households. Field tests in two coastal barangays increased average household tourism income by 18% without reducing visitor satisfaction. The thesis details governance agreements, training modules for local guides, and the ethical guardrails that prevent price gouging. Future work suggests integrating conservation impact metrics and cooperative-owned booking platforms.",
-    thumbnail:
-      "ABM.jpg",
-    pdfUrl: "/",
-  },
-  {
-    id: "abm-01",
-    title: "Community-Based Tourism Revenue Manager",
-    authors: ["Sam Yao", "Celine Ancheta"],
-    year: 2021,
-    strand: "ABM",
-    abstract:
-      "Targeting emerging eco-tourism towns, this project creates a lightweight revenue management framework that guides community councils in pricing tour bundles. Leveraging historical visitor counts, weather data, and transport availability, the model forecasts weekly demand and recommends dynamic price adjustments while preserving equitable earnings among partner households. Field tests in two coastal barangays increased average household tourism income by 18% without reducing visitor satisfaction. The thesis details governance agreements, training modules for local guides, and the ethical guardrails that prevent price gouging. Future work suggests integrating conservation impact metrics and cooperative-owned booking platforms.",
+      `Summary 
+The study was undertaken to identify and assess the teaching strategies of teachers and the corresponding performance by the students in the class in Gagde val Anselmo A. Sanodval Memorial National High School. Specifically, the study sought to answer the following question 16/are 
+1. What are is the teaching style or the strategies used by the teachers in the class? 
+2. What is the effectivity rate of these strategies? 
+3. What are the General Weighted Average of students? 
+4. How do the teaching strategies affects the performance level of students? 
+5. What solution should be done to improve the performance of the students? 
+
+Findings 
+The researcher come up with the following findings after the analysis and interpretation of data gathered. 
+1. The students prefer to see teachers who use power point presentation because their performances in the class increase and they understand more with this kind of strategy. 
+2. Significant relationship between the teaching strategy and the students performance. After the analysis of the study, it was tested that the alternative hypothesis of students performance is affected by the teaching strategy is accepted, which means that there is a significant relationship between the teaching strategies and the students performance. 
+3. Proposed students activities. These proposed activities are designed to help students increase their performance to achieve an appropriate expectations but important and meaningful ways. 
+
+Conclusions 
+Based from the findings of the study, the following conclusions could be drawn: 
+1. The findings revealed that the teaching strategies by the teachers play a vital role in improving the academic performance of students. 
+2. There is a significant relationship between the teaching strategies and the students' performance in class. 
+3. The proposed activities can help teachers to be more effective when they are teaching. 
+
+Recommendations 
+The proponents of this action research recommended the following based from the findings and conclusions: 
+1) The proposed activities should be presented to the principal and the teachers for checking and validation and should be utilized to determine its effectiveness. 
+2) The teachers should maximize the teaching strategies given in the conclusion so that the students can easily understand the lesson and the topic/subject that he/she is teaching. 
+3) Parents should encourage and help their children review their lessons so that the effectivity of the teaching strategy will be high. This will help them not only to refresh their ideas but also to serve as parent-child bonding.
+4) Students should spend more time on analyzing their lesson and outlining different topic sentence so that they can improve their money and boost their performance in class. The students should also have their own interest that will help them boost their willingness to learn. They should also have study habits, and the researchers recommend these things: a. Students should have at least an hour allocated for studying lessons b. Students should have proper time management c. The student should prioritize academic performances than extracurricular activities 
+5) The environment must be conducive to teaching-learning process to develop student's high level of concentration for them to easily absorb the lessons. 
+6) This studies can be used as basis for the future researchers for similar information and related topic.
+`,
     thumbnail:
       "ABM.jpg",
     pdfUrl: "/",
