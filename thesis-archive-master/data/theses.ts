@@ -117,57 +117,8 @@ In conclusion, this study delved into the assessment of parent messaging of stud
     thumbnail: "ICT.jpg",
     pdfUrl: "/",
   },
-  {
+   {
     id: "stem-01",
-    title: "EFFICIENCY OF DYNAMO CHARGER FOR SAMSUNG PHONES ",
-    authors: ["Austria, Michael"," Maranan, Mark Jayson M."," Sto. Domingo, Jeremiah"," Atienza, Angela C."," Jusi, Maricar G."],
-    year: "March 2018",
-    strand: "STEM",
-    abstract:
-      `The used of mobile phones were increasing every year. As the demand of the phones increases also the demand in electricity will increase because every mobile phones needed electrical energy to function. The study propose the used of dynamo as charger for mobile phones. This intended to evaluate the charging speed and the length of usage of the charged phones in dynamo charger and commercial charger. The differences between dynamo charger and commercial charger where evaluated by this study. Charging speed of the phones using dynamo charger is faster than commercial charger. But the period of time in length of usage of the charged phones in the commercial charger is longer than the phones charged in dynamo charger.`,
-    thumbnail:
-      "STEM.jpg",
-    pdfUrl: "/",
-  },
-  {
-    id: "stem-02",
-    title: "SEGREGATION OF WASTE: AN ANIMATION VIDEO IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGHSCHOOL ",
-    authors: ["Mariele Dela Cruz", "Lezet Fadriquilan", "James Warren Agon", "John Patrick Bello", "JohnPaul Mendoza", "James Russel Tejada", "Jeromel Dipasupil and Jerico Isla"],
-    year: "March 2019",
-    strand: "STEM",
-    abstract:
-      `Segregation of waste is important because it is much easier to recycle. Effective segregation of waste goes to landfill which makes it deeper and better for people and environment. It is also important to segregate for public health. In particular, hazardous wastes can cure long term health problem, so it is very important to segregate waste correctly and safely and not mixed in with the normal waste coming out of the home or office. This study aimed to show the effect of an animation video on proper segregation in Anselmo A. Sandoval Memorial National High School. The students will learn it in an enjoyable way. By application of animation, the researchers will make an educational animation video to show how animation video affects the behavior of all students in A.A. S.M.N.H.S.`,
-    thumbnail:
-      "STEM.jpg",
-    pdfUrl: "/",
-  },
-  {
-    id: "stem-03",
-    title: "EFFECTIVENESS OF MULTIMEDIA LEARNING MATERIAL AMONG STEM STUDENTS' ACADEMIC ACHIEVEMENT IN PHYSICS IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL S.Y. 2017-2018",
-    authors: ["Aclan, Shalmae D."," Brucal, Heracleia D."," Castillo, Ivan James P."," Dinglasan, Vincent A."," Magboo, Jerson V."],
-    year: "March 2018",
-    strand: "STEM",
-    abstract:
-      `The use of multimedia in education has proven its importance due to its positive impact on the teaching and learning process. The presents study investigates comparative effectiveness of multimedia- aided teaching on students' academic performance in Physics. A sample of 70 students was purposively divided into two groups. Pretest-posttest design was selected for this experimental study. The experimental group was taught with the help of multimedia presentation whereas the controlled group was treated traditionally. The valid and reliable questionnaires were used as data collection tools. A Statistical Package for the Social Sciences (SPSS) Program was used to measure the results of both groups before and after treatment. To analyze the data, an independent sample t- test was used. The results indicated that multimedia- aided teaching is more effective than the traditional one. Students' academic performance towards in Physics improves more if multimedia- aided teaching method was used compare to the traditional method teaching`,
-    thumbnail:
-      "STEM.jpg",
-    pdfUrl: "/",
-  },
-  {
-    id: "stem-04",
-    title: "FUSION OF COIR AND PINEAPPLE LEAF FIBERS IN FORMULATING HYBRID CONCRETE HOLLOW BLOCKS: INTERNAL AND EXTERNAL PROPERTIES ",
-    authors: ["Rechiebelle D. Rabino"," Jhenny Rose A. Ramos"," Rochelle B. Sajulan"," Baby Jean Zante"," Patricia Marie F. Reyes"," Mary Joy S. Neypes"," Tom Matthew J. Macayan"],
-    year: "November 2022",
-    strand: "STEM",
-    abstract:
-      `In recent years, earthquakes have been one of the most catastrophic and detrimental natural phenomena that usually occurs in the Philippines. Several homes and buildings have been damaged, and the structures themselves have fissures or cracks. The impact signifies that the construction materials being used are weak and less durable. The aim of this research is to develop a practical and efficient replacement for commercial hollow blocks with optimum internal and external properties by incorporating a fusion of two varied fiber component, such as pineapple leaf fiber (PALF) and coir fibers, to the conventional solution that will ensure the availability of hybrid composite material for construction in the Mabini, Batangas vicinity. This study employs experimental methods and is quantitative in character. Data are acquired by observing external properties and experimenting with internal properties using a machine. 
-Keywords: replacement, fusion, fiber component, hybrid, hollow blocks`,
-    thumbnail:
-      "STEM.jpg",
-    pdfUrl: "/",
-  },
-  {
-    id: "stem-05",
     title: "MOTIVATIONAL LEVEL OF MODULAR AND ON-SITE LEARNING AMONG GRADE 12 STUDENTS OF ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
     authors: ["Jutie, Chrizyl Jello A."," Cismoan, Kent Justine R."," Espina, Mark Joseph M."," Lotino, Angelo A."," Mendoza, Johnry J."," Quiatchon, Lauriano Jr. E."," Anyayahan, Christel Jen A."," Antonio- Jelaizah Nicole"," Casapao, Jhanine Heilary B."," Felismino, Deshly G."," Galin, Niña Mae A."," Garcia, Arabell B."," Gomez, Ana Teresa Sophia M."," Mahiya, Jannah Lourdeline B."," Mallari, Rhomma A. "],
     year: "June 2023",
@@ -214,8 +165,55 @@ Recommendations
       "STEM.jpg",
     pdfUrl: "/",
   },
+   {
+    id: "stem-02",
+    title: "FUSION OF COIR AND PINEAPPLE LEAF FIBERS IN FORMULATING HYBRID CONCRETE HOLLOW BLOCKS: INTERNAL AND EXTERNAL PROPERTIES ",
+    authors: ["Rechiebelle D. Rabino"," Jhenny Rose A. Ramos"," Rochelle B. Sajulan"," Baby Jean Zante"," Patricia Marie F. Reyes"," Mary Joy S. Neypes"," Tom Matthew J. Macayan"],
+    year: "November 2022",
+    strand: "STEM",
+    abstract:
+      `In recent years, earthquakes have been one of the most catastrophic and detrimental natural phenomena that usually occurs in the Philippines. Several homes and buildings have been damaged, and the structures themselves have fissures or cracks. The impact signifies that the construction materials being used are weak and less durable. The aim of this research is to develop a practical and efficient replacement for commercial hollow blocks with optimum internal and external properties by incorporating a fusion of two varied fiber component, such as pineapple leaf fiber (PALF) and coir fibers, to the conventional solution that will ensure the availability of hybrid composite material for construction in the Mabini, Batangas vicinity. This study employs experimental methods and is quantitative in character. Data are acquired by observing external properties and experimenting with internal properties using a machine. 
+Keywords: replacement, fusion, fiber component, hybrid, hollow blocks`,
+    thumbnail:
+      "STEM.jpg",
+    pdfUrl: "/",
+  },
   {
-    id: "stem-06",
+    id: "stem-03",
+    title: "SEGREGATION OF WASTE: AN ANIMATION VIDEO IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGHSCHOOL ",
+    authors: ["Mariele Dela Cruz", "Lezet Fadriquilan", "James Warren Agon", "John Patrick Bello", "JohnPaul Mendoza", "James Russel Tejada", "Jeromel Dipasupil and Jerico Isla"],
+    year: "March 2019",
+    strand: "STEM",
+    abstract:
+      `Segregation of waste is important because it is much easier to recycle. Effective segregation of waste goes to landfill which makes it deeper and better for people and environment. It is also important to segregate for public health. In particular, hazardous wastes can cure long term health problem, so it is very important to segregate waste correctly and safely and not mixed in with the normal waste coming out of the home or office. This study aimed to show the effect of an animation video on proper segregation in Anselmo A. Sandoval Memorial National High School. The students will learn it in an enjoyable way. By application of animation, the researchers will make an educational animation video to show how animation video affects the behavior of all students in A.A. S.M.N.H.S.`,
+    thumbnail:
+      "STEM.jpg",
+    pdfUrl: "/",
+  },
+  {
+    id: "stem-04",
+    title: "TESTING ALTERNATIVE FLOOR WAX WITH THE USE OF BANANA EXTRACT AND ITS EFFECT TO ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL  ",
+    authors: ["Jomari D. Brucal"," Mariel D. Espiritu"," Jhelie E. Inutan"," Rhea Marie J. Maranan"," Krizel Daniella P. Reyes"," Kaye Desiree M. Rubio"],
+    year: "March 2019",
+    strand: "STEM",
+    abstract:
+      `The study was designed to test the alternative floor wax with the use of banana extract and its effect to Anselmo A. Sandoval Memorial National High School. Specifically, it sought to determine: 
+(a) the ingredients of alternative floor wax; 
+(b) if there were significant difference between the commonly used floor wax and alternative floor wax in terms of quality, time and area and 
+(c) the importance of alternative floor wax in terms of physical health and financial aspect. 
+
+In order to achieve the needed results, we have conducted an experiment to further testify to the researchers' observed results. 
+(1) We applied the commercial and alternative floor wax to the chosen corridors. 
+(2) We recorded the time it took to finish the work. 
+(3) We also took the area covered by each kind of floor wax. 
+(4) Lastly, we took a quality test and recorded all the data collected. Results showed that there is no significant difference between the Alternative and Commercial Floor wax.
+`,
+    thumbnail:
+      "STEM.jpg",
+    pdfUrl: "/",
+  },
+   {
+    id: "stem-05",
     title: "IMPROVING SKILLS IN MULTIPLICATION BY USING JAPANESE MULTIPLICATION METHOD ",
     authors: [": Cristine Mae De Austria"," Joseph Alfred Magboo"," Dhonna Manigbas"," Christian Silang "],
     year: "March 2018",
@@ -260,8 +258,8 @@ KEYWORD Solar panel, motherboard, direct current, capacitor
       "STEM.jpg",
     pdfUrl: "/",
   },
-   {
-    id: "stem-07",
+  {
+    id: "stem-06",
     title: "REFLECTIVE PROPERTY OF ALUMINUM FOIL ON THE SIGNAL OF A POCKET WIFI AS A BASIS IN STRENGTHENING INTERNET CONNECTION ",
     authors: ["Abarintos, Marc Jay M."," Reyes, Mannuel A."," Bonquin, Rica Shainna D."," Rosales Arvie Marie M."," Valenzuela, Aivee M. "],
     year: "March 2018",
@@ -294,23 +292,25 @@ After the thorough and careful analysis of findings and conclusion, the followin
     pdfUrl: "/",
   },
   {
-    id: "stem-08",
-    title: "TESTING ALTERNATIVE FLOOR WAX WITH THE USE OF BANANA EXTRACT AND ITS EFFECT TO ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL  ",
-    authors: ["Jomari D. Brucal"," Mariel D. Espiritu"," Jhelie E. Inutan"," Rhea Marie J. Maranan"," Krizel Daniella P. Reyes"," Kaye Desiree M. Rubio"],
-    year: "March 2019",
+    id: "stem-07",
+    title: "EFFICIENCY OF DYNAMO CHARGER FOR SAMSUNG PHONES ",
+    authors: ["Austria, Michael"," Maranan, Mark Jayson M."," Sto. Domingo, Jeremiah"," Atienza, Angela C."," Jusi, Maricar G."],
+    year: "March 2018",
     strand: "STEM",
     abstract:
-      `The study was designed to test the alternative floor wax with the use of banana extract and its effect to Anselmo A. Sandoval Memorial National High School. Specifically, it sought to determine: 
-(a) the ingredients of alternative floor wax; 
-(b) if there were significant difference between the commonly used floor wax and alternative floor wax in terms of quality, time and area and 
-(c) the importance of alternative floor wax in terms of physical health and financial aspect. 
-
-In order to achieve the needed results, we have conducted an experiment to further testify to the researchers' observed results. 
-(1) We applied the commercial and alternative floor wax to the chosen corridors. 
-(2) We recorded the time it took to finish the work. 
-(3) We also took the area covered by each kind of floor wax. 
-(4) Lastly, we took a quality test and recorded all the data collected. Results showed that there is no significant difference between the Alternative and Commercial Floor wax.
-`,
+      `The used of mobile phones were increasing every year. As the demand of the phones increases also the demand in electricity will increase because every mobile phones needed electrical energy to function. The study propose the used of dynamo as charger for mobile phones. This intended to evaluate the charging speed and the length of usage of the charged phones in dynamo charger and commercial charger. The differences between dynamo charger and commercial charger where evaluated by this study. Charging speed of the phones using dynamo charger is faster than commercial charger. But the period of time in length of usage of the charged phones in the commercial charger is longer than the phones charged in dynamo charger.`,
+    thumbnail:
+      "STEM.jpg",
+    pdfUrl: "/",
+  },
+   {
+    id: "stem-08",
+    title: "EFFECTIVENESS OF MULTIMEDIA LEARNING MATERIAL AMONG STEM STUDENTS' ACADEMIC ACHIEVEMENT IN PHYSICS IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL S.Y. 2017-2018",
+    authors: ["Aclan, Shalmae D."," Brucal, Heracleia D."," Castillo, Ivan James P."," Dinglasan, Vincent A."," Magboo, Jerson V."],
+    year: "March 2018",
+    strand: "STEM",
+    abstract:
+      `The use of multimedia in education has proven its importance due to its positive impact on the teaching and learning process. The presents study investigates comparative effectiveness of multimedia- aided teaching on students' academic performance in Physics. A sample of 70 students was purposively divided into two groups. Pretest-posttest design was selected for this experimental study. The experimental group was taught with the help of multimedia presentation whereas the controlled group was treated traditionally. The valid and reliable questionnaires were used as data collection tools. A Statistical Package for the Social Sciences (SPSS) Program was used to measure the results of both groups before and after treatment. To analyze the data, an independent sample t- test was used. The results indicated that multimedia- aided teaching is more effective than the traditional one. Students' academic performance towards in Physics improves more if multimedia- aided teaching method was used compare to the traditional method teaching`,
     thumbnail:
       "STEM.jpg",
     pdfUrl: "/",
