@@ -14,25 +14,29 @@ export interface Thesis {
 export const theses: Thesis[] = [
   {
     id: "ict-01",
-    title: `UTILIZATION OF INTERNET AMONG SENIOR HIGH STUDENTS OF ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL: BASIS TO OPEN AN INTERNET ACCESS POLICY`,
-    authors: ["Amboy, Francis"," Baculo, Sherwin"," Dinglasan, Mark Dave"," Olano, Jason Denzel"," Busa, Mary Grace"," Galang, Kate Aubrey"," Martinez, Ericka"],
-    year: "March 2019",
+    title: "Handcrafted Smoke Detector with Integrated Noise Alert System: A Safety Device for ICT Laboratory in Anselmo A. Sandoval Memorial National High School",
+    authors: ["Corpuz, Ayessa Denise O.","Adarlo, Marinela M.","Agdan, Louies Rafael Q.","Aspi, Criztan Jae Allen A.","Balbas, Jan Mikhail C.","Capuno, Khent Azlee H.","Cordero, Adrian B.","Dimaculangan, Lei Osiris M.","Dinglasan, Aniesie Grace M.","Paglinawan, John Loyd M.","Tolentino, Jercel V."],
+    year: "March 2025",
     strand: "ICT",
-    abstract: `It's about the use of internet in academic purposes for every senior high student that they use for the research, projects and activities. However, it is very obvious that the internet provides not only social connection and entertainment, but also academic and scientific information as well. The benefit is not only for students but also for the teachers, by using the internet teachers can teach by the use of animation, power point slides, and images to capture the student's attention. The Internet technology has provided an extraordinary level of public accessibility to a wide range of forms of communication.`,
-    thumbnail: "ICT.jpg",
+    abstract:
+      `This research paper, "Handcrafted Smoke Detector with Integrated Noise Alert System: A Safety Device for ICT Laboratory in Anselmo A. Sandoval Memorial National High School," investigates the development and implementation of a handcrafted smoke detector equipped with a noise alert system, designed to enhance fire safety measures within the ICT laboratory. The study aims to assess the device's effectiveness in detecting smoke and alerting individuals promptly, thereby mitigating potential fire hazards and ensuring the safety of students and faculty. Through a combination of qualitative and quantitative research methods. the study evaluates the functionality of the device, its reliability in detecting smoke, and the responsiveness of users to the noise alert system. Data collected from surveys, interviews, and observations provide insights into the device's efficiency, its advantages, and areas for improvement. The findings indicate a positive correlation between the presence of the smoke detector and an increased awareness of fire safety among students. and faculty. Additionally, the study highlights the importance of integrating innovative and cost-effective safety solutions in educational settings to prevent fire-related incidents. The paper concludes with recommendations for further enhancing the device's capabilities and expanding its application to other school facilities. This research contributes to the ongoing efforts to improve fire safety in educational institutions and underscores the role of technology in promoting a secure learning environment.`,
+    thumbnail:
+      "ICT.jpg",
     pdfUrl: "/",
   },
   {
     id: "ict-02",
-    title: "Innovative Business Model Proposal for Internet Cafe Owner's in Mabini Batangas ‎ ",
-    authors: ["De Chavez, Rolly"," Ebreo, Emanrie"," Manalo, Andrei John Claude"," Torres, Cyril John"," Sarabia, Francis Ej."],
-    year: "March 2019",
+    title: "Bottle for a Pen: Via Automated Plastic Bottle Vending Machine",
+    authors: ["Jaso, Jherwin S.","Gonda, Andrew Jeoyam M.","Maala, Andie Luc C.","Manongsong, Paul Francis D.","Ramos, Ralph Jareez D.","Reyes, John Justin B.","Sarmiento, Mikel Jazle D.","Sombilon, John Joren V.","Dolor, Maria Rosalyn S.","Gunio, Rica Jhane J.","Matira, Christine Joy M.","Presto, Aileen V."],
+    year: "March 2025",
     strand: "ICT",
-    abstract: "Focusing on immersive learning, this project develops an AR application that guides electronics students through soldering, board inspection, and safety workflows. Spatial anchors align virtual overlays with physical lab benches, while a validation study compares task completion between AR-assisted and traditional printed guides. Participants using the AR trainer finish calibration steps 33% faster and commit fewer safety violations, according to a rubric developed with faculty mentors. The thesis delves into 3D asset optimization for low-powered tablets, user interface accessibility decisions, and the maintenance process for updating procedures every academic term. Suggestions for future work include haptic feedback integrations and multi-user collaboration modes.",
-    thumbnail: "ICT.jpg",
+    abstract:
+      `This research paper, "Bottle for a Pen: Via Automated Plastic Bottle Vending Machine", investigates the development and implementation of an automated plastic bottle vending machine designed to promote recycling habits and environmental awareness among students in Anselmo A. Sandoval Memorial National High School. The study aims to assess the machine's effectiveness in encouraging proper disposal of plastic bottles and its overall impact on the school's sustainability initiative. Through quantitative research method, the study evaluates the students' engagement with the vending machine, their recycling behaviors, and their attitudes towards environmental conservation. Data collected from survey provide insights into the machine's usage, its benefits, and areas for improvement. The findings indicate a positive correlation between the presence of the vending machine and an increase in recycling activities among students. Additionally, the study highlights the importance of integrating innovative solution in educational settings to respond environmental responsibility and sustainable practices. The paper concludes with recommendations for further enhancing the vending machine's functionality and expanding its implementation to other educational institutions. This research contributes to the ongoing efforts to address plastic waste management and underscores the role of educational institutions in promoting environmental stewardship.`,
+    thumbnail:
+      "ICT.jpg",
     pdfUrl: "/",
   },
-  {
+   {
     id: "ict-03",
     title: "STRAND ASSESSMENT WEBSITE: A CATALYST RESPONSE TOOL IN CHOOSING SUITABLE STRAND FOR UPCOMING G-11 SENIOR HIGH SCHOOL STUDENTS IN ANSELMO A. SANDOVAL MEMORIALNATIONAL HIGH SCHOOL S.Y. 2024-2025",
     authors: [
@@ -93,28 +97,24 @@ In conclusion, this study delved into the assessment of parent messaging of stud
     thumbnail: "ICT.jpg",
     pdfUrl: "/",
   },
-  {
+    {
     id: "ict-05",
-    title: "Handcrafted Smoke Detector with Integrated Noise Alert System: A Safety Device for ICT Laboratory in Anselmo A. Sandoval Memorial National High School",
-    authors: ["Corpuz, Ayessa Denise O.","Adarlo, Marinela M.","Agdan, Louies Rafael Q.","Aspi, Criztan Jae Allen A.","Balbas, Jan Mikhail C.","Capuno, Khent Azlee H.","Cordero, Adrian B.","Dimaculangan, Lei Osiris M.","Dinglasan, Aniesie Grace M.","Paglinawan, John Loyd M.","Tolentino, Jercel V."],
-    year: "March 2025",
+    title: "Innovative Business Model Proposal for Internet Cafe Owner's in Mabini Batangas ‎ ",
+    authors: ["De Chavez, Rolly"," Ebreo, Emanrie"," Manalo, Andrei John Claude"," Torres, Cyril John"," Sarabia, Francis Ej."],
+    year: "March 2019",
     strand: "ICT",
-    abstract:
-      `This research paper, "Handcrafted Smoke Detector with Integrated Noise Alert System: A Safety Device for ICT Laboratory in Anselmo A. Sandoval Memorial National High School," investigates the development and implementation of a handcrafted smoke detector equipped with a noise alert system, designed to enhance fire safety measures within the ICT laboratory. The study aims to assess the device's effectiveness in detecting smoke and alerting individuals promptly, thereby mitigating potential fire hazards and ensuring the safety of students and faculty. Through a combination of qualitative and quantitative research methods. the study evaluates the functionality of the device, its reliability in detecting smoke, and the responsiveness of users to the noise alert system. Data collected from surveys, interviews, and observations provide insights into the device's efficiency, its advantages, and areas for improvement. The findings indicate a positive correlation between the presence of the smoke detector and an increased awareness of fire safety among students. and faculty. Additionally, the study highlights the importance of integrating innovative and cost-effective safety solutions in educational settings to prevent fire-related incidents. The paper concludes with recommendations for further enhancing the device's capabilities and expanding its application to other school facilities. This research contributes to the ongoing efforts to improve fire safety in educational institutions and underscores the role of technology in promoting a secure learning environment.`,
-    thumbnail:
-      "ICT.jpg",
+    abstract: "Focusing on immersive learning, this project develops an AR application that guides electronics students through soldering, board inspection, and safety workflows. Spatial anchors align virtual overlays with physical lab benches, while a validation study compares task completion between AR-assisted and traditional printed guides. Participants using the AR trainer finish calibration steps 33% faster and commit fewer safety violations, according to a rubric developed with faculty mentors. The thesis delves into 3D asset optimization for low-powered tablets, user interface accessibility decisions, and the maintenance process for updating procedures every academic term. Suggestions for future work include haptic feedback integrations and multi-user collaboration modes.",
+    thumbnail: "ICT.jpg",
     pdfUrl: "/",
   },
-  {
+    {
     id: "ict-06",
-    title: "Bottle for a Pen: Via Automated Plastic Bottle Vending Machine",
-    authors: ["Jaso, Jherwin S.","Gonda, Andrew Jeoyam M.","Maala, Andie Luc C.","Manongsong, Paul Francis D.","Ramos, Ralph Jareez D.","Reyes, John Justin B.","Sarmiento, Mikel Jazle D.","Sombilon, John Joren V.","Dolor, Maria Rosalyn S.","Gunio, Rica Jhane J.","Matira, Christine Joy M.","Presto, Aileen V."],
-    year: "March 2025",
+    title: `UTILIZATION OF INTERNET AMONG SENIOR HIGH STUDENTS OF ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL: BASIS TO OPEN AN INTERNET ACCESS POLICY`,
+    authors: ["Amboy, Francis"," Baculo, Sherwin"," Dinglasan, Mark Dave"," Olano, Jason Denzel"," Busa, Mary Grace"," Galang, Kate Aubrey"," Martinez, Ericka"],
+    year: "March 2019",
     strand: "ICT",
-    abstract:
-      `This research paper, "Bottle for a Pen: Via Automated Plastic Bottle Vending Machine", investigates the development and implementation of an automated plastic bottle vending machine designed to promote recycling habits and environmental awareness among students in Anselmo A. Sandoval Memorial National High School. The study aims to assess the machine's effectiveness in encouraging proper disposal of plastic bottles and its overall impact on the school's sustainability initiative. Through quantitative research method, the study evaluates the students' engagement with the vending machine, their recycling behaviors, and their attitudes towards environmental conservation. Data collected from survey provide insights into the machine's usage, its benefits, and areas for improvement. The findings indicate a positive correlation between the presence of the vending machine and an increase in recycling activities among students. Additionally, the study highlights the importance of integrating innovative solution in educational settings to respond environmental responsibility and sustainable practices. The paper concludes with recommendations for further enhancing the vending machine's functionality and expanding its implementation to other educational institutions. This research contributes to the ongoing efforts to address plastic waste management and underscores the role of educational institutions in promoting environmental stewardship.`,
-    thumbnail:
-      "ICT.jpg",
+    abstract: `It's about the use of internet in academic purposes for every senior high student that they use for the research, projects and activities. However, it is very obvious that the internet provides not only social connection and entertainment, but also academic and scientific information as well. The benefit is not only for students but also for the teachers, by using the internet teachers can teach by the use of animation, power point slides, and images to capture the student's attention. The Internet technology has provided an extraordinary level of public accessibility to a wide range of forms of communication.`,
+    thumbnail: "ICT.jpg",
     pdfUrl: "/",
   },
   {
