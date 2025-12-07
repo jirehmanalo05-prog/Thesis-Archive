@@ -61,7 +61,7 @@ export default function Home() {
       <section className="grid gap-6 rounded-3xl border border-border/60 bg-card/60 p-6 shadow-sm md:grid-cols-2">
         {strandInsights.map((item) => (
           <article key={item.title} className="flex gap-4">
-            <div className="mt-1 rounded-2xl bg-red-800/10 p-3 text-red-800"">
+            <div className="mt-1 rounded-2xl bg-red-800/10 p-3 text-red-800">
               <item.icon className="h-6 w-6" aria-hidden="true" />
             </div>
             <div>
