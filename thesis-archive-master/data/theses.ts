@@ -552,26 +552,8 @@ Keywords: Marine AC System Maritime Industry
       "PBM.jpg",
     pdfUrl: "/",
   },
-  {
+   {
     id: "pbm-05",
-    title: "LOCALIZED SEABIN AS A SEAWATER CLEANER FOR MABINI" ,
-    authors: [
-      "Baculo, Leoneil B.",
-      "Magboo, Jhon Erickson B.",
-      "Magnaye, Joshua C.",
-      "Mendoza, Led Grant",
-      "Rauto, Heide A.",
-    ],
-    year: "March 2018",
-    strand: "PBM",
-    abstract:
-      `Mabini is known for its beautiful and lively marine diversity that's why it becomes one of the popular and favorite tourist destinations of travelers, vacationers, divers, and adventurers. For this reason, the economy of the municipality rises as well as the number of its wastes production. The clear water of the place became filthy and floating wastes are observable, like, plastics, bottles, cans, paper, candy wrap, and even diapers can be seen now in the surface of the seawater. This situation motivates the researchers to build an environment friendly machine called "the seabin" that will lessen the number of wastes or even be a solution for the over production of waste in water areas in Mabini. The seabin works similarly to a filter. An electric pump draws water through the bottom of the cylinder, creating a vortex around the upper edge that pulls in water and floating trash. A bag filter, made of natural material like a coffee sack, collects the trash and allows water to pass through (M. Weiser, 2016). Furthermore, to determine the potential and effectiveness of the seabin, the researchers focuses on the seabin's capacity and speed of collecting waste. They conduct some trials to measure the ability of the machine. The researchers estimated the amount of garbage that the seabin can gather weekly, monthly, and yearly. In addition, they test the relationship of the capacity and speed of collecting wastes of the seabin. Afterwards, the researchers find actions that can be done to enhance the performance of the seabin. The researcher uses Experimental-Correlational method for this study in order to view the potential and effectiveness of the seabin in collecting wastes. As a result, the researchers found out that the seabin can bring a large impact to the problem of over production of wastes of Mabini.`,
-    thumbnail:
-      "PBM.jpg",
-    pdfUrl: "/",
-  },
-  {
-    id: "pbm-06",
     title: "Banana Trunk Fiber for Oil Spill Management " ,
     authors: [
       "Cabral, Queen Althea Mari A.",
@@ -585,6 +567,24 @@ Keywords: Marine AC System Maritime Industry
     strand: "PBM",
     abstract:
       `Providing alternative means to serve as a solution to addressing oil spills through the use of banana trunk fibers will significantly assist in the promotion and protection of the environment. The researchers discovered that the lysoda used in creating banana fibers might harm users health. If banana fibers are dried in the heat of the sun, they will stick together and harden. In this study, the researchers made use of the experimental method in order to determine if there are differences between water and land using banana trunk fiber for oil spill management. These will be used to gather information about the difference between the absorption capacity of acylated banana fibers on land and water. This study requires the main materials, such as banana trunk. The study is then interpreted, analyzed, and supported by the review literature and study.Researchers found out that banana fibers are efficiently sorbent in removing oil in water and may be alternatively utilized for oil cleanup. According to the findings of the study, banana trunk fiber can be used as an alternative tool for absorbing oil spills in the water rather than on land. This study will focus on the effectiveness of banana fibers as an oil eliminator.`,
+    thumbnail:
+      "PBM.jpg",
+    pdfUrl: "/",
+  },
+  {
+    id: "pbm-06",
+    title: "LOCALIZED SEABIN AS A SEAWATER CLEANER FOR MABINI" ,
+    authors: [
+      "Baculo, Leoneil B.",
+      "Magboo, Jhon Erickson B.",
+      "Magnaye, Joshua C.",
+      "Mendoza, Led Grant",
+      "Rauto, Heide A.",
+    ],
+    year: "March 2018",
+    strand: "PBM",
+    abstract:
+      `Mabini is known for its beautiful and lively marine diversity that's why it becomes one of the popular and favorite tourist destinations of travelers, vacationers, divers, and adventurers. For this reason, the economy of the municipality rises as well as the number of its wastes production. The clear water of the place became filthy and floating wastes are observable, like, plastics, bottles, cans, paper, candy wrap, and even diapers can be seen now in the surface of the seawater. This situation motivates the researchers to build an environment friendly machine called "the seabin" that will lessen the number of wastes or even be a solution for the over production of waste in water areas in Mabini. The seabin works similarly to a filter. An electric pump draws water through the bottom of the cylinder, creating a vortex around the upper edge that pulls in water and floating trash. A bag filter, made of natural material like a coffee sack, collects the trash and allows water to pass through (M. Weiser, 2016). Furthermore, to determine the potential and effectiveness of the seabin, the researchers focuses on the seabin's capacity and speed of collecting waste. They conduct some trials to measure the ability of the machine. The researchers estimated the amount of garbage that the seabin can gather weekly, monthly, and yearly. In addition, they test the relationship of the capacity and speed of collecting wastes of the seabin. Afterwards, the researchers find actions that can be done to enhance the performance of the seabin. The researcher uses Experimental-Correlational method for this study in order to view the potential and effectiveness of the seabin in collecting wastes. As a result, the researchers found out that the seabin can bring a large impact to the problem of over production of wastes of Mabini.`,
     thumbnail:
       "PBM.jpg",
     pdfUrl: "/",
