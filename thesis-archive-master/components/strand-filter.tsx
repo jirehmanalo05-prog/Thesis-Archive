@@ -92,7 +92,7 @@ export function StrandFilter({ activeStrand, title }: StrandFilterProps) {
             data-active={activeStrand === key}
             className="group flex items-start gap-3 rounded-2xl border border-border/60 bg-background/60 p-4 transition hover:-translate-y-0.5 hover:border-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 data-[active=true]:border-primary data-[active=true]:bg-primary/5"
           >
-            <div className="flex h-10 w-10 items-center justify-center rounded-2xl bg-primary/10 text-primary">
+            <div className="flex h-10 w-10 items-center justify-center rounded-2xl bg-red-800/10 text-red-800">
               <Icon className="h-5 w-5" aria-hidden="true" />
             </div>
             <div>
