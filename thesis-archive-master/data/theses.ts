@@ -210,8 +210,25 @@ In order to achieve the needed results, we have conducted an experiment to furth
     thumbnail: "STEM.jpg",
     pdfUrl: "/",
   },
-  {
+   {
     id: "stem-05",
+    title: "Potentiality of 1.85W Solar Panel as an Alternative Energy Supplier to a 7.2V 4100 mAh Mobile Power Bank ",
+    authors: [" Agrao, Junella Fae B."," Baculo, Gisselle V."," Bantugon, Cynt Vritney B."," Macarandang, Loreta M."," Astoriano III, Alberto C."," Magtibay, Marvin R."],
+    year: "March 2019",
+    strand: "STEM",
+    abstract:
+      `INTRODUCTION 
+An example of social progress and better quality of life would be the availability of portable power bank which are ready when your smart phone battery dies at any time of the day. But there are circumstances that even your power bank had not been charged. However, one of the major drawbacks of communication lines is the lack of generation of electricity as like in remote areas or during disaster or natural calamities. To set back such drawbacks solar power bank is one of its kinds. It works in converting solar to electrical energy. Solar power banks, thus, are essential during disasters and power outrage. 
+
+METHODOLOGY 
+The study uses quantitative approach with the method of true experimental research. By those time periods, the researchers can prove or disprove the hypothesis whether the time it will take the 1.85W solar panel to charge the 7.2V 4100mAh power bank up to 25% has or has no significant difference with the time it will require the DC charger to do so. RESULTS The alternative solar power bank has almost met the standard average amount of time of the existing solar power bank in terms of its consume in charging and in terms of charging it into Direct Current charger. However, charging the solar powerbank using solar panel has greater consumed time than in direct current but as indicated in the result, solar power bank will still play a large contribution to our society as it can be charged on both direct and /or with the use of solar panel. DISCUSSION The use of solar energy in charging the 7.2V 4100 mAh mobile power bank is not as efficient and fast as when using a Direct Current (DC) charger. 
+
+KEYWORD Solar panel, motherboard, direct current, capacitor`,
+    thumbnail: "STEM.jpg",
+    pdfUrl: "/",
+  }, 
+  {
+    id: "stem-06",
     title: "IMPROVING SKILLS IN MULTIPLICATION BY USING JAPANESE MULTIPLICATION METHOD ",
     authors: [": Cristine Mae De Austria"," Joseph Alfred Magboo"," Dhonna Manigbas"," Christian Silang "],
     year: "March 2018",
@@ -240,7 +257,7 @@ RECOMMENDATIONS
     pdfUrl: "/",
   },
   {
-    id: "stem-06",
+    id: "stem-07",
     title: "REFLECTIVE PROPERTY OF ALUMINUM FOIL ON THE SIGNAL OF A POCKET WIFI AS A BASIS IN STRENGTHENING INTERNET CONNECTION ",
     authors: ["Abarintos, Marc Jay M."," Reyes, Mannuel A."," Bonquin, Rica Shainna D."," Rosales Arvie Marie M."," Valenzuela, Aivee M. "],
     year: "March 2018",
@@ -271,7 +288,7 @@ RECOMMENDATIONS
     pdfUrl: "/",
   },
   {
-    id: "stem-07",
+    id: "stem-08",
     title: "BIOGAS FROM VARIED ANIMAL WASTES: AS PRACTICAL COOKING GAS OPTION AMONG THE RESIDENTS IN BRGY.SAN TEODORO, MABINI, BATANGAS ",
     authors: ["DE CHAVEZ, KIMBERLY WENN"," CAJAYON, NILO"," MAGBOO, JONAS MILES"," MENDOZA, MARC ROYETH"," SAWALI, FLORJ KIMWELL"],
     year: "March 2018",
@@ -282,7 +299,7 @@ RECOMMENDATIONS
     pdfUrl: "/",
   },
   {
-    id: "stem-08",
+    id: "stem-09",
     title: "EFFICIENCY OF DYNAMO CHARGER FOR SAMSUNG PHONES ",
     authors: ["Austria, Michael"," Maranan, Mark Jayson M."," Sto. Domingo, Jeremiah"," Atienza, Angela C."," Jusi, Maricar G."],
     year: "March 2018",
@@ -295,30 +312,13 @@ RECOMMENDATIONS
     pdfUrl: "/",
   },
   {
-    id: "stem-09",
+    id: "stem-10",
     title: "EFFECTIVENESS OF MULTIMEDIA LEARNING MATERIAL AMONG STEM STUDENTS' ACADEMIC ACHIEVEMENT IN PHYSICS IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL S.Y. 2017-2018",
     authors: ["Aclan, Shalmae D."," Brucal, Heracleia D."," Castillo, Ivan James P."," Dinglasan, Vincent A."," Magboo, Jerson V."],
     year: "March 2018",
     strand: "STEM",
     abstract:
       `The use of multimedia in education has proven its importance due to its positive impact on the teaching and learning process. The presents study investigates comparative effectiveness of multimedia- aided teaching on students' academic performance in Physics. A sample of 70 students was purposively divided into two groups. Pretest-posttest design was selected for this experimental study. The experimental group was taught with the help of multimedia presentation whereas the controlled group was treated traditionally. The valid and reliable questionnaires were used as data collection tools. A Statistical Package for the Social Sciences (SPSS) Program was used to measure the results of both groups before and after treatment. To analyze the data, an independent sample t- test was used. The results indicated that multimedia- aided teaching is more effective than the traditional one. Students' academic performance towards in Physics improves more if multimedia- aided teaching method was used compare to the traditional method teaching`,
-    thumbnail: "STEM.jpg",
-    pdfUrl: "/",
-  }, 
-  {
-    id: "stem-10",
-    title: "Potentiality of 1.85W Solar Panel as an Alternative Energy Supplier to a 7.2V 4100 mAh Mobile Power Bank ",
-    authors: [" Agrao, Junella Fae B."," Baculo, Gisselle V."," Bantugon, Cynt Vritney B."," Macarandang, Loreta M."," Astoriano III, Alberto C."," Magtibay, Marvin R."],
-    year: "March 2019",
-    strand: "STEM",
-    abstract:
-      `INTRODUCTION 
-An example of social progress and better quality of life would be the availability of portable power bank which are ready when your smart phone battery dies at any time of the day. But there are circumstances that even your power bank had not been charged. However, one of the major drawbacks of communication lines is the lack of generation of electricity as like in remote areas or during disaster or natural calamities. To set back such drawbacks solar power bank is one of its kinds. It works in converting solar to electrical energy. Solar power banks, thus, are essential during disasters and power outrage. 
-
-METHODOLOGY 
-The study uses quantitative approach with the method of true experimental research. By those time periods, the researchers can prove or disprove the hypothesis whether the time it will take the 1.85W solar panel to charge the 7.2V 4100mAh power bank up to 25% has or has no significant difference with the time it will require the DC charger to do so. RESULTS The alternative solar power bank has almost met the standard average amount of time of the existing solar power bank in terms of its consume in charging and in terms of charging it into Direct Current charger. However, charging the solar powerbank using solar panel has greater consumed time than in direct current but as indicated in the result, solar power bank will still play a large contribution to our society as it can be charged on both direct and /or with the use of solar panel. DISCUSSION The use of solar energy in charging the 7.2V 4100 mAh mobile power bank is not as efficient and fast as when using a Direct Current (DC) charger. 
-
-KEYWORD Solar panel, motherboard, direct current, capacitor`,
     thumbnail: "STEM.jpg",
     pdfUrl: "/",
   }, 
