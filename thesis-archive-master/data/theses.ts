@@ -1090,6 +1090,84 @@ Keywords: Oral Communication Supplementary Activity World Literature`,
     pdfUrl: "/",
   },
     {
+    id: "humss-29",
+    title: "PERSONAL DEVELOPMENT OF STUDENTS WHO UNDERTAKE ALTERNATIVE LEARNING SYSTEM AMONG SELECTED COMMUNITY LEARNING CENTER",
+    authors: [
+      "Altea, Almira Jane A. ",
+      "Aldueza, Sofia Monica S.",
+      "Belen, John Paul Patrick B.",
+      "Castillo, Zyrelle G.",
+      "Fadriquelan, Baby Jane D.",
+      "Fillon, Arnold B.",
+      "Valenton, Keith Gwyneth A.",
+    ],
+    year: "March 2019 ",
+    strand: "HUMSS",
+    abstract:
+      `CHAPTER V 
+SUMMARY, CONCLUSION AND RECOMMENDATION 
+  This chapter presents the summary of findings, conclusions and recommendations of the study. 
+
+Summary 
+ The study focused on the Personal Development of Alternative Learning System students in terms of mental and behavioral aspects in two selected Mabini Batangas. Community Learning System in Barangay Poblacion and Barangay San Teodoro
+ Specifically, it will answer the following questions:
+  1. What is the respondents profile in terms of:
+   1.1. Age
+
+() 12-15
+
+() 16-19
+ 
+    1.2. Gender
+
+()20-23
+
+() Male
+
+() Female
+
+() LGBT
+  1.3 Community Learning Center
+ 2. What are the assessed personal development of ALS students in terms of:
+  2.1 Mental;
+
+  2.2 Behavior
+  
+  3. Based from the result what recommendation may be proposed to address the problems?
+The research study utilized descriptive research method. Descriptive research is a study of status and is widely used in education, nutrition, epidemiology, and the behavioural sciences. Its value is based on the premise that problems can be solved and practices improved through observation. analysis, and description. The most common descriptive research method is the survey, which includes survey-questionnaires which is principal basis in conducting data collection.
+
+Findings 
+ This study reveled that the ALS students of San Teodoro had the3.36 which is the highest composite mean in terms of mental and in the behavioral with 3.47. In the ALS student of Poblacion CLC they have the 2.98 composite mean in terms of mental and 2.97 in behavioral. It means that the ALS students in San Teodoro has the changes in personal development or reflected to the weighted mean.
+ 
+ Regardless of the informal education, every students have Personal Development. ALS students in rural have greater personal development compared to urban like in Poblacion. In terms of gender of the respondents male is outnumbered of two female in terms of age greatest number fell on 20-23 so dominant ALS students are already in maturing age. The researchers made the necessarily activities on the weak point of an individual enrolled students of ALS.
+
+  Conclusions
+  1.1. Profile of the Respondents in Terms of Age
+  
+ There are 3 students in the ages 12-15 which is 14%, 7 students in the ages of 16-19 with a 31% while there are 12 students ages 20-23 which is 49%.
+   1.2. Profile of the Respondents in Terms of Gender
+  Demonstrates clearly that in accumulated responses of 22 respondents, the 10 females is equal 39%, 12 male that is equal to the 55% and there is no LGBT.
+
+   1.3. Profile of the Respondents in Terms of Community Learning System
+  Demonstrate that 50% of the respondents are from the CLC of the Poblacion same with the 50% of the respondents in CLC of San Teodoro.
+
+   2.1. Aspect. Assessed Personal Development of ALS Students in terms of Mental
+  Assessed on personal development among ALS students in Barangay Poblacion and San Teodoro in terms of mental aspect. As can be gleaned from the table, ranking first in the Barangay Poblacion is "The student performs well in classes" with a weighted mean of 3.27 and verbal interpretation of great extent while the question "The student is willing to learn our lessons with a weighted mean of 3.64 and the verbal interpretation of very great extent in Barangay San Teodoro rank first.
+
+   2.2. Assessed Personal Development of ALS Students in terms of Behavioural Aspect.
+Assessed on personal development ALS student in barangay Poblacion and San Teodoro in terms of behavioral aspects. As can be gleaned from the table ranking first in barangay Poblacion is "the student can easily socialize with others with a weighted mean of 3.73 and the verbal interpretation of very great extent while the question "the student can easily socialize with others ranking first in barangay San Teodoro with a weighted mean of 3.64 with a verbal interpretation of very great extent.
+
+l. Recommendation may be proposed to address the problem
+1. Activity that will improve the student personal development.
+Implementing an activity helps to improve the personal development of the students. The activities woill be related to your mental and behavioural aspect in order to learn about it and to improve it.
+
+2. Video clips that tackled on how the Students develop their self awareness.
+The use of videos in teaching and learning serves to not only benefit students, but also teachers and their affiliated institutions. Short video clips containing the self-awareness of the students in their personal development
+`,
+    thumbnail: "HUMSS.jpg",
+    pdfUrl: "/",
+  },
+    {
     id: "humss-35",
     title: "Academic Performance Between Students of OFW Parent/s and of Non- OFW Parent's Among Grade 8 students of Anselmo A. Sandoval Memorial National High School. ",
     authors: [
@@ -1143,6 +1221,89 @@ Keywords Parenting styles, supervision.
     strand: "HUMSS",
     abstract:
       `The digital age has led to the tee of platforms like Facebook Pages and personal websites, providing new communication channels for personal and professional lives. However, students at Anselmo A. Sandoval Memorial National High School at Humanities and Social Sciences struggle to choose the best platform for their Creative Writing, Media, and information Literacy outputs. A bunch of students prefer the Facebook page since it is easier to use and more sccessible since almost everyone has Facebook accounts, and for the website they find them hard to use. Due to the complications in the setup, it seems that there is no difference between the two. The researcher came up with the study that will compare the two and find out which is the better platform to use for their Creative Writing, Media and Information Literacy outputs. The study compares Facebook page and website uning quantitative comparative design, a variable-oriented, case-oriented, and collection-oriented methodology for data analysis. This study consists of 50 Grade 12 Hananities and Social Sciences students at Anselmo A. Sandoval Memorial National High School, selected using the Stratified Sampling method. The Reasoft calculator was used to select respondents from four sections: Pearl and Amethyst, Spinel and Diamond, and Amethyst. The sample size was assessed with a 90% confidence level and 10% margin of error, accounting for 180 people Researchers used a self-crafted survey questionnaire to gather assential information from selected respondents. The questionnaires' validity was ensured hy 3 l's teachers who checked, revised, and suggested until poäshed for dissemination. The gadget that is suggested for using the two platforms. Facebook pages on frequency of 128 are most effective seen on mobile devices such as smartphones or tablets instead of laptops or computer. On the other hand, websites with frequencies of 174 favor laptops, BATASCAR over mobile phones or tablets. As platforms for student work, Fecebook pages and websites are nearly identical in terms of usefulness and cutput quality. There are no significant differances in either functionality or quality outputs, hence the null hypothesis is accepted for functionality with a p value of 0.447, quality sutputs with a p value of 0.198, and creativity with a p value of 1.0825-05. But there are enough significant differences in originality 0.000010 b reject the null hypothesis. Additionsily, each platform featured a proper device usage. The study evaluates Facebook pages and websites for their functionality, output quality, and creativity. Both platforms have similar functionality, but the website is more beneficial for creative presentations. The researcher recommends using a website in Grade 12 subjects for easy access and avoiding physical output disappearance during recordings. The appropriate gadgets for each platform are recommended for better use. For future researchers, conducting studies related to or similar to this paper is recommended.`,
+    thumbnail: "HUMSS.jpg",
+    pdfUrl: "/",
+  },
+  {
+    id: "humss-38",
+    title: "EFFECTS OF HOME-BASED INTERNET ACCESS TO THE ACADEMIC PERFORMANCE OF GRADE 12 ACADEMIC TRACK STUDENTS IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
+    authors: ["Ma. Santa Musada","Arjay Calica","Delmark Claro","Sherryl Adame","Blessly Canilang","Phoebe llagan","Rennelyn Liongson","Mary Hazel Maliglig","Alessia Masangcay" ],
+    year: "March 2018",
+    strand: "HUMSS",
+    abstract:
+      ` EFFECTS OF HOME-BASED INTERNET ACCESS TO THE ACADEMIC PERFORMANCE OF GRADE 12 ACADEMIC TRACK STUDENTS IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL
+
+Researchers: 
+Ma. Santa Musada
+Arjay Calica
+Delmark Claro
+Sherryl Adame
+Blessly Canilang
+Phoebe lagan
+Rennelyn Liongson
+Mary Hazel Maliglig
+Alessia Masangcay
+
+Statement of the Problem
+  The study aimed to determine the effects of home-based internet access to the academic performance of grade 12 academic track students in Anselmo A. Sandoval Memorial National High School. Furthermore, it attempted to answer the following questions:
+  1. ﻿﻿﻿What home-based internet services do millennial students engaged in?
+  2. ﻿﻿﻿What are the advantages and disadvantages of having and not having home-based internet access to the academic performance of grade 12 academic track students?
+  3. What is the academic performance of students with and without internet access at home?
+  4. Is there a significant difference between those with and without home-based internet access to their level of performance?
+  5. ﻿﻿﻿Based on the findings of the study, what plan of action may be proposed?
+
+Findings
+  After a thorough analysis and interpretation of these data and tables, the researchers arrived at the following findings.
+  1. The millennial students with internet access at home can engage more on home-based internet services, than those without internet access at home which are limited only on surfing.
+  2. The respondents strongly agreed that home-based internet access provides immediate access to information, virtual communication/ video call, obtainable and enhanced education, update on current news and weather reports, Youtube like stream cooking videos while trying them, English learning progress and influence, digital proficiency development to every student, learning about culture diversity, downloadable movies and documents, and a longer time for searching information. Also, they strongly agreed that home based internet access bears a lot of cheater sites, some biased and untrustworthy online information, sexual exploitation that anyone can fall prey to, cause of insomnia among students, cause of poor eyesight, opportunity for the students to commit plagiarism, and depression due to cyber bullying.
+  3. ﻿﻿﻿However, the absence of home-based internet access leads to a longer time for students to their home works, student's focus to stay on their studies, to the improvement of student's note taking inside the class, to the increase of student's productivity, the students to engage in a face to face interaction with their classmates to do their group study, the students to recognize self-knowledge and logical thinking, to enablement of students to see reality by experiences, to a simple treatment of depression, to the prevention of the radiation effects on every student's eyesight and to a complete sleep-hours routine every day. Lastly, the absence of home based internet access to result to cramming because of too much note taking, being left out educationally and socially, a not detailed information that students may gather, difficulty in communicating with teachers and classmates, being dependent on the internet, instead of using his/her skills, be inferior in group discussion due to limited idea, more chances of cheating classmates, excessive use of time and energy in doing school activities, difficulty in looking for academic services online and being outdated in current new, issues and trends. 
+  4. Students with home based internet access do attain a greater level of academic performance in school, compared to those without home based internet access. Because they become more active in school, and internet helps the students to expand their knowledge, give tips and strategy in studying and better and present tools such as websites that could inspire every student in every way.
+  5. There is a significant difference between those with and without home-based internet access to their level of performance.
+
+Conclusions
+  1. Millennial students with internet access at home can engage more on the services of home-based internet access, than those students without internet access at home which are limited only on surfing.
+  2. Respondents strongly agreed that there are various advantages and disadvantages of having home-based internet access. Also, they agreed that there are various and and disadvantages of not having home-based internet access. 
+`,
+    thumbnail: "HUMSS.jpg",
+    pdfUrl: "/",
+  },
+  {
+    id: "humss-39",
+    title: "WORK IMMERSION DIFFICULTIES AND DECISION MAKING IN STRAND - RELATED CAREER PREFERENCE OF THE GRADE 12 STUDENTS UNDER ACADEMIC TRACK IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL",
+    authors: ["Silang, Ivy Marie M.","Ortega, Eronn JD.","Adarlo, Millie Nina L.","Andal, Jinky S.","Baculo, Symon Cedrick M.","Delos Reyes, Dianne Maristella A.","Manalo, Jaynilee D.","Pamaranglas, Monique B." ],
+    year: "January 2018",
+    strand: "HUMSS",
+    abstract:
+      ` CHAPTER V
+SUMMARY, FINDINGS, CONCLUSION, AND RECOMMENDATIONS
+
+Summary
+  The research study presented the Work Immersion difficulties and decision making in strand - related career preference of the Grade 12 students under Academic Track in Anselmo A. Sandoval Memorial National High School.
+  Specifically, it sought to answer the following:
+  1. What is the profile of the respondents in terms of academic strand?
+  2. What is the significance of the Work Immersion in K to 12 Curriculum?
+  3. What are the Work Immersion difficulties encountered in relation to:
+    3.1 nature of work
+    3.2 transaction with the clientele
+    3.3 relation to manager
+  4. What intervention material can be harnessed as guidepost of coping up with the demands of Work Immersion arrangements?
+  5. What are the recommended practices that can be applied for decision making in strand - related career preference?
+
+The research study utilized descriptive research method. Descriptive research involves the description, recording, study and interpretation of the preference, yet it improved them as young professionals who have obtained an early practice of their planned profession.
+
+Conclusion
+  1. Profile of the Respondents in Terms of Academic Strand
+  In accumulated responses of 111, 40 student respondents belong to Accountancy and Business Management, 38 are from Science, Technology, Engineering and Mathematics, and 33 are from Humanities and Social Sciences.
+  2. Significance of the Work Immersion in K to 12 Curriculum
+  The Work Immersion Program is one the course requirements for graduation. A SHS student has to undergo work immersion in a business organization or establishment with work requirements related to the specialization. Through work immersion, the students are exposed to and are familiarized with the work - related environment aligned to their field of specialization. This increases the learner's proactivity towards community involvement which is one of the primary goal of the K to 12 Curriculum. Added to this, specifically, they are also able to enrich their learning experiences as they:
+  1. Gain relevant and practical industrial skills under the guidance of industry experts and workers;
+  2. Appreciate the importance and application of the principles and theories taught in the classroom;
+  3. Enhance their technical knowledge and condition that exists within a person or group acting or functioning at present. It is conducted with the help of a survey - questionnaire which is the principal basis in conducting data collection. Apart from administering a survey questionnaire among the subjects of the study, the researchers also conducted a semi - structured interview engaging the focal participants of the study.. In getting the sample size, the group used the Slovin's formula which is,n = 1 N stands for 1+Ne2' the whole population of the Grade 12 students under Academic Track in Anselmo A. Sandoval Memorial National High School, while e, stands for the margin of error. The researchers used 0.07 as the margin of error. After the retrieval of the survey questionnaire, the responses were tabulated, analysed and interpreted on the context of the statement of the problem and hypothesis of the study. Descriptive statistics was used to interpret the data. The statistical methods used were frequency, ranking, and weighted mean.
+
+Findings
+  1. In the conduct of the research study, it attained the most significant finding which is the main turning point of this academic investment, indeed, the Grade 12 students under Academic Track in Anselmo A. Sandoval Memorial National High School has a positively strong justification regarding their chosen strand - related career and that Work Immersion difficulties are negligible aspects in their decision making in strand - related between the Work Immersion dificutes and framed decision on strand. related career preference. Despite of what has been discovered, Work Immersion dificulties improved them as young professionals who have obtained an early practice of their planned profession.
+  5. Career Edge Manifesto, a student's handbook/journal which aims to introduce strand - related Work Immersion arrangements and career decision - making. This intervention material will significantly contribute in enhancing the awareness and preparedness of the Senior High School.
+`,
     thumbnail: "HUMSS.jpg",
     pdfUrl: "/",
   },
