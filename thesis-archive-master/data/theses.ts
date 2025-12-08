@@ -900,8 +900,19 @@ Keywords: Social Media Reading Behaviors Comprehensive Analysis Academic Discour
     thumbnail: "HUMSS.jpg",
     pdfUrl: "/",
   },
-    {
+   {
     id: "humss-26",
+    title: "A COMPARATIVE STUDY BETWEEN FACEBOOK PAGE AND WEBSITE AS OUTPUT PLATFORMS IN CREATIVE WRITING AND MEDIA INFORMATION LITERACY AMONG GRADE 12 HUMSS ",
+    authors: ["Eve Irish Camongol","John Mark R. Dural", "John Leirey D. Salazar","Jhon Rovic N. Pancho, King Carlo H. Alvarez","Angela G. Datinguinoo","Danica Joy A. Mendoza","Erikka Mae Z Ilagan","Rubie Ann M.","Manibo Aizel Lorraine R.","Letada Marivic R. "],
+    year: "May 2024",
+    strand: "HUMSS",
+    abstract:
+      `The digital age has led to the tee of platforms like Facebook Pages and personal websites, providing new communication channels for personal and professional lives. However, students at Anselmo A. Sandoval Memorial National High School at Humanities and Social Sciences struggle to choose the best platform for their Creative Writing, Media, and information Literacy outputs. A bunch of students prefer the Facebook page since it is easier to use and more sccessible since almost everyone has Facebook accounts, and for the website they find them hard to use. Due to the complications in the setup, it seems that there is no difference between the two. The researcher came up with the study that will compare the two and find out which is the better platform to use for their Creative Writing, Media and Information Literacy outputs. The study compares Facebook page and website uning quantitative comparative design, a variable-oriented, case-oriented, and collection-oriented methodology for data analysis. This study consists of 50 Grade 12 Hananities and Social Sciences students at Anselmo A. Sandoval Memorial National High School, selected using the Stratified Sampling method. The Reasoft calculator was used to select respondents from four sections: Pearl and Amethyst, Spinel and Diamond, and Amethyst. The sample size was assessed with a 90% confidence level and 10% margin of error, accounting for 180 people Researchers used a self-crafted survey questionnaire to gather assential information from selected respondents. The questionnaires' validity was ensured hy 3 l's teachers who checked, revised, and suggested until poäshed for dissemination. The gadget that is suggested for using the two platforms. Facebook pages on frequency of 128 are most effective seen on mobile devices such as smartphones or tablets instead of laptops or computer. On the other hand, websites with frequencies of 174 favor laptops, BATASCAR over mobile phones or tablets. As platforms for student work, Fecebook pages and websites are nearly identical in terms of usefulness and cutput quality. There are no significant differances in either functionality or quality outputs, hence the null hypothesis is accepted for functionality with a p value of 0.447, quality sutputs with a p value of 0.198, and creativity with a p value of 1.0825-05. But there are enough significant differences in originality 0.000010 b reject the null hypothesis. Additionsily, each platform featured a proper device usage. The study evaluates Facebook pages and websites for their functionality, output quality, and creativity. Both platforms have similar functionality, but the website is more beneficial for creative presentations. The researcher recommends using a website in Grade 12 subjects for easy access and avoiding physical output disappearance during recordings. The appropriate gadgets for each platform are recommended for better use. For future researchers, conducting studies related to or similar to this paper is recommended.`,
+    thumbnail: "HUMSS.jpg",
+    pdfUrl: "/",
+  },
+    {
+    id: "humss-27",
     title: "ASSESSMENT OF SKYLIGHT SPIRITUAL SELF-CARE: AS STRESSOR RELIEVER APPLICATION AMONG GRADE 12 HUMANITIES AND SOCIAL SCIENCES STUDENTS OF ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
     authors: ["Bulao, Jewelle Kaye G."," Alfonso, Stefano Eve M."," Camongol, Rose Ann G."," De Claro, Annes M."," Fajardo, Marc Eugene P."," Galamgam, Amieka C."," Gonzaga, Heart F."," Golondrina, Mark Angelo C."," Magbato, Rodelyn O."," Manalo, Nikka Zyrhel A."," Paglinawan, Jay Vergel M."," Solis, Mirvel Yari Renz C."],
     year: "May 2024",
@@ -912,7 +923,7 @@ Keywords: Social Media Reading Behaviors Comprehensive Analysis Academic Discour
     pdfUrl: "/",
   },
     {
-    id: "humss-27",
+    id: "humss-28",
     title: "A COMPARATIVE STUDY BETWEEN FACEBOOK PAGE AND WEBSITE AS OUTPUT PLATFORMS IN CREATIVE WRITING AND MEDIA INFORMATION LITERACY AMONG GRADE 12 HUMSS ",
     authors: ["Magbuhos, Nhea Vel C."," Guevarra, Jaren Eve Irish"," Camongol, John Mark R."," Dural, John Leirey D."," Salazar, Jhon Rovic N."," Pancho, King Carlo H."," Alvarez, Angela G."," Datinguinoo, Danica Joy A."," Mendoza, Erikka Mae Z."," Ilagan Rubie Ann M."," Letada Marivic R."," Manibo Aizel Lorraine R."],
     year: "May 2024",
@@ -923,7 +934,7 @@ Keywords: Social Media Reading Behaviors Comprehensive Analysis Academic Discour
     pdfUrl: "/",
   },
   {
-    id: "humss-28",
+    id: "humss-29",
     title: "STRESSORS IN MEDIA AND INFORMATION LITERACY AND ACADEMIC PERFORMANCE AMONG G12 AMETHYST STUDENTS IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
     authors: [
       "Ortega, Gheann Kristine B.",
@@ -944,7 +955,7 @@ Keywords: Social Media Reading Behaviors Comprehensive Analysis Academic Discour
     pdfUrl: "/",
   },
     {
-    id: "humss-29",
+    id: "humss-30",
     title: "EFFECTS OF COVID 19 PANDEMIC AS TO THE LEARNING QUALITY IN ENGLISH FOR ACADEMIC AND PROFESSIONAL PURPOSES AND SOCIAL ASPECTS AMONG GRADE 12 STUDENTS ",
     authors: [
       "Cabello, Flavine Dhyll D.",
@@ -992,7 +1003,7 @@ Findings
     pdfUrl: "/",
   },
    {
-    id: "humss-30",
+    id: "humss-31",
     title: "Status of Working and Non-working students  Among Senior High School in Anselmo A. Sandoval Memorial National High School ",
     authors: [
       "John froilan Mendoza",
@@ -1019,7 +1030,7 @@ Findings
     pdfUrl: "/",
   },
   {
-    id: "humss-31",
+    id: "humss-32",
     title: "STRUGGLES ENCOUNTERED IN FACE-TO-FACE CLASSES IMPLEMENTATION AMONG THE GENDER OF GRADE 12 STUDENTS IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL",
     authors: [
       "Marigondon Aliah C.",
@@ -1043,7 +1054,7 @@ Findings
     pdfUrl: "/",
   },
   {
-    id: "humss-32",
+    id: "humss-33",
     title: "STRESSORS ENCOUNTERED IN PRACTICAL RESEARCH IN RELATION TO BEHAVIOR AMONG GRADE 12 STUDENTS, ACADEMIC TRACK IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
     authors: [
       "Patricio, Marina M.",
@@ -1066,7 +1077,7 @@ Findings
     pdfUrl: "/",
   },
   {
-    id: "humss-33",
+    id: "humss-34",
     title: "Close Reading Strategies in Teaching Oral Communication for Grade 11 Students in Anselmo A. Sandoval Memorial National High School",
     authors: ["MHARYEN M. SAWALI"],
     year: "November 2023",
@@ -1079,7 +1090,7 @@ Keywords: Oral Communication Supplementary Activity World Literature`,
     pdfUrl: "/",
   },
   {
-    id: "humss-34",
+    id: "humss-35",
     title: "LEVEL OF PERFORMANCE IN ORAL AND WRITTEN SKILLS AMONG GRADE 12 HUMSS STRAND IN ANSELMO A SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
     authors: ["Atienza, Joseph Jhones V."," Bacay, Roselle C."," Bonquin, Mary Rose R."," Castillo, Rose Dianne V."," De Guzman, Jaclyn C."," Gadores, Jessica A."," Mendoza, Denice O."," Mendoza, Erika H."," Ramos, Donna Mae M."," Valderrama, Czanea Mikaela U. "],
     year: "March 2023",
@@ -1089,8 +1100,33 @@ Keywords: Oral Communication Supplementary Activity World Literature`,
     thumbnail: "HUMSS.jpg",
     pdfUrl: "/",
   },
+  {
+    id: "humss-36",
+    title: "ANSELMO A SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL Senior High School Department AUTHORITARIAN AND PERMISSIVE PARENTING STYLES IN CORRELATION TO THE ACADEMIC PERFORMANCE AMONG THE G12 ACADEMIC TRACK STUDENTS IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
+    authors: ["Kate Catherine E. Aloye","Jhaynielyn Lapso"," Antonette Samson."," Ederlyn Matibag"," Rica Mandoza"," Cathrina Ramos"," Lyra Castiko"," Jullus Escalona" ],
+    year: "March 2019",
+    strand: "HUMSS",
+    abstract:
+      ` AUTHORITARIAN AND PERMISSIVE PARENTING STYLES IN CORRELATION TO THE ACADEMIC PERFORMANCE AMONG THE G12 ACADEMIC TRACK STUDENTS IN ANSELMO A SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL 
+
+AUTHORS 
+Kate Catherine E. Aloye Jhaynielyn Lapso Antonette Samson. Ederlyn Matibag Rica Mandoza Cathrina Ramos Lyra Castiko Jullus Escalona
+
+Anselmo A. Sandoval Memorial National High School
+
+ADVISER
+Marilou A Escalona
+
+Introduction 
+  The authoritarian and permissive parentitig has given te important role to the academic performances of their children as it showed how parents guided them through their parenting styles. The study aimed at exploring the authortarian and permissive styles in cortation to the academic performance among the G12 academic track students in Anselma A. Sandoval Memorial Nallinel High School Methods I was the combination of qualitative-quantitative type of a research. Authorlanan and permissive parenting styles were the strong variables which affect the total porsonality of the students so as the academic performance. BD out of 200 students wens selected from 4 academic Strands (HUMSS STEM, PBM and ABM) as respondents for the study using the survey Questionnaire. The statistical tools used warm weighted mean, rank and Mest Results This study revealed that the authoritarian porenting style is more advantageous compared to the pemissive parenting as reflected in the authontartan weighted mean of 325 and 3.11 af permissive peents. It further revealed that there is no significant relationship between the academic performance of the authoritarian and pennissive carents. Discussions The result of the study being authoritarian patienting style a more advantageous compared to the permissive, utges for the permissive one to be given the strengthening activities such as the guidance of launching program for the parents while authorkation parenting style being recommended to utaze for the children.
+
+Keywords Parenting styles, supervision.
+`,
+    thumbnail: "HUMSS.jpg",
+    pdfUrl: "/",
+  },
     {
-    id: "humss-29",
+    id: "humss-37",
     title: "PERSONAL DEVELOPMENT OF STUDENTS WHO UNDERTAKE ALTERNATIVE LEARNING SYSTEM AMONG SELECTED COMMUNITY LEARNING CENTER",
     authors: [
       "Altea, Almira Jane A. ",
@@ -1168,7 +1204,7 @@ The use of videos in teaching and learning serves to not only benefit students, 
     pdfUrl: "/",
   },
     {
-    id: "humss-35",
+    id: "humss-38",
     title: "Academic Performance Between Students of OFW Parent/s and of Non- OFW Parent's Among Grade 8 students of Anselmo A. Sandoval Memorial National High School. ",
     authors: [
       "Eliah Florenne",
@@ -1189,43 +1225,7 @@ The use of videos in teaching and learning serves to not only benefit students, 
     pdfUrl: "/",
   },
   {
-    id: "humss-36",
-    title: "ANSELMO A SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL Senior High School Department AUTHORITARIAN AND PERMISSIVE PARENTING STYLES IN CORRELATION TO THE ACADEMIC PERFORMANCE AMONG THE G12 ACADEMIC TRACK STUDENTS IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
-    authors: ["Kate Catherine E. Aloye","Jhaynielyn Lapso"," Antonette Samson."," Ederlyn Matibag"," Rica Mandoza"," Cathrina Ramos"," Lyra Castiko"," Jullus Escalona" ],
-    year: "March 2019",
-    strand: "HUMSS",
-    abstract:
-      ` AUTHORITARIAN AND PERMISSIVE PARENTING STYLES IN CORRELATION TO THE ACADEMIC PERFORMANCE AMONG THE G12 ACADEMIC TRACK STUDENTS IN ANSELMO A SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL 
-
-AUTHORS 
-Kate Catherine E. Aloye Jhaynielyn Lapso Antonette Samson. Ederlyn Matibag Rica Mandoza Cathrina Ramos Lyra Castiko Jullus Escalona
-
-Anselmo A. Sandoval Memorial National High School
-
-ADVISER
-Marilou A Escalona
-
-Introduction 
-  The authoritarian and permissive parentitig has given te important role to the academic performances of their children as it showed how parents guided them through their parenting styles. The study aimed at exploring the authortarian and permissive styles in cortation to the academic performance among the G12 academic track students in Anselma A. Sandoval Memorial Nallinel High School Methods I was the combination of qualitative-quantitative type of a research. Authorlanan and permissive parenting styles were the strong variables which affect the total porsonality of the students so as the academic performance. BD out of 200 students wens selected from 4 academic Strands (HUMSS STEM, PBM and ABM) as respondents for the study using the survey Questionnaire. The statistical tools used warm weighted mean, rank and Mest Results This study revealed that the authoritarian porenting style is more advantageous compared to the pemissive parenting as reflected in the authontartan weighted mean of 325 and 3.11 af permissive peents. It further revealed that there is no significant relationship between the academic performance of the authoritarian and pennissive carents. Discussions The result of the study being authoritarian patienting style a more advantageous compared to the permissive, utges for the permissive one to be given the strengthening activities such as the guidance of launching program for the parents while authorkation parenting style being recommended to utaze for the children.
-
-Keywords Parenting styles, supervision.
-`,
-    thumbnail: "HUMSS.jpg",
-    pdfUrl: "/",
-  },
-  {
-    id: "humss-36",
-    title: "A COMPARATIVE STUDY BETWEEN FACEBOOK PAGE AND WEBSITE AS OUTPUT PLATFORMS IN CREATIVE WRITING AND MEDIA INFORMATION LITERACY AMONG GRADE 12 HUMSS ",
-    authors: ["Eve Irish Camongol","John Mark R. Dural", "John Leirey D. Salazar","Jhon Rovic N. Pancho, King Carlo H. Alvarez","Angela G. Datinguinoo","Danica Joy A. Mendoza","Erikka Mae Z Ilagan","Rubie Ann M.","Manibo Aizel Lorraine R.","Letada Marivic R. "],
-    year: "May 2024",
-    strand: "HUMSS",
-    abstract:
-      `The digital age has led to the tee of platforms like Facebook Pages and personal websites, providing new communication channels for personal and professional lives. However, students at Anselmo A. Sandoval Memorial National High School at Humanities and Social Sciences struggle to choose the best platform for their Creative Writing, Media, and information Literacy outputs. A bunch of students prefer the Facebook page since it is easier to use and more sccessible since almost everyone has Facebook accounts, and for the website they find them hard to use. Due to the complications in the setup, it seems that there is no difference between the two. The researcher came up with the study that will compare the two and find out which is the better platform to use for their Creative Writing, Media and Information Literacy outputs. The study compares Facebook page and website uning quantitative comparative design, a variable-oriented, case-oriented, and collection-oriented methodology for data analysis. This study consists of 50 Grade 12 Hananities and Social Sciences students at Anselmo A. Sandoval Memorial National High School, selected using the Stratified Sampling method. The Reasoft calculator was used to select respondents from four sections: Pearl and Amethyst, Spinel and Diamond, and Amethyst. The sample size was assessed with a 90% confidence level and 10% margin of error, accounting for 180 people Researchers used a self-crafted survey questionnaire to gather assential information from selected respondents. The questionnaires' validity was ensured hy 3 l's teachers who checked, revised, and suggested until poäshed for dissemination. The gadget that is suggested for using the two platforms. Facebook pages on frequency of 128 are most effective seen on mobile devices such as smartphones or tablets instead of laptops or computer. On the other hand, websites with frequencies of 174 favor laptops, BATASCAR over mobile phones or tablets. As platforms for student work, Fecebook pages and websites are nearly identical in terms of usefulness and cutput quality. There are no significant differances in either functionality or quality outputs, hence the null hypothesis is accepted for functionality with a p value of 0.447, quality sutputs with a p value of 0.198, and creativity with a p value of 1.0825-05. But there are enough significant differences in originality 0.000010 b reject the null hypothesis. Additionsily, each platform featured a proper device usage. The study evaluates Facebook pages and websites for their functionality, output quality, and creativity. Both platforms have similar functionality, but the website is more beneficial for creative presentations. The researcher recommends using a website in Grade 12 subjects for easy access and avoiding physical output disappearance during recordings. The appropriate gadgets for each platform are recommended for better use. For future researchers, conducting studies related to or similar to this paper is recommended.`,
-    thumbnail: "HUMSS.jpg",
-    pdfUrl: "/",
-  },
-  {
-    id: "humss-38",
+    id: "humss-39",
     title: "EFFECTS OF HOME-BASED INTERNET ACCESS TO THE ACADEMIC PERFORMANCE OF GRADE 12 ACADEMIC TRACK STUDENTS IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
     authors: ["Ma. Santa Musada","Arjay Calica","Delmark Claro","Sherryl Adame","Blessly Canilang","Phoebe llagan","Rennelyn Liongson","Mary Hazel Maliglig","Alessia Masangcay" ],
     year: "March 2018",
@@ -1268,7 +1268,7 @@ Conclusions
     pdfUrl: "/",
   },
   {
-    id: "humss-39",
+    id: "humss-40",
     title: "WORK IMMERSION DIFFICULTIES AND DECISION MAKING IN STRAND - RELATED CAREER PREFERENCE OF THE GRADE 12 STUDENTS UNDER ACADEMIC TRACK IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL",
     authors: ["Silang, Ivy Marie M.","Ortega, Eronn JD.","Adarlo, Millie Nina L.","Andal, Jinky S.","Baculo, Symon Cedrick M.","Delos Reyes, Dianne Maristella A.","Manalo, Jaynilee D.","Pamaranglas, Monique B." ],
     year: "January 2018",
