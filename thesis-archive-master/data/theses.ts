@@ -1244,8 +1244,52 @@ Recommendation
     thumbnail: "SMAW.jpg",
     pdfUrl: "/",
   },
-  {
+   {
     id: "smaw-02",
+    title: "Students Level of Acceptance in the Implementation of Shifting Classes Among Junior High at Anselmo A. Sandoval Memorial High School ",
+    authors: [" G12-Beryl "],
+    year: "March 2018",
+    strand: "SMAW",
+    abstract:
+      `CHAPTER V 
+FINDINGS, CONCLUSION AND RECOMMENDATION 
+  This chapter presents the summary of findings,conclusions and recommendations of 
+
+SUMMARY 
+  This study aims to determine the students’ level of acceptance in the implementation of shifting classes among junior high students at Anselmo A. Sandoval Memorial National High School.
+  Specifically, this study seeks to answer the following questions:
+  
+  What is shifting classes?
+  
+  What is the level of acceptance in the implementation of shifting classes implemented in Anselmo A. Sandoval Memorial National High School?
+
+  Does the student agree that how are the possible effects of shifting classes implemented in Anselmo A. Sandoval Memorial National High School in the second shift of the sections?
+
+  What guidelines can be proposed to further enhance the learning of students in double shifting classes?
+
+  This study will benefit the school in terms of improving the implementation of shifting classes in the future.
+  
+FINDINGS
+ Based from the data gathered, the following findings were revealed.
+ 
+ Shifting Classes applied in Anselmo A. Sandoval Memorial National High School.In this school are so many junior high students studying at AASMNHS so the principal and the teachers decide that have a shifting classes because of lack of classrooms. The shifting classes is a temporary as long as we create a new building for the many students that studying in AASMNHS. The classes were the students in the school divide into two sessions. The morning session and the afternoon session. Each classes contained an hour’s which satisfy each students for them to learn and developed their skilled and mind in the certain given time also shifting classes includes shifted hours for students, school administrators, head teachers and the principal. Lastly, shifting classes included the shifted class period/class subjects which in each minutes/hours there was a certain subject that all of it can be study. The whole subjects were taught to the subjects in the whole class hour given to each session of the students. Teachers maximized and give allotted time for every subject who able to teach their subjects handled in the students.
+
+LEVEL OF ACCEPTANCE
+ Approval of Implementation. Based on research, the questions gives the respondents by Grade 7, Grade 8, Grade 9 and Grade 10 junior high students whether they are approved the shifting classes implemented in Anselmo A. Sandoval Memorial National High School and the parent of junior high students agree with the shifting classes. Both of them they accepted or they approved the shifting classes implemented in AASMNHS. The parent of junior high students is strongly agreed for the shifting classes. The respondents can’t do an any objection because junior high students is all agreed in this situation they understand and support as long as they are newly constructed a new building because many students studying in AASMNHS so that shifting classes is temporary for the lack of classrooms.
+
+
+TIME AND LOCATION
+ Shifting classes divide into two sessions it is morning session and the afternoon session. The morning classes we go to school at 6:00 am on going out at 12:15 pm while the time for afternoon classes we go to school in 1:25 pm on going out at 6:45 pm. The junior high students are all agreed in morning session and afternoon shifting classes. It is a comfortable for shifting classes because in there certain session you can everyday focusing your studies because we can only do one work in school as a schedule given time for the morning session and afternoon shifting.
+
+*Current Situation of School.* Based on the situation of the junior high schools they are all agreed the current situation of the shifting classes. As a researcher, the answers have to do and implemented using the shifting classes. As a researcher, the answers have the right number by students that answering each other the right answers as we can do by ourselves, they are easily to give the right answers. Also they agreed in the situation that shifting classes really have a benefits for the students, they have each activity because they have a double time of studied they done in the morning and afternoon classes they can do the activities and answer the activities in school to go present that answers they did. They have a double time for their daily activities as they are all agreed in the situation of shifting classes.
+
+  There are no negative effects in the study for junior high students because they are all agreed in the shifting classes implemented in Anselmo A. Sandoval Memorial National High School
+`,
+    thumbnail: "SMAW.jpg",
+    pdfUrl: "/",
+  },
+  {
+    id: "smaw-03",
     title: "DETERMINING THE USE OF PERSONAL PROTECTIVE EQUIPMENT AMONG LOCAL WELDERS IN THE MUNICIPALITY OF MABINI BATANGAS ",
     authors: ["NANA BLANCA D MARIE", "ADANTE JOANA MARIE"],
     year: "November 2017",
