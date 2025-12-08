@@ -184,7 +184,7 @@ Keywords: replacement, fusion, fiber component, hybrid, hollow blocks`,
     year: "March 2019",
     strand: "STEM",
     abstract:
-      `Segregation of waste is important because it is much easier to recycle. Effective segregation of waste goes to landfill which makes it deeper and better for people and environment. It is also important to segregate for public health. In particular, hazardous wastes can cure long term health problem, so it is very important to segregate waste correctly and safely and not mixed in with the normal waste coming out of the home or office. This study aimed to show the effect of an animation video on proper segregation in Anselmo A. Sandoval Memorial National High School. The students will learn it in an enjoyable way. By application of animation, the researchers will make an educational animation video to show how animation video affects the behavior of all students in A.A. S.M.N.H.S.`,
+      `Segregation of waste is important because it is much easier to recycle. Effective segregation of waste goes to landfill which makes it deeper and better for people and environment. It is also important to segregate for public health. In particular, hazardous wastes can cure long term health problem, so it is very important to segregate waste correctly and safely and not mixed in with the normal waste coming out of the home or office. This study aimed to show the effect of an animation video on proper segregation in Anselmo A. Sandoval Memorial National High School. The students will learn it in an enjoyable way. By application of animation, the researchers will make an educational animation video to show how animation video affects the behavior of all students in AASMNHS`,
     thumbnail: "STEM.jpg",
     pdfUrl: "/",
   },
