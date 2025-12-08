@@ -272,8 +272,8 @@ RECOMMENDATIONS
   },
   {
     id: "stem-07",
-    title: "EFFICIENCY OF DYNAMO CHARGER FOR SAMSUNG PHONES ",
-    authors: ["Austria, Michael"," Maranan, Mark Jayson M."," Sto. Domingo, Jeremiah"," Atienza, Angela C."," Jusi, Maricar G."],
+    title: "BIOGAS FROM VARIED ANIMAL WASTES: AS PRACTICAL COOKING GAS OPTION AMONG THE RESIDENTS IN BRGY.SAN TEODORO, MABINI, BATANGAS ",
+    authors: ["DE CHAVEZ, KIMBERLY WENN"," CAJAYON, NILO"," MAGBOO, JONAS MILES"," MENDOZA, MARC ROYETH"," SAWALI, FLORJ KIMWELL"],
     year: "March 2018",
     strand: "STEM",
     abstract:
@@ -283,6 +283,19 @@ RECOMMENDATIONS
   },
   {
     id: "stem-08",
+    title: "EFFICIENCY OF DYNAMO CHARGER FOR SAMSUNG PHONES ",
+    authors: ["Austria, Michael"," Maranan, Mark Jayson M."," Sto. Domingo, Jeremiah"," Atienza, Angela C."," Jusi, Maricar G."],
+    year: "March 2018",
+    strand: "STEM",
+    abstract:
+      `The study was designed to determine the effectiveness of different kinds of animal wastes in producing biogas to be used as practical cooking gas option among the residents in Brgy. San Teodoro, Mabini, Batangas.Specifically, it sought to determine: (a) the process of animal wastes transforming into gas; (b) if there was a significant difference between the time it takes biogas from pure animal wastes and biogas from mixed animal wastes to boil the same amount of tap water.
+      
+      Result showed that through anaerobic digestion, animal wastes transformed into a biogas and it took an hour/s or day/s depends on the temperature inside the bio digester that react to the amount or kind animal wastes. The result of the analysis found that any of pig, chicken, goat and cow manure as pure and mixed wastes could be used as input in bio digester. Since the mixed animal wastes spent a faster time of 3:33.28 in boiling a tap water it was seen the biogas from animal wastes could be used as practical cooking gas option. However, the researchers recommended using animal wastes from the animals that eats commercial feeds that consist of more acids in which more methane gas produced.`,
+    thumbnail: "STEM.jpg",
+    pdfUrl: "/",
+  },
+  {
+    id: "stem-09",
     title: "EFFECTIVENESS OF MULTIMEDIA LEARNING MATERIAL AMONG STEM STUDENTS' ACADEMIC ACHIEVEMENT IN PHYSICS IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL S.Y. 2017-2018",
     authors: ["Aclan, Shalmae D."," Brucal, Heracleia D."," Castillo, Ivan James P."," Dinglasan, Vincent A."," Magboo, Jerson V."],
     year: "March 2018",
@@ -293,7 +306,7 @@ RECOMMENDATIONS
     pdfUrl: "/",
   }, 
   {
-    id: "stem-09",
+    id: "stem-10",
     title: "Potentiality of 1.85W Solar Panel as an Alternative Energy Supplier to a 7.2V 4100 mAh Mobile Power Bank ",
     authors: [" Agrao, Junella Fae B."," Baculo, Gisselle V."," Bantugon, Cynt Vritney B."," Macarandang, Loreta M."," Astoriano III, Alberto C."," Magtibay, Marvin R."],
     year: "March 2019",
