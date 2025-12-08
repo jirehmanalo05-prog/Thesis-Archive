@@ -1098,6 +1098,42 @@ Keywords: Oral Communication Supplementary Activity World Literature`,
     pdfUrl: "/",
   },
   {
+    id: "humss-36",
+    title: "ANSELMO A SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL Senior High School Department AUTHORITARIAN AND PERMISSIVE PARENTING STYLES IN CORRELATION TO THE ACADEMIC PERFORMANCE AMONG THE G12 ACADEMIC TRACK STUDENTS IN ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
+    authors: ["Kate Catherine E. Aloye","Jhaynielyn Lapso"," Antonette Samson."," Ederlyn Matibag"," Rica Mandoza"," Cathrina Ramos"," Lyra Castiko"," Jullus Escalona" ],
+    year: "March 2019",
+    strand: "HUMSS",
+    abstract:
+      ` AUTHORITARIAN AND PERMISSIVE PARENTING STYLES IN CORRELATION TO THE ACADEMIC PERFORMANCE AMONG THE G12 ACADEMIC TRACK STUDENTS IN ANSELMO A SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL 
+
+AUTHORS 
+Kate Catherine E. Aloye Jhaynielyn Lapso Antonette Samson. Ederlyn Matibag Rica Mandoza Cathrina Ramos Lyra Castiko Jullus Escalona
+
+Anselmo A. Sandoval Memorial National High School
+
+ADVISER
+Marilou A Escalona
+
+Introduction 
+  The authoritarian and permissive parentitig has given te important role to the academic performances of their children as it showed how parents guided them through their parenting styles. The study aimed at exploring the authortarian and permissive styles in cortation to the academic performance among the G12 academic track students in Anselma A. Sandoval Memorial Nallinel High School Methods I was the combination of qualitative-quantitative type of a research. Authorlanan and permissive parenting styles were the strong variables which affect the total porsonality of the students so as the academic performance. BD out of 200 students wens selected from 4 academic Strands (HUMSS STEM, PBM and ABM) as respondents for the study using the survey Questionnaire. The statistical tools used warm weighted mean, rank and Mest Results This study revealed that the authoritarian porenting style is more advantageous compared to the pemissive parenting as reflected in the authontartan weighted mean of 325 and 3.11 af permissive peents. It further revealed that there is no significant relationship between the academic performance of the authoritarian and pennissive carents. Discussions The result of the study being authoritarian patienting style a more advantageous compared to the permissive, utges for the permissive one to be given the strengthening activities such as the guidance of launching program for the parents while authorkation parenting style being recommended to utaze for the children.
+
+Keywords Parenting styles, supervision.
+`,
+    thumbnail: "HUMSS.jpg",
+    pdfUrl: "/",
+  },
+  {
+    id: "humss-36",
+    title: "A COMPARATIVE STUDY BETWEEN FACEBOOK PAGE AND WEBSITE AS OUTPUT PLATFORMS IN CREATIVE WRITING AND MEDIA INFORMATION LITERACY AMONG GRADE 12 HUMSS ",
+    authors: ["Eve Irish Camongol","John Mark R. Dural", "John Leirey D. Salazar","Jhon Rovic N. Pancho, King Carlo H. Alvarez","Angela G. Datinguinoo","Danica Joy A. Mendoza","Erikka Mae Z Ilagan","Rubie Ann M.","Manibo Aizel Lorraine R.","Letada Marivic R. "],
+    year: "May 2024",
+    strand: "HUMSS",
+    abstract:
+      `The digital age has led to the tee of platforms like Facebook Pages and personal websites, providing new communication channels for personal and professional lives. However, students at Anselmo A. Sandoval Memorial National High School at Humanities and Social Sciences struggle to choose the best platform for their Creative Writing, Media, and information Literacy outputs. A bunch of students prefer the Facebook page since it is easier to use and more sccessible since almost everyone has Facebook accounts, and for the website they find them hard to use. Due to the complications in the setup, it seems that there is no difference between the two. The researcher came up with the study that will compare the two and find out which is the better platform to use for their Creative Writing, Media and Information Literacy outputs. The study compares Facebook page and website uning quantitative comparative design, a variable-oriented, case-oriented, and collection-oriented methodology for data analysis. This study consists of 50 Grade 12 Hananities and Social Sciences students at Anselmo A. Sandoval Memorial National High School, selected using the Stratified Sampling method. The Reasoft calculator was used to select respondents from four sections: Pearl and Amethyst, Spinel and Diamond, and Amethyst. The sample size was assessed with a 90% confidence level and 10% margin of error, accounting for 180 people Researchers used a self-crafted survey questionnaire to gather assential information from selected respondents. The questionnaires' validity was ensured hy 3 l's teachers who checked, revised, and suggested until poäshed for dissemination. The gadget that is suggested for using the two platforms. Facebook pages on frequency of 128 are most effective seen on mobile devices such as smartphones or tablets instead of laptops or computer. On the other hand, websites with frequencies of 174 favor laptops, BATASCAR over mobile phones or tablets. As platforms for student work, Fecebook pages and websites are nearly identical in terms of usefulness and cutput quality. There are no significant differances in either functionality or quality outputs, hence the null hypothesis is accepted for functionality with a p value of 0.447, quality sutputs with a p value of 0.198, and creativity with a p value of 1.0825-05. But there are enough significant differences in originality 0.000010 b reject the null hypothesis. Additionsily, each platform featured a proper device usage. The study evaluates Facebook pages and websites for their functionality, output quality, and creativity. Both platforms have similar functionality, but the website is more beneficial for creative presentations. The researcher recommends using a website in Grade 12 subjects for easy access and avoiding physical output disappearance during recordings. The appropriate gadgets for each platform are recommended for better use. For future researchers, conducting studies related to or similar to this paper is recommended.`,
+    thumbnail: "HUMSS.jpg",
+    pdfUrl: "/",
+  },
+  {
     id: "eim-01",
     title: "PERSONAL DESIGN AND DEVELOPMENT OF PORTABLE GENERATOR ",
     authors: ["Cantara, Kiarra Mae A."," Caringal, Donna Mae C."," Matira, Kent Russel G."," Ortega, Jhellan Mae D."," Pancho, Lint Aeroll C."," Reyes, Domingo R."],
