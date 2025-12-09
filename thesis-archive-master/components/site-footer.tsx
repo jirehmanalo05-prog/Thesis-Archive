@@ -19,7 +19,7 @@ export function SiteFooter() {
         >
           <p className="font-semibold text-foreground">Contact</p>
           <p>Email: archiveshsaasmnhs@gmail.com</p>
-          <p>Office:Anselmo A. Sandoval MNHS P.Balibaguhan, Mabini, Batangas</p>
+          <p>Office:Anselmo A. Sandoval MNHS P. Balibaguhan, Mabini, Batangas</p>
         </div>
       </div>
     </footer>
