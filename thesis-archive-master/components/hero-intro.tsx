@@ -18,7 +18,7 @@ export function HeroIntro() {
           <h4 className="text-sm font-semibold uppercase tracking-widest text-red-800">
             Discover groundbreaking research from our academic community
           </h4>
-          <p className="max-w-2xl text-lg text-black dark:text-white">
+          <p className="text-lg font-bold tracking-tight text-foreground">
             This archive hosts theses from ACADEMIC and TVL tracks theses/research papers, enabling quick
             browsing,and abstract previews. Whether you are a
             student, mentor, or industry partner, use this library to stay
