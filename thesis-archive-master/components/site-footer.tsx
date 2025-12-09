@@ -7,8 +7,10 @@ export function SiteFooter() {
             Curated by Our Institution
           </p>
           <p className="text-sm text-muted-foreground">
-            A collaborative effort between strand departments to
-            preserve scholarly work and spark new research partnerships.
+            A collaborative effort among strand research teachers 
+            and SHS students together with the panelists and school 
+            administrators to preserve scholarly work and spark new 
+            research partnership.
           </p>
         </div>
         <div
