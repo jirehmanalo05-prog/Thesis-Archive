@@ -20,49 +20,49 @@ const strandConfig: Record<
     title: "Science Technology Engineering Mathematics",
     excerpt:
       " Develops scientific reasoning and analytical thinking through the study of science, technology, engineering, and mathematics.",
-    highlight: "Prototypes, immersive learning, and digital infrastructure.",
+    highlight: "Innovation, analytics, and scientific problem-solving.",
   },
   abm: {
     key: "ABM",
     title: "Accountancy Business Management",
     excerpt:
       "Trains students in financial literacy, entrepreneurship, and business management for future corporate or business careers.",
-    highlight: "Strategy blueprints, data-driven policies, and social impact.",
+    highlight: "Entrepreneurship, financial mastery, and strategic leadership.",
   },
   pbm: {
     key: "PBM",
     title: "Pre-Baccalaureate Maritime",
     excerpt:
       " Prepares students for maritime education by building discipline, navigational awareness, and foundational seafaring knowledge.",
-    highlight: "Strategy blueprints, data-driven policies, and social impact.",
+    highlight: "Seafaring fundamentals, maritime discipline, and navigational readiness.",
   },
   humss: {
     key: "HUMSS",
     title: "Humanities and Social Sciences",
     excerpt:
       "Strengthens communication, critical thinking, and social understanding for fields involving human behavior and society.",
-    highlight: "Strategy blueprints, data-driven policies, and social impact.",
+    highlight: "Communication, social insight, and human-centered perspectives.",
   },
   eim: {
     key: "EIM",
     title: "Electrical Installation and Maintenance",
     excerpt:
       " Focuses on electrical installation, mechanical skills, and troubleshooting essential for technical and maintenance professions.",
-    highlight: "Strategy blueprints, data-driven policies, and social impact.",
+    highlight: "Technical wiring, safety expertise, and electrical precision.",
   },
    he: {
     key: "HE",
     title: "Home Economics",
     excerpt:
       " Teaches practical life skills in hospitality, culinary arts, and home management to prepare students for service-oriented careers.",
-    highlight: "Strategy blueprints, data-driven policies, and social impact.",
+    highlight: "Culinary creativity, wellness, and practical life management.",
   },
    smaw: {
     key: "SMAW",
     title: "Shielded Metal Arc Welding",
     excerpt:
       "Provides hands-on training in welding techniques, metal fabrication, and safety practices for industrial work.",
-    highlight: "Strategy blueprints, data-driven policies, and social impact.",
+    highlight: "Metalwork mastery, fabrication skills, and industrial craftsmanship.",
   },
 };
 
