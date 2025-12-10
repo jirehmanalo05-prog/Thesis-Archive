@@ -65,7 +65,7 @@ export default function Home() {
               <item.icon className="h-6 w-6" aria-hidden="true" />
             </div>
             <div>
-              <h2 className="text-xl font-semibold text-[#3B1E1E]"">
+              <h2 className="text-xl font-semibold text-[#3B1E1E]">
                 {item.title}
               </h2>
               <p className="text-sm text-muted-foreground">
