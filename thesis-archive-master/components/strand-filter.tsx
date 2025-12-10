@@ -76,7 +76,7 @@ export function StrandFilter({ activeStrand, title }: StrandFilterProps) {
   return (
     <section
       aria-label="Strand navigation"
-      className="w-full rounded-3xl border border-border/60 bg-card p-6 shadow-sm"
+      className="w-full rounded-3xl border border-border/60 bg-gradient-to-br from-[#704040]/40 via-[#8A4C4C]/30 to-[#3B1E1E] p-6 shadow-sm"
     >
       {title ? (
         <div className="mb-4 flex items-center justify-between">
