@@ -58,7 +58,7 @@ export default function Home() {
     <div className="space-y-12">
       <HeroIntro />
 
-      <section className="grid gap-6 rounded-3xl border border-border/60 bg-card/60 p-6 shadow-sm md:grid-cols-2">
+      <section className="relative isolate overflow-hidden rounded-3xl border border-border/60 bg-gradient-to-br from-[#704040]/40 via-[#8A4C4C]/30 to-[#3B1E1E] p-8 shadow-lg sm:p-12">
         {strandInsights.map((item) => (
           <article key={item.title} className="flex gap-4">
             <div className="mt-1 rounded-2xl bg-red-800/10 p-3 text-red-800">
