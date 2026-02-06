@@ -511,8 +511,8 @@ By incorporating these recommendations, future researchers can gain a richer und
     authors: [
       "Castillo, Gian Carlo A.",
       "Romias, Clyde Jefferson E.",
-      "Dalisay, Jasmine C."
-      "Diez, Anna Mitzi L."
+      "Dalisay, Jasmine C.",
+      "Diez, Anna Mitzi L.",
       "Famini, Khale Mhory Dexie D.",
       "Fabul, Donna Grace N.",
       "Franco, Jasleen Monica R.",
