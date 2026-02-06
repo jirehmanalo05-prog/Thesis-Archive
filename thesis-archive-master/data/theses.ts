@@ -467,6 +467,192 @@ Recommendations
     pdfUrl: "/",
   },
   {
+    id: "abm-06",
+    title: "INFLUENCE OF DIGITAL MARKETING IN PURCHASING COSMETIC PRODUCTS OF GRADE 12 ACCOUNTANCY, BUSINESS, AND MANAGEMENT STUDENTS AT ANSELMO A, SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL",
+    authors: ["Bonado, Ashley Nicole"," Casaljay, Fernando Gabriel III"," Ferrer, Roselyn"," Gace, Shena Danelle"," Lapid, Alexis"," Lumbre, Vaccin Samanthha"," Meramot, Hazel Ann"],
+    year: "May 2024",
+    strand: "ABM",
+    abstract:
+      `A Research Project Presented to 
+      ANSELMO A, SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL SENIOR HIGH SCHOOL DEPARTMENT
+      In Partial Fulfillment of the Requirements for "Inquiries, Immersion, lavestigation"
+
+CHAPTER V
+
+SUMMARY OF FINDINGS, CONCLUSION and RECOMMENDATIONS
+This chapter presents the summary of findings, conclusion and recommendations of the study
+
+SUMMARY OF FINDINGS
+Students see social media influencers promoting cosmetics fairly often, suggesting influencer marketing has a moderate presence. Influencer promotions have a moderate influence on purchase decisions. While influencers spark interest, other factors play a bigger role.
+Brand recognition has a moderate influence. Students consider familiar brands during their purchase journey. Price is a significant factor. Students look at prices before purchasing and prioritize value. Packaging can be a hook. Attractive packaging grabs attention, but students likely consider other factors before buying.
+Students generally disagree with relying solely on influencers. They conduct their own research or consider other factors. Price is a major factor. Students prioritize checking prices before making a purchase. Students value quality and might be willing to spend more on high-quality products. Brand name alone doesn't justify high prices. Students seek value beyond just brand recognition.
+The majority purchase cosmetics occasionally, followed by monthly purchases and weekly purchases. This suggests they are not frequent buyers.
+Students in this study are price-conscious and conduct their own research before purchasing cosmetics. Influencer marketing and brand recognition might influence initial interest, but students prioritize value, functionality, and quality over simply buying expensive, branded products.
+
+CONCLUSION
+This study explored the cosmetic purchasing behavior of Grade 12 ABM students at AASMNHS. The findings reveal that while influencer marketing and brand recognition hold some influence, these students are primarily price-conscious and conduct their own research before making purchases. They prioritize value and functionality, seeking high-quality products at reasonable prices.
+
+RECOMMENDATION
+This study provided valuable insights into the cosmetic purchasing behavior of ABM students at AASMNHS. Here are some recommendations for future researchers to build upon this foundation and gain a more comprehensive understanding:
+1. Recruiting a larger and more diverse group of ABM students from AASMNHS or even across different schools can provide a broader perspective on purchasing habits.
+2. Conducting in-depth interviews or focus groups can offer richer insights. This allows students to elaborate on their decision-making process, brand preferences, and the influence of various marketing strategies beyond predefined answer choices.
+3. Future research can delve deeper into the specific types of influencer content that resonate most with students. Are they more swayed by celebrity endorsements, product reviews from beauty bloggers, or tutorials from micro-influencers?
+4. Future research can explore the factors influencing brand loyalty among these students. Do they prioritize cruelty-free practices, sustainable packaging, specific product lines, or a combination of these?
+5. Future research can explore the specific triggers that lead to purchases. Do seasonal trends, special occasions, running out of products, or targeted marketing campaigns influence their buying decisions?
+6. A deeper dive into how students utilize different social media platforms for cosmetic research can be valuable. Do they follow specific brands, rely on recommendations from friends, or actively seek out reviews on social media platforms?
+7. Future research can explore the effectiveness of other marketing channels like email marketing, SMS promotions, or loyalty programs in reaching this demographic.
+By incorporating these recommendations, future researchers can gain a richer understanding of the complex factors influencing cosmetic purchasing behavior among ABM students. This knowledge can be instrumental for cosmetic brands to refine their marketing strategies, build stronger customer relationships, and effectively target this valuable demographic in the ever-evolving cosmetics market.`,
+    thumbnail: "ABM.jpg",
+    pdfUrl: "/",
+  }, 
+  {
+    id: "abm-07",
+    title: "ANALYSIS OF THE INFLUENCE OF FRED DAVIS’ TECHNOLOGY ACCEPTANCE MODEL’S VARIABLES ON THE ADOPTION OF GCASH APPLICATION BY SENIOR HIGH SCHOOL TEACHERS AT ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL",
+    authors: [
+      "Castillo, Gian Carlo A.",
+      "Romias, Clyde Jefferson E.",
+      "Dalisay, Jasmine C."
+      "Diez, Anna Mitzi L."
+      "Famini, Khale Mhory Dexie D.",
+      "Fabul, Donna Grace N.",
+      "Franco, Jasleen Monica R.",
+      "Gerodias, Stephanie J.",
+      "Tugbo, Daniela G.",
+    ],
+    year: "May 2024",
+    strand: "ABM",
+    abstract:
+      `A Thesis Presented to The Faculty of the Senior High School Department ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL P. Balibaguhan, Mabini, Batangas
+
+In Partial Fulfillment of the Requirements for Inquiries, Investigations, and Immersion
+
+CHAPTER V
+
+SUMMARY OF FINDINGS, CONCLUSIONS AND RECOMMENDATIONS
+This chapter presents the summary, conclusions, and recommendations derived in the conduct of the study which aims to analyze the influence of Fred Davis’ Technology Acceptance Model variables on the adoption of the GCash application among the senior high school teachers of Anselmo A. Sandoval Memorial National High School.
+The study was conducted at Camarin High School. The respondents were the senior high school teachers of Anselmo A. Sandoval Memorial National High School. They were selected using purposive sampling. This research employed quantitative research and utilized a correlational research design. The data were gathered by distributing researcher-made survey questionnaires to the respondents of the study. The statistical tools used were mean, rank, and Pearson’s r in presenting, analyzing, and interpreting data.
+
+SUMMARY OF THE FINDINGS
+The findings of the study are summarized according to the statement of the problems stated in Chapter I.
+1. Determine the teachers’ perceived ease of use, usefulness, and risk in utilizing the GCash app for financial transactions.
+According to the data collected from the respondents of the study, the average weighted mean of the respondents’ perceived usefulness of the GCash application is 3.19, the perceived ease of use of the GCash application is 3.39, and the perceived danger of the GCash application is 3.10. Perceived Ease of Use ranked as the highest indicating variable, followed by Perceived Usefulness, and Perceived Risk at the lowest of the ranking. All of those fall under the “strongly agree” category, showing that all three indicating variables are important in influencing users’ intentions to adopt new technologies, notably GCash.
+2. Determine the extent to which senior high school teachers at Anselmo A. Sandoval Memorial National High School use the GCash application for basic financial transactions in terms of:
+2.1. Online Shopping Purchases
+The teachers expressed a preference for using GCash in purchasing goods online, with an average weighted mean of 3.13, falling within the “strongly agree” range.
+2.2. Bills Payment
+The teachers expressed a preference for using GCash to pay bills, with an average weighted mean of 2.98, falling within the “agree” range.
+2.3. Load Purchases
+The teachers expressed a preference for using GCash to purchase loads, with an average weighted mean of 3.07, falling within the “strongly agree” range.
+2.4. Money Transferring
+The teachers expressed a preference for using GCash to transfer money to other people, with an average weighted mean of 3.22, falling within the “strongly agree” range.
+3. Analyze the influence of the Technology Acceptance Model on senior high school teachers’ intention to use the GCash app in terms of:
+3.1. Perceived Ease of Use
+The data showed a weak positive relationship between teacher's perceived ease of use of the GCASH application and their adoption of the application. Therefore, the null hypothesis is rejected. This implies that perceived ease of use has a direct impact on users' behavioral intentions to use the GCash application.
+3.2. Perceived Usefulness
+The data showed a weak positive relationship between teachers' perceived usefulness of the GCASH application and its adoption. Therefore, the null hypothesis is rejected. This implies that perceived usefulness has a direct influence on users' behavioral intentions to utilize the GCash application.
+3.3. Perceived Risks
+The data showed a strong negative relationship between teachers' perceived risk of using the GCASH application and their adoption of the application. Therefore, the null hypothesis is rejected. This implies that perceived risk has an inverse relationship with users' behavioral intention to use the GCash application.
+CONCLUSION
+Based on the indicated findings, the following conclusions were drawn:
+1. The respondents to the study identified perceived usefulness, ease of use, and risk as the primary indicators of adopting the GCASH application.
+2. The findings revealed that the teachers are more likely to adopt the GCASH application when it is useful and easy for them to use and has a lower risk of harming their finances and personal information.
+The result of the correlation between the perceived usefulness, ease of use, and risk of using GCASH and the intention of the users to adopt the GCASH application is that there is a relationship between the two variables, both positive and negative.
+4. Among the three indicating variables of the technology acceptance model, perceived risk has the most significant relationship with the intention of the users to adopt the GCASH application.
+The research suggests a positive correlation between user trust in a system's security and their willingness to adopt that system. This finding aligns with the Technology Acceptance Model (TAM), which emphasizes perceived risk as a key factor influencing technology adoption. In the context of this study, teachers were more likely to adopt the GCash application when they perceived a low risk of financial or personal information loss.
+
+RECOMMENDATIONS
+
+This study showed the importance of the user's perceived risk of using a new technology, specifically the GCASH application. Thus, the following recommendations are presented:
+1. Since the study found that users put a higher value on the perceived risk of using GCASH, GCASH might prioritize user education campaigns to address concerns about security measures and potential threats.
+2. The platform can look into new features that boost user confidence and trust in the app's security.
+3. Additional study could provide insight into user experiences with various GCASH features and suggest areas for development to increase overall user satisfaction and adoption.`,
+    thumbnail: "ABM.jpg",
+    pdfUrl: "/",
+  },
+  {
+    id: "abm-08",
+    title: "CORRELATION OF FREQUENT EXPOSURE TO TIKTOK AFFILIATE MARKETING CONTENT TO THE PURCHASING INTENT OF GRADE 12 ACCOUNTANCY, BUSINESS, AND MANAGEMENT STUDENTS OF ANSELMO A. SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL ",
+    authors: ["Bonado, Czarina Xyre St"," Borinaga, Akari"," Calmateo, Anjela Mo"," Manalo, Veronica B"," Mañibo, Mark Peter Di"," Meñibo, Melanie Ma","Moreno, Angelika La"," Ybañez, Jian"," Gil, Temoteo St"],
+    year: "May 2024",
+    strand: "ABM",
+    abstract:
+      `A Thesis Presented to The Faculty of the Senior High School Department ANSELMO A, SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL P. Balibaguhen, Mabini Batangas
+       In Partial Fulfillment of the Requirements for Inquiries, Investigations and Immersion
+       
+SUMMARY OF FINDINGS, CONCLUSIONS and RECOMMENDATIONS
+This chapter presents the summary of findings, conclusion, and recommendations of the study.
+
+Summary of Findings
+The research findings rejects the null hypothesis therefore it reveals a significant correlation between frequent exposure to Tik Tok affiliate marketing content and the purchasing intent of Grade 12 students. Despite a low positive correlation, the effects of frequent exposure to such content on purchasing intent were evident, with students reported being influenced by such content, showing a likelihood of considering promoted products, exploring featured items, and trusting recommendations This underscores the substantial impact of TikTok affiliate marketing content on consumer behavior among students. These findings highlight the importance of targeted marketing strategies on social media platforms especially like TikTok to effectively engage and influence young consumers. This suggests that TikTok affiliate marketing has a notable influence on student purchasing intentions, emphasizing the importance of tailored marketing strategies for engaging young demographics. Overall, the findings of this study arrived at a decision to reject the null hypothesis, wherein it states that there is no significant relationship between the exposure frequency to Tik Tok Affiliate Marketing content and the purchasing intent of the students.
+
+Conclusions
+Therefore, based on our findings, we conclude that there exists a significant relationship between the exposure frequency of TikTok Affiliate Marketing content and the purchasing intent of the students. While the research identifies a low positive correlation, it highlights the considerable impact that frequent exposure to such
+content has on their purchasing intent. The results affirm the influential role of TikTok affiliate marketing on students' purchasing intentions.
+
+Recommendations
+Drawing from these findings, it's suggested that marketers tap into the power of TikTok affiliate marketing to connect more effectively with the younger demographic. Creating Tik Tok Affiliate Marketing content that's both engaging and authentic can boost brand visibility and sway purchasing choices. While the correlation is statistically significant, indicating a measurable impact of exposure frequency on purchasing intent, the underlying mechanisms at play in TikTok affiliate marketing. Future research endeavors could delve into qualitative aspects such as the quality of content, methods of engaging the audience, and the credibility of promotions to gain a comprehensive understanding of how TikTok affiliate marketing, particularly in terms of exposure frequency, influences consumers' purchasing intent.`,
+    thumbnail: "ABM.jpg",
+    pdfUrl: "/",
+  },
+  {
+    id: "abm-09",
+    title: "PEER INFLUENCE ACROSS THE PERCEPTION OF GRADE 12 ABM STUDENTS ON PURCHASING SKINCARE PRODUCTS THROUGH ONLINE & PHYSICAL STORE",
+    authors: ["Adarlo, Vincent Wayde Pa"," Inamac, Erron"," Alegarbis, Kayla As"," Belale, Allianah Ca"," Del Mundo, Ola Monica Ma"," Flordeliz, Princess Fabie A."," Soriano, Jeanrose"," Villanueva, Lea Camille G"],
+    year: "May 2024",
+    strand: "ABM",
+    abstract:
+      `A Thesis Presented to The Faculty of the Senior High School Department ANSELMO A, SANDOVAL MEMORIAL NATIONAL HIGH SCHOOL P. Balibaguhen, Mabini Batangas
+       In Partial Fulfillment of the Requirements for Inquiries, Investigations and Immersion
+       
+CHAPTER V
+
+SUMMARY OF FINDINGS, CONCLUSIONS and RECOMMENDATIONS
+This chapter presents the summary of findings, conclusion and recommendations of the study
+
+Summary of Findings
+The findings of this study is summarized according to the statements of the problem stated at Chapter 1.
+1. Customers Skincare Perception
+According to the data collected from the respondents to the study the average weighted mean of 3.84, indicating that they strongly prefer to value effectiveness over brand popularity when choosing skincare products. Their preference is supported by their weighted mean score of 3.72, which places them only behind in terms of how essential it is keeping a good skincare routine for healthy skin. Grade 12 ABM students regard pricing significantly lower, as evidenced average weighted mean of 3.44, despite their confidence in choosing items adapted to their needs.
+2. Peer Influence on Purchases in Online Settings:
+2.1 Influence of Online Reviews
+Online reviews from individuals of their age wield significant influence over Grade 12 ABM students' skincare product purchases, rank weighted mean of 3.24.
+2.2 Trust in Influencers and Friends Skincare product recommendations from social media influencers are highly trusted by these students, closely followed by recommendations from friends, rank weighted mean of 3.08.
+2.3 Friend Recommendations for Online Stores
+Grade 12 ABM students commonly rely on recommendations from friends for online stores where skincare products can be purchased, rank weighted mean of 2.92.
+2.4 Peer Influence through Posts
+Through friends' posts about skincare products also holds sway in the decision-making process of Grade 12 ABM students, rank weighted mean of 2.68.
+2.5 Pressure to Buy Trending Products
+Feeling pressured to purchase trending skincare products due to friends' usage is evident, it holds less impact, rank weighted mean of 2.56
+3. Peer Influence on Purchases in Physical Store:
+3.1 Comfort in Physical Store Trials
+Grade 12 ABM students prioritize trying out skincare products in physical stores over online recommendations.
+3.2 Influence from Friends Peer influence from friends to explore different skincare brands in physical stores holds significant weight among these students.
+3.3 Comparison Practices
+Comparing skincare products used by friends with available options in physical stores is a common practice among Grade 12 ABM students.
+3.4 Trust
+Salesperson recommendations in physical stores surpasses friends' online recommendations, ranking fourth with a weighted mean of 2.76.
+3.5 Pressure in Purchase
+Buying more expensive products in physical stores is observed among Grade 12 ABM students, it ranks fifth with a weighted mean of 2.44, indicating it's less prevalent compared to other influences.
+
+Conclusions
+
+Based on the findings, the following conclusions were drawn:
+1. The majority of respondents prioritize skincare product effectiveness over brand popularity and believe in the importance of maintaining healthy skin through a good skincare routine. They also tend to research products online before making a purchase.
+2. Peer influence plays a crucial role in their decision-making process, with online reviews from people of their age having the most impact.They trust skincare recommendations from social media influencers followed by their friends, and they feel pressured to buy trending products due to peer influence. In physical stores, respondents feel more comfortable trying out products before buying them, even if their friends recommend something online. Peer influence also encourages them to explore different brands in physical stores and compare products their friends use with those available.
+3. When comparing online and physical stores, respondents feel more confident making independent decisions in physical stores. However, peer influence seems to play a similar role in both shopping environments. The study provides valuable information for understanding customers' skincare perceptions and the factors that impact their purchasing decisions, which can be useful for businesses and marketers in the skincare industry.
+
+Recommendations
+This study provides valuable insights into the dynamics of peer influence on the purchasing perception of adolescents regarding skincare products. Thus, the following recommendations are provided
+1. Surround yourself with positive role models who exhibit valuesand behaviors that align with your own beliefs.
+2. Encourage individuals to seek support from trusted adults or mentors when faced with conflicting perceptions from peers and to embrace their uniqueness and not feel pressured to conform to the perceptions of others.
+3. Promote self-awareness to help individuals understand their own values, beliefs, and motivations, which can reduce susceptibility to negative peer influence.
+4. Educators should design programs that promote critical thinking and responsible decision-making among students, helping them navigate peer influence in consumer behavior to form their own opinions rather than blindly following peers.
+5. Marketers should leverage peer influence in their marketing strategies, particularly on online platforms where peer recommendations hold significant weight.
+6. Parents should foster an open conversations with their child about consumer behavior and peer influence, empowering them to make informed and responsible purchasing de`,
+    thumbnail: "ABM.jpg",
+    pdfUrl: "/",
+  },
+  {
     id: "pbm-01",
     title: "TRANSFORMING SALINE WATER INTO A SUSTAINABLE FRESHWATER RESOURCE: A PROCESS BENEFICIAL TO MARINERS ONBOARD",
     authors: [
