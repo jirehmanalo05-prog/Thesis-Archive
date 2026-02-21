@@ -2,7 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 
 const stats = [
-  { label: "Theses", value: "75" },
+  { label: "Theses", value: "79" },
   { label: "Strands", value: "8" },
   { label: "Access", value: "Free" },
 ];
